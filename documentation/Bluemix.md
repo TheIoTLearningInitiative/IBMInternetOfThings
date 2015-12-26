@@ -105,6 +105,7 @@ __Boilerplates__ Get started with a new app, now
 
 ## Cloud Foundry CLI
 
+https://github.com/cloudfoundry/cli#downloads
 
 
 ## Links
