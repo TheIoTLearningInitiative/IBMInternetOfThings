@@ -15,7 +15,6 @@
 - Data & Analytics
 - Services & APIs
 
-
 ## Bluemix Catalog
 
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
