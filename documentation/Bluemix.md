@@ -21,7 +21,6 @@
 
 https://console.ng.bluemix.net/catalog/
 
-
 ## Links
 
 - [Bluemix Docs](https://www.ng.bluemix.net/docs/#)
