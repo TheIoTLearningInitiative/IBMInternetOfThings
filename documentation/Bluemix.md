@@ -32,8 +32,9 @@ You will find the following components:
 
 ### Starters
 
-> Starters // Choose a package of sample code and services, or start from scratch
-> Boilerplates. Get started with a new app, now
+> __Starters__ // Choose a package of sample code and services, or start from scratch
+
+> __Boilerplates__ Get started with a new app, now
 
 ### Compute
 
