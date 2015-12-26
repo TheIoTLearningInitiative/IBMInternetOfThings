@@ -4,15 +4,6 @@
 
 - Go to [IBM Bluemix Console](https://console.ng.bluemix.net/)
 - Sign Up
-
-The following documents will be showed
-
-- [Bluemix Docs](https://www.ng.bluemix.net/docs/#)
-- [Create a Simple 'To Do' App with Bluemix](https://github.com/IBM-Bluemix/todo-apps)
-- [Port an iOS App from Objective-C to Swift](http://www.ibm.com/developerworks/library/mo-bluemix-swift-app/index.html)
-- [Deploy a 'Hello World' Python Flask App in Bluemix](https://developer.ibm.com/bluemix/2015/03/30/simple-hello-world-python-app-using-flask/)
-- [Connect an MySQL Database on Bluemix from a Node.js App](https://github.com/ibmjstart/bluemix-node-mysql-uploader)
-
 - Validate Email Address
 - Welcome to [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)!
 
@@ -31,3 +22,12 @@ You will
 Bluemix Catalog
 
 https://console.ng.bluemix.net/catalog/
+
+
+## Links
+
+- [Bluemix Docs](https://www.ng.bluemix.net/docs/#)
+- [Create a Simple 'To Do' App with Bluemix](https://github.com/IBM-Bluemix/todo-apps)
+- [Port an iOS App from Objective-C to Swift](http://www.ibm.com/developerworks/library/mo-bluemix-swift-app/index.html)
+- [Deploy a 'Hello World' Python Flask App in Bluemix](https://developer.ibm.com/bluemix/2015/03/30/simple-hello-world-python-app-using-flask/)
+- [Connect an MySQL Database on Bluemix from a Node.js App](https://github.com/ibmjstart/bluemix-node-mysql-uploader)
