@@ -5,7 +5,7 @@
 - Go to [IBM Bluemix Console](https://console.ng.bluemix.net/)
 - Sign Up
 
-The following documents 
+The following documents will be showed
 
 - [Bluemix Docs](https://www.ng.bluemix.net/docs/#)
 - [Create a Simple 'To Do' App with Bluemix](https://github.com/IBM-Bluemix/todo-apps)
