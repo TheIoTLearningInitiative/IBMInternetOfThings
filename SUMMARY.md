@@ -2,6 +2,6 @@
 
 * [Cover](README.md)
 * [Introduction](Introduction.md)
-* [NodeRED](NodeRED.md)
+* [NodeRED](documentation/NodeRED.md)
 * [Bluemix](documentation/Bluemix.md)
 
