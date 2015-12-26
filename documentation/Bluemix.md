@@ -96,6 +96,10 @@ __Boilerplates__ Get started with a new app, now
 
 - [Internet of Things Workbench Homepage](https://console.ng.bluemix.net/catalog/services/internet-of-things-workbench/)
 
+## Exercise
+
+     # pip install ibmiotf
+
 ## Links
 
 - [Bluemix Docs](https://www.ng.bluemix.net/docs/#)
