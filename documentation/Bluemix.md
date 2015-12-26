@@ -98,7 +98,10 @@ __Boilerplates__ Get started with a new app, now
 
 ## Exercise
 
-     # pip install ibmiotf
+```sh
+    # pip install ibmiotf
+    
+```
 
 ## Links
 
