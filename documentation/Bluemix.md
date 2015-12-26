@@ -48,6 +48,7 @@ __Boilerplates__ Get started with a new app, now
 > __Services__ // The building blocks of any great app
 
 - __Watson__ Build cognitive apps that help enhance, scale, and accelerate human expertise
+- __Mobile__ Quickly get started with your next app
 
 ## Links
 
