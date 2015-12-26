@@ -20,6 +20,7 @@
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
 - [Bluemix Catalog](https://console.ng.bluemix.net/catalog/)
+- 
 
 ## Links
 
