@@ -38,7 +38,9 @@ You will find the following components:
 
 ### Compute
 
-> 
+> __Compute__ // Start with Cloud Foundry or Docker images
+
+> __Runtimes__ Run an app in the language of your choice
 
 ## Links
 
