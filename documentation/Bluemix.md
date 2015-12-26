@@ -98,7 +98,7 @@ __Boilerplates__ Get started with a new app, now
 
 > IBM Internet of Things Workbench is a service for designing, constructing and simulating Internet of Things systems consisting of devices, cloud services and clients. At this point it is provided as an experimental service which focuses on visual design using diagrams and rapid simulation of multiple devices over IBM Internet of Things Foundation as well as generic message brokers such as IBM Message Sight. Internet of Things Workbench generates Node.js and Node-RED application for the cloud services (applications) on top of IBM Bluemix, as well as simulated devices and clients using Javascript.
 
-- [Internet of Things Workbench ](https://console.ng.bluemix.net/catalog/services/internet-of-things-workbench/)
+- [Internet of Things Workbench Homepage](https://console.ng.bluemix.net/catalog/services/internet-of-things-workbench/)
 
 ## Links
 
