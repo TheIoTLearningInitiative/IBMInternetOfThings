@@ -21,10 +21,9 @@
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
 
-- __Bluemix Labs Catalog__ > Attention: Experimental runtimes and services might be unstable or change frequently, and might be discontinued at short notice.
-- 
+- [Bluemix Labs Catalog Homepage](https://console.ng.bluemix.net/catalog/labs/) > Attention: Experimental runtimes and services might be unstable or change frequently, and might be discontinued at short notice.
+- __
 
-[Bluemix Labs Catalog Homepage](https://console.ng.bluemix.net/catalog/labs/)
 
 
 ## Bluemix Catalog
