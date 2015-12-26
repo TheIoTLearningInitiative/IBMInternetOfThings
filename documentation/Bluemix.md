@@ -30,10 +30,12 @@ You will find the following components:
 - Services
 - Providers
 
-## Starters
+### Starters
 
 > Starters // Choose a package of sample code and services, or start from scratch
 > Boilerplates. Get started with a new app, now
+
+### Compute
 
 ## Links
 
