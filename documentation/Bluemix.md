@@ -21,7 +21,7 @@
 
 [Bluemix Catalog](https://console.ng.bluemix.net/catalog/)
 
-
+You will find the following components:
 
 - Starters
 - Compute
