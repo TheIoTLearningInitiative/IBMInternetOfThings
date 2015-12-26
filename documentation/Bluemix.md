@@ -15,23 +15,16 @@
 - Data & Analytics
 - Services & APIs
 
-## Bluemix Labs Catalog
-
-> Attention: Experimental runtimes and services might be unstable or change frequently, and might be discontinued at short notice.
-
-[Bluemix Labs Catalog Homepage](https://console.ng.bluemix.net/catalog/labs/)
-
-### Services
-
-> 
-
-- __Internet of Things Workbench__ A new generation of applications
 
 ## Bluemix Catalogs
 
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
 
+- __Bluemix Labs Catalog__ > Attention: Experimental runtimes and services might be unstable or change frequently, and might be discontinued at short notice.
+- 
+
+[Bluemix Labs Catalog Homepage](https://console.ng.bluemix.net/catalog/labs/)
 
 
 ## Bluemix Catalog
