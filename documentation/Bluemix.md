@@ -62,7 +62,6 @@ __Boilerplates__ Get started with a new app, now
   - IoT Real-Time Insights IBM
   - flowthings.io Third Party
 
-
 ## Links
 
 - [Bluemix Docs](https://www.ng.bluemix.net/docs/#)
