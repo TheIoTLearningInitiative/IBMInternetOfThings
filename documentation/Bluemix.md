@@ -81,6 +81,7 @@ __Boilerplates__ Get started with a new app, now
 > The IBM IoT Real-Time Insights services allows you to understand IoT data in context and monitor the conditions of your devices and operations. IoT Real-Time Insights works with Internet of Things Foundation to enrich and monitor data from you devices, visualize what’s happening now, and respond to emerging conditions through automated actions.
 
 - [IoT Real-Time Insights Homepage](https://console.ng.bluemix.net/catalog/services/iot-real-time-insights/)
+- [IoT Real-Time Insights Getting Started](http://www.ng.bluemix.net/docs/services/iotrtinsights/index.html)
 
 ### flowthings.io
 
