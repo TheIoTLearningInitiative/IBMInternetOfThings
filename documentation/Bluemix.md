@@ -24,3 +24,5 @@ Components
 Dashboard
 
 - [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)
+
+    You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
