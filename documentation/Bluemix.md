@@ -5,6 +5,7 @@
 - Go to [IBM Bluemix Console](https://console.ng.bluemix.net/)
 - Sign Up
 - Validate Email Address
+- Welcome to IBM Bluemix
 
 The following documents 
 
@@ -14,15 +15,15 @@ The following documents
 - [Deploy a 'Hello World' Python Flask App in Bluemix](https://developer.ibm.com/bluemix/2015/03/30/simple-hello-world-python-app-using-flask/)
 - [Connect an MySQL Database on Bluemix from a Node.js App](https://github.com/ibmjstart/bluemix-node-mysql-uploader)
 
-Components
+Dashboard Components
 
+You will 
+    
 - Cloud Foundry Apps
 - Containers
 - Virtual Machines
 - Data & Analytics
 - Services & APIs
-
-Dashboard
 
 - [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)
 
