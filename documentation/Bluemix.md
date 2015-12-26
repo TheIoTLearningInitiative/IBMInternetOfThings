@@ -15,9 +15,10 @@
 - Data & Analytics
 - Services & APIs
 
-    You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
-Bluemix Catalog
+## Bluemix Catalog
+
+> You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
 https://console.ng.bluemix.net/catalog/
 
