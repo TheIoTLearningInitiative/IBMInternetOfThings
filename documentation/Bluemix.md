@@ -50,6 +50,7 @@ __Boilerplates__ Get started with a new app, now
 - __Watson__ Build cognitive apps that help enhance, scale, and accelerate human expertise
 - __Mobile__ Quickly get started with your next app
 - __DevOps__ From development to deployment
+- __Web and Application__ Deliver new web and mobile apps
 
 
 ## Links
