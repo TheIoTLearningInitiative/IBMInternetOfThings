@@ -59,7 +59,8 @@ __Boilerplates__ Get started with a new app, now
 - __Business Analytics__ Powerful analytics made easy
 - __Internet of Things__ A new generation of applications
   - Internet of Things Foundation IBM 
-  - IoT Real-Time Insights
+  - IoT Real-Time Insights IBM
+  - flowthings.io Third Party
 
 
 ## Links
