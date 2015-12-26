@@ -5,7 +5,7 @@
 - Go to [IBM Bluemix Console](https://console.ng.bluemix.net/)
 - Sign Up
 - Validate Email Address
-- Welcome to IBM Bluemix
+- Welcome to [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)!
 
 The following documents 
 
@@ -24,8 +24,6 @@ You will
 - Virtual Machines
 - Data & Analytics
 - Services & APIs
-
-- [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)
 
     You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
