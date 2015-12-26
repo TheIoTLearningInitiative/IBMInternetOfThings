@@ -76,6 +76,10 @@ __Boilerplates__ Get started with a new app, now
 
 - [IoT Real-Time Insights Homepage](https://console.ng.bluemix.net/catalog/services/iot-real-time-insights/)
 
+### flowthings.io
+
+> flowthings.io empowers any developer or organization to leverage the growing instrumentation of the physical world (aka, the Internet of Things) in order to build solutions that surprise with their intelligence, contextual awareness, and effectiveness in operations and user experiences.
+
 ## Links
 
 - [Bluemix Docs](https://www.ng.bluemix.net/docs/#)
