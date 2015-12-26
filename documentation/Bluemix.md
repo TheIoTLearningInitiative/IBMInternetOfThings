@@ -18,4 +18,5 @@ Components
 - Cloud Foundry Apps
 - Containers
 - Virtual Machines
+- Data & Analytics
 - 
