@@ -34,13 +34,14 @@ You will find the following components:
 
 > __Starters__ // Choose a package of sample code and services, or start from scratch
 
-> __Boilerplates__ Get started with a new app, now
+__Boilerplates__ Get started with a new app, now
 
 ### Compute
 
 > __Compute__ // Start with Cloud Foundry or Docker images
 
-> __Runtimes__ Run an app in the language of your choice
+
+__Runtimes__ Run an app in the language of your choice
 
 
 
