@@ -19,7 +19,7 @@
 
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
-- [Bluemix Catalog](https://console.ng.bluemix.net/catalog/)
+[Bluemix Catalog](https://console.ng.bluemix.net/catalog/)
 
 - Starters
 - Compute
@@ -28,6 +28,7 @@
 
 ## Starters
 
+> Starters//Choose a package of sample code and services, or start from scratch
 > Boilerplates. Get started with a new app, now
 
 ## Links
