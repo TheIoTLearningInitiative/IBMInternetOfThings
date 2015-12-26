@@ -19,4 +19,4 @@ Components
 - Containers
 - Virtual Machines
 - Data & Analytics
-- 
+- Services & APIs
