@@ -53,7 +53,7 @@ __Boilerplates__ Get started with a new app, now
 - __Web and Application__ Deliver new web and mobile apps
 - __Network__ Build your cloud networking infrastructure
 - __Integration__ Extend existing investments and infrastructure
-- 
+- __Data and Analytics__ Essential data services; limitless possibilities
 
 
 ## Links
