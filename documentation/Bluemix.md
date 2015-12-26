@@ -22,11 +22,13 @@
 - [Bluemix Catalog](https://console.ng.bluemix.net/catalog/)
 
 - Starters
-  -  
 - Compute
 - Services
 - Providers
 
+## Starters
+
+> Boilerplates. Get started with a new app, now
 
 ## Links
 
