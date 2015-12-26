@@ -11,3 +11,4 @@
     # apt-get install nodejs-legacy
     $ node-red
 ```
+
