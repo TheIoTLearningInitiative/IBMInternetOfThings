@@ -2,16 +2,12 @@
 
 ## Signup
 
-Bluemix Console
-
 - Go to [IBM Bluemix Console](https://console.ng.bluemix.net/)
 - Sign Up
 - Validate Email Address
 - Welcome to [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)!
 
 ### Dashboard Components
-
-You will 
     
 - Cloud Foundry Apps
 - Containers
