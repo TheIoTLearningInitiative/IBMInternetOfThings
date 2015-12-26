@@ -20,3 +20,7 @@ Components
 - Virtual Machines
 - Data & Analytics
 - Services & APIs
+
+Dashboard
+
+ [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)
