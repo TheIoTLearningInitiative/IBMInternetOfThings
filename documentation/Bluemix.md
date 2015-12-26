@@ -21,7 +21,7 @@
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
 - [Bluemix Labs Catalog Homepage](https://console.ng.bluemix.net/catalog/labs/) Attention: Experimental runtimes and services might be unstable or change frequently, and might be discontinued at short notice.
-- [Bluemix Labs Catalog Homepage](https://console.ng.bluemix.net/catalog/) Production
+- [Bluemix Catalog Homepage](https://console.ng.bluemix.net/catalog/) Production
 
 ## Bluemix Catalog
 
