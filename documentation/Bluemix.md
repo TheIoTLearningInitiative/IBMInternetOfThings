@@ -21,6 +21,10 @@
 
 [Bluemix Labs Catalog Homepage](https://console.ng.bluemix.net/catalog/labs/)
 
+### Services
+
+- __Internet of Things__ A new generation of applications
+
 ## Bluemix Catalog
 
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
