@@ -6,7 +6,7 @@
 - Sign Up
 - 
 
-[Bluemix Docs]()
+[Bluemix Docs](https://www.ng.bluemix.net/docs/#)
 [Create a Simple 'To Do' App with Bluemix]()
 [Port an iOS App from Objective-C to Swift]()
 [Deploy a 'Hello World' Python Flask App in Bluemix]()
