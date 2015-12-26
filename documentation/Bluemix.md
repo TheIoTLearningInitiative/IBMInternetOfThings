@@ -27,7 +27,7 @@
 
 - __Internet of Things Workbench__ A new generation of applications
 
-## Bluemix Catalog
+## Bluemix Catalogs
 
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
