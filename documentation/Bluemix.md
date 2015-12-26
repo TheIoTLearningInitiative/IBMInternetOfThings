@@ -42,7 +42,7 @@ __Boilerplates__ Get started with a new app, now
 
 
 __Runtimes__ Run an app in the language of your choice
-
+__Container Images__ Create containers from IBM images or add your own.
 
 
 ## Links
