@@ -23,4 +23,4 @@ Components
 
 Dashboard
 
- [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)
+- [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)
