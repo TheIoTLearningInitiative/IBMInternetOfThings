@@ -107,7 +107,6 @@ __Boilerplates__ Get started with a new app, now
 
 https://github.com/cloudfoundry/cli#downloads
 
-
 ## Links
 
 - [Bluemix Docs](https://www.ng.bluemix.net/docs/#)
