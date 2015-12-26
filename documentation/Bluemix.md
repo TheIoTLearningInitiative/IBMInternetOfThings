@@ -19,7 +19,7 @@
 
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
 
-> The Bluemix Catalog lists starters and services that you can choose to implement in your web or mobile apps. A starter is a template that includes predefined
+> The Bluemix Catalog lists starters and services that you can choose to implement in your web or mobile apps. A starter is a template that includes predefined...
 
 [Bluemix Catalog](https://console.ng.bluemix.net/catalog/)
 
