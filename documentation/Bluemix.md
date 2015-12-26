@@ -40,8 +40,8 @@ __Boilerplates__ Get started with a new app, now
 
 > __Compute__ // Start with Cloud Foundry or Docker images
 
-__Runtimes__ Run an app in the language of your choice
-__Container Images__ Create containers from IBM images or add your own.
+- __Runtimes__ Run an app in the language of your choice
+- __Container Images__ Create containers from IBM images or add your own.
 
 ### Services
 
