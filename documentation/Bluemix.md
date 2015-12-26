@@ -49,6 +49,8 @@ __Boilerplates__ Get started with a new app, now
 
 - __Watson__ Build cognitive apps that help enhance, scale, and accelerate human expertise
 - __Mobile__ Quickly get started with your next app
+- __DevOps__ From development to deployment Active Deploy: Update your running apps with zero downtime, or quickly revert to your original version.
+
 
 ## Links
 
