@@ -55,7 +55,7 @@ __Boilerplates__ Get started with a new app, now
 - __Integration__ Extend existing investments and infrastructure
 - __Data and Analytics__ Essential data services; limitless possibilities
 - __Security__ Build security into application design
-- 
+- __Storage__ Reliable, cost-effective cloud data storage
 
 
 ## Links
