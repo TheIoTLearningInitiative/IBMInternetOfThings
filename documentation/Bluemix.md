@@ -2,6 +2,5 @@
 
 ## Bluemix Console
 
-https://console.ng.bluemix.net/
-
-Sign Up
+- Go to [IBM Bluemix Console](https://console.ng.bluemix.net/)
+- Sign Up
