@@ -5,5 +5,5 @@
 * [Bluemix](documentation/Bluemix.md)
 * [NodeRED](documentation/NodeRED.md)
 * [Watson](documentation/Watson.md)
-* Messaging
+* [Messaging](documentation/Messaging.md)
 
