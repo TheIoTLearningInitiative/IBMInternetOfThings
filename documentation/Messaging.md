@@ -22,6 +22,7 @@ Messaging
 - [MQ Light Github](https://github.com/ibm-messaging?utf8=%E2%9C%93&query=mqlight)
 - [MQ Light Presentation](http://www.slideshare.net/nicholsr/ame4181-introducing-mq-light)
 
+### MqLight
 
 ```sh
     # pip install mqlight --pre
