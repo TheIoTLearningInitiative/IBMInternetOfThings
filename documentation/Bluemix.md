@@ -71,7 +71,8 @@ __Boilerplates__ Get started with a new app, now
 
 > Integration and management of cloud-based and on-premises applications and data 
 
-- [Messaging](http://www-03.ibm.com/software/products/en/category/messaging)
+- [IBM Messaging](http://www-03.ibm.com/software/products/en/category/messaging)
+- [IBM Messaging Developer](https://developer.ibm.com/messaging/)
 - [IBM Community around IBM Messaging Products Github](Ihttps://github.com/ibm-messaging)
 
 ## Internet of Things
