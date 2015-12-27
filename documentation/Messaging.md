@@ -36,10 +36,13 @@ Messaging
 ```
 ```python
     import mqlight
+    
     def on_started(err):
       client.subscribe('news/technology', on_message=on_message)
+    
     def on_message(message_type, data, delivery):
       print(data)
+    
     client = mqlight.Client('amqp://localhost',on_started=on_started)
 ```
 ```sh
@@ -47,8 +50,10 @@ Messaging
 ```
 ```python
     import mqlight
+    
     def on_started(err):
       client.send('news/technology', 'Hello World!')
+    
     client = mqlight.Client('amqp://localhost',on_started=on_started)
 ```
 
