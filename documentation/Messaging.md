@@ -32,6 +32,8 @@ Messaging
     ii  libuuid1:amd64           2.20.1-5.1ubuntu2 amd64             Universally Unique ID library
 ```
 
+- [](https://developer.ibm.com/messaging/2015/02/19/getting-started-python-apps-using-mq-light-service-bluemix/)
+
 ## Message Hub
 
 > A scalable, distributed, high throughput message bus in the cloud, available as a fully managed Bluemix service.
