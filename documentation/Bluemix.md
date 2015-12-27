@@ -31,10 +31,10 @@
 
 You will find the following filters:
 
-- Starters
-- Compute
-- Services
-- Providers
+    Starters
+    Compute
+    Services
+    Providers
 
 ### Starters
 
