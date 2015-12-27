@@ -21,6 +21,13 @@ Messaging
 - [MQ Light Getting Started](https://developer.ibm.com/messaging/mq-light/docs/)
 
     # pip install mqlight --pre
+    # dpkg -l libuuid1
+    Desired=Unknown/Install/Remove/Purge/Hold
+    | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+    |/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+    ||/ Name                     Version           Architecture      Description
+    +++-========================-=================-=================-=====================================================
+    ii  libuuid1:amd64           2.20.1-5.1ubuntu2 amd64             Universally Unique ID library
 
 ## Message Hub
 
