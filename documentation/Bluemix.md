@@ -113,15 +113,6 @@ __Boilerplates__ Get started with a new app, now
 
 Follow up this [Turn your phone into an IoT device in under 15 minutes](https://www.youtube.com/watch?v=_Q4GlqAf2m4) Youtube video 
 
-### IBM IoT Foundation Python
-
-
-```sh
-    # pip install ibmiotf
-    
-```
-- [Client libraries and samples for connecting to the IBM Internet of Things Foundation using Python 2.7 or 3.4](https://github.com/ibm-messaging/iot-python)
-
 ## Cloud Foundry CLI
 
 https://github.com/cloudfoundry/cli#downloads
