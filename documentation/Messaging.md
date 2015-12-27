@@ -33,6 +33,7 @@ Messaging
 ```
 
 - [Getting started with Python apps using the MQ Light Service for Bluemix](https://developer.ibm.com/messaging/2015/02/19/getting-started-python-apps-using-mq-light-service-bluemix/)
+- git clone https://github.com/ibm-messaging/mqlight-python-bluemix
 
 ## Message Hub
 
