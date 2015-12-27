@@ -65,6 +65,9 @@ Messaging
 - [MQ Light Python sample for Bluemix](git clone https://github.com/ibm-messaging/mqlight-python-bluemix)
 - [Deploy a sample application in MQLight as a service in Bluemix](https://www.youtube.com/watch?v=iwSh8wGjB20)
 
+### MQ Light Bluemix
+
+
 ## Message Hub
 
 > A scalable, distributed, high throughput message bus in the cloud, available as a fully managed Bluemix service.
