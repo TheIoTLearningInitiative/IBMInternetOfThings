@@ -104,7 +104,6 @@ Follow up this [Turn your phone into an IoT device in under 15 minutes](https://
 
 ```sh
     # pip install ibmiotf
-    
 ```
 
 ## Cloud Foundry CLI
