@@ -30,6 +30,24 @@ Messaging
     ||/ Name                     Version           Architecture      Description
     +++-========================-=================-=================-=====================================================
     ii  libuuid1:amd64           2.20.1-5.1ubuntu2 amd64             Universally Unique ID library
+    
+    # nano mqlightrx.py
+```python
+    import mqlight
+    def on_started(err):
+      client.subscribe('news/technology', on_message=on_message)
+    def on_message(message_type, data, delivery):
+      print(data)
+    client = mqlight.Client('amqp://localhost',on_started=on_started)
+```
+```sh
+    # nano mqlighttx.py
+```
+```python
+    import mqlight
+    def on_started(err):
+      client.send('news/technology', 'Hello World!')
+    client = mqlight.Client('amqp://localhost',on_started=on_started)
 ```
 
 - [Getting started with Python apps using the MQ Light Service for Bluemix](https://developer.ibm.com/messaging/2015/02/19/getting-started-python-apps-using-mq-light-service-bluemix/)
