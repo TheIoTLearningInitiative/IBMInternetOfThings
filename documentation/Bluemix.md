@@ -9,8 +9,6 @@
 
 ### Dashboard Components
 
-
-
 - Cloud Foundry Apps
 - Containers
 - Virtual Machines
