@@ -20,7 +20,7 @@ Messaging
 - [MQ Light Homepage](https://developer.ibm.com/messaging/mq-light/)
 - [MQ Light Getting Started](https://developer.ibm.com/messaging/mq-light/docs/)
 
-
+```sh
     # pip install mqlight --pre
     # dpkg -l libuuid1
     Desired=Unknown/Install/Remove/Purge/Hold
@@ -29,6 +29,7 @@ Messaging
     ||/ Name                     Version           Architecture      Description
     +++-========================-=================-=================-=====================================================
     ii  libuuid1:amd64           2.20.1-5.1ubuntu2 amd64             Universally Unique ID library
+```
 
 ## Message Hub
 
