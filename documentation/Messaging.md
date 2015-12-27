@@ -3,7 +3,12 @@ Messaging
 
 > Integration and management of cloud-based and on-premises applications and data 
 
-- __MQ Light__ Messaging API for application developers, based on the open AMQP standard. Clients available in node.js, Ruby, Python and Java. 
+- __MQ Light__ Messaging API for application developers, based on the open AMQP standard. Clients available in node.js, Ruby, Python and Java
+- __Message Hub__ Messaging solution in IBM’s Bluemix cloud platform, based on Apache Kafka. Deploy as part of a cloud solution to build messaging into your apps.
+- __IBM MQ__ Run your enterprise messaging backbone with IBM MQ: our most powerful tools to maximise the speed and reliability of your business’ messaging.
+
+
+
 
 - [IBM Messaging](http://www-03.ibm.com/software/products/en/category/messaging)
 - [IBM Messaging Developer](https://developer.ibm.com/messaging/)
