@@ -30,7 +30,8 @@ Messaging
     ||/ Name                     Version           Architecture      Description
     +++-========================-=================-=================-=====================================================
     ii  libuuid1:amd64           2.20.1-5.1ubuntu2 amd64             Universally Unique ID library
-    
+```
+```sh
     # nano mqlightrx.py
 ```
 ```python
