@@ -24,6 +24,10 @@ Messaging
 
 ### MQ Light Applications
 
+- [Getting started with Python apps using the MQ Light Service for Bluemix](https://developer.ibm.com/messaging/2015/02/19/getting-started-python-apps-using-mq-light-service-bluemix/)
+- [MQ Light Python sample for Bluemix](git clone https://github.com/ibm-messaging/mqlight-python-bluemix)
+- [Deploy a sample application in MQLight as a service in Bluemix](https://www.youtube.com/watch?v=iwSh8wGjB20)
+
 ```sh
     # pip install mqlight --pre
     # dpkg -l libuuid1
@@ -59,10 +63,6 @@ Messaging
     
     client = mqlight.Client('amqp://localhost',on_started=on_started)
 ```
-
-- [Getting started with Python apps using the MQ Light Service for Bluemix](https://developer.ibm.com/messaging/2015/02/19/getting-started-python-apps-using-mq-light-service-bluemix/)
-- [MQ Light Python sample for Bluemix](git clone https://github.com/ibm-messaging/mqlight-python-bluemix)
-- [Deploy a sample application in MQLight as a service in Bluemix](https://www.youtube.com/watch?v=iwSh8wGjB20)
 
 ### MQ Light Bluemix
 
