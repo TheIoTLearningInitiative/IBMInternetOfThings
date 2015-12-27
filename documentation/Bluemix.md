@@ -102,7 +102,7 @@ __Boilerplates__ Get started with a new app, now
 
 Follow up this [Turn your phone into an IoT device in under 15 minutes](https://www.youtube.com/watch?v=_Q4GlqAf2m4) Youtube video 
 
-### IBM IoT Python
+### IBM IoT Foundation Python
 
 
 ```sh
