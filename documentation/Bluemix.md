@@ -98,8 +98,7 @@ __Boilerplates__ Get started with a new app, now
 
 ### Hands-On
 
-### IBM IoT Foundation Python
-
+#### IBM IoT Foundation Python
 
 ```sh
     # pip install ibmiotf
