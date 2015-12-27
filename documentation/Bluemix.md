@@ -15,7 +15,6 @@
 - Data & Analytics
 - Services & APIs
 
-
 ## Bluemix Catalogs
 
 > You haven't created anything yet. Create an app or browse the Bluemix Catalog to get started.
@@ -67,6 +66,10 @@ __Boilerplates__ Get started with a new app, now
   - Internet of Things Foundation IBM 
   - IoT Real-Time Insights IBM
   - flowthings.io Third Party
+
+## IBM Messaging
+
+https://github.com/ibm-messaging
 
 ## Internet of Things
 
