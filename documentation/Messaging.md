@@ -21,4 +21,6 @@ Messaging
 
 ## Message Hub
 
+> A scalable, distributed, high throughput message bus in the cloud, available as a fully managed Bluemix service.
+
 - [IBM Developer Works Message Hub Homepage](https://developer.ibm.com/messaging/message-hub/)
