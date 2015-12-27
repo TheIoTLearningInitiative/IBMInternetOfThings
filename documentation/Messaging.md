@@ -7,7 +7,6 @@ Messaging
 - __Message Hub__ Messaging solution in IBM’s Bluemix cloud platform, based on Apache Kafka. Deploy as part of a cloud solution to build messaging into your apps.
 - __IBM MQ__ Run your enterprise messaging backbone with IBM MQ: our most powerful tools to maximise the speed and reliability of your business’ messaging.
 
-
 - [IBM Messaging](http://www-03.ibm.com/software/products/en/category/messaging)
 - [IBM Messaging Developer](https://developer.ibm.com/messaging/)
 - [IBM Messaging Developer Blogs](https://developer.ibm.com/messaging/blogs/)
