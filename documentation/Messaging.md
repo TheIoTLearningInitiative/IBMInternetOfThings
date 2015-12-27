@@ -19,7 +19,7 @@ Messaging
 
 - [IBM Developer Works MQ Light Homepage](https://developer.ibm.com/messaging/mq-light/)
 
-    user@board: pip install mqlight --pre
+    user@board pip install mqlight --pre
 
 ## Message Hub
 
