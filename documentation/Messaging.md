@@ -58,6 +58,8 @@ Messaging
     # nano mqlighttx.py
 ```
 ```python
+    #!/usr/bin/python
+    
     import mqlight
     
     def on_started(err):
