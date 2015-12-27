@@ -13,7 +13,7 @@ Messaging
 - [IBM Messaging Developer Blogs](https://developer.ibm.com/messaging/blogs/)
 - [IBM Community around IBM Messaging Products Github](Ihttps://github.com/ibm-messaging)
 
-## MQ
+## MQ Light
 
 > IBM MQ Light A simple yet powerful AMQP based messaging API. Write apps that run locally, in the cloud, or alongside IBM MQ.
 
