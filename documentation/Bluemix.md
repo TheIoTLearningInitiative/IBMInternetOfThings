@@ -69,7 +69,7 @@ __Boilerplates__ Get started with a new app, now
 
 ## IBM Messaging
 
-https://github.com/ibm-messaging
+- [](Ihttps://github.com/ibm-messaging)
 
 ## Internet of Things
 
