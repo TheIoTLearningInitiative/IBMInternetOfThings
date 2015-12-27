@@ -20,6 +20,7 @@ Messaging
 - [MQ Light Homepage](https://developer.ibm.com/messaging/mq-light/)
 - [MQ Light Getting Started](https://developer.ibm.com/messaging/mq-light/docs/)
 - [MQ Light Github](https://github.com/ibm-messaging?utf8=%E2%9C%93&query=mqlight)
+- [MQ Light Presentation](http://www.slideshare.net/nicholsr/ame4181-introducing-mq-light)
 
 
 ```sh
