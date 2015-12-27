@@ -1,5 +1,5 @@
 Watson
 ==
 
-http://www.ibm.com/internet-of-things/index.html
+- [IBM Watson](http://www.ibm.com/internet-of-things/index.html)
 
