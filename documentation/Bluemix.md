@@ -98,6 +98,10 @@ __Boilerplates__ Get started with a new app, now
 
 ## Exercise
 
+### Turn Your Phone into an IoT Device
+
+Follow up this [Turn your phone into an IoT device in under 15 minutes ](https://www.youtube.com/watch?v=_Q4GlqAf2m4) Youtube video 
+
 ```sh
     # pip install ibmiotf
     
