@@ -4,5 +4,5 @@
 * [Introduction](Introduction.md)
 * [Bluemix](documentation/Bluemix.md)
 * [NodeRED](documentation/NodeRED.md)
-* Watson
+* [Watson](documentation/Watson.md)
 
