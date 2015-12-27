@@ -18,3 +18,7 @@ Messaging
 > IBM MQ Light A simple yet powerful AMQP based messaging API. Write apps that run locally, in the cloud, or alongside IBM MQ.
 
 - [IBM Developer Works MQ Light Homepage](https://developer.ibm.com/messaging/mq-light/)
+
+## Message Hub
+
+- [IBM Developer Works Message Hub Homepage](https://developer.ibm.com/messaging/message-hub/)
