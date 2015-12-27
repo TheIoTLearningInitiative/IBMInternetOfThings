@@ -61,7 +61,7 @@ Messaging
 
 - [Getting started with Python apps using the MQ Light Service for Bluemix](https://developer.ibm.com/messaging/2015/02/19/getting-started-python-apps-using-mq-light-service-bluemix/)
 - [MQ Light Python sample for Bluemix](git clone https://github.com/ibm-messaging/mqlight-python-bluemix)
-- [](https://www.youtube.com/watch?v=iwSh8wGjB20)
+- [Deploy a sample application in MQLight as a service in Bluemix ](https://www.youtube.com/watch?v=iwSh8wGjB20)
 
 ## Message Hub
 
