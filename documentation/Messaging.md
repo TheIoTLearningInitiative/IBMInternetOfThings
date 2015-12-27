@@ -42,7 +42,6 @@ Messaging
     # nano mqlightrx.py
 ```
 ```python
-
     #!/usr/bin/python
     
     import mqlight
