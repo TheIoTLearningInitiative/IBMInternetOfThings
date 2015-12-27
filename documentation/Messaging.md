@@ -19,6 +19,8 @@ Messaging
 
 - [IBM Developer Works MQ Light Homepage](https://developer.ibm.com/messaging/mq-light/)
 
+    user@board: pip install mqlight --pre
+
 ## Message Hub
 
 > A scalable, distributed, high throughput message bus in the cloud, available as a fully managed Bluemix service.
