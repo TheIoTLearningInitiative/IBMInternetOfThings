@@ -19,3 +19,5 @@ Internet of Things Topography
 
 
 ## developerWorks
+
+> __Learn__ Grow your skills with how-to tutorials and courses on IBM tools and open standards technologies for all phases of your app development lifecycle.
