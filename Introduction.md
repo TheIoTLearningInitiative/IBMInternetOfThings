@@ -22,4 +22,6 @@ Internet of Things Topography
 
 > __Learn__ Grow your skills with how-to tutorials and courses on IBM tools and open standards technologies for all phases of your app development lifecycle.
 
-> 
+> __Develop__ Start building and deploying great apps now using our product trials, free downloads, and cloud services.
+
+> __Connect__ Make connections, get answers, and interact with IBM experts and developers like you in our Developer Centers, forums, and blogs.
