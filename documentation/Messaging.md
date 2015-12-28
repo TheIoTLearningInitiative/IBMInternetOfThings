@@ -10,6 +10,7 @@ Messaging
 - [IBM Messaging](http://www-03.ibm.com/software/products/en/category/messaging)
 - [IBM Messaging Developer](https://developer.ibm.com/messaging/)
 - [IBM Messaging Developer Blogs](https://developer.ibm.com/messaging/blogs/)
+- [IBM Messaging Community](http://ibmmessaging.notlong.com)
 - [IBM Community around IBM Messaging Products Github](Ihttps://github.com/ibm-messaging)
 - [IBM Messaging Youtube](https://www.youtube.com/user/IBMmessagingMedia?feature=watch)
 - [IBM Messaging Github](https://github.com/ibm-messaging)
