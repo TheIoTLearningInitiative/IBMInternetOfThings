@@ -17,13 +17,13 @@ Internet of Things
 
 Recipes and code for
 
-ARM mBed
-BeagleBone with SensorTag
-SimpleLink WiFi CC3200 LaunchPad
-Intel Galileo
-Raspberry Pi
-Arduino Uno with WiFi shield
-Device Simulator
+- ARM mBed
+- BeagleBone with SensorTag
+- SimpleLink WiFi CC3200 LaunchPad
+- Intel Galileo
+- Raspberry Pi
+- Arduino Uno with WiFi shield
+- Device Simulator
 
 ## IoT Real-Time Insights
 
