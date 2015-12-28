@@ -27,6 +27,10 @@ Recipes and code for
 - Arduino Uno with WiFi shield
 - Device Simulator
 
+### Examples
+
+- https://github.com/MasayaFujita/Edison_to_IoTFoundation_Node
+
 ## IoT Real-Time Insights
 
 > The IBM IoT Real-Time Insights services allows you to understand IoT data in context and monitor the conditions of your devices and operations. IoT Real-Time Insights works with Internet of Things Foundation to enrich and monitor data from you devices, visualize what’s happening now, and respond to emerging conditions through automated actions.
