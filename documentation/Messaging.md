@@ -81,4 +81,5 @@ Messaging
 
 > IBM® MessageSight is designed for the Internet of Things (IoT) and mobile environments. It provides a secure, DMZ-ready channel for lightweight, rapid, bi-directional messaging.
 
-- [](http://www-03.ibm.com/software/products/en/messagesight)
+- [IBM MessageSight Homepage](http://www-03.ibm.com/software/products/en/messagesight)
+- [IBM MessageSight Introduction](http://www.slideshare.net/AndrewSchofield4/iot-1899-introduction-tomessagesight-35266159)
