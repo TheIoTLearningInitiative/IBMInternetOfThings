@@ -13,4 +13,3 @@ Internet of Things Topography
 
 
 ## developerWorks
-
