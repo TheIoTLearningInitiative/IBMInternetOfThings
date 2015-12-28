@@ -7,6 +7,7 @@ Internet of Things
 
 - [Internet of Things Foundation Homepage](https://console.ng.bluemix.net/catalog/services/internet-of-things-foundation/)
 - [Internet of Things Foundation Getting Started](https://www.ng.bluemix.net/docs/#services/IoT/index.html)
+- [Internet of Things Foundation Bluemix](http://www.ibm.com/cloud-computing/bluemix/solutions/iot/)
 
 ## IoT Real-Time Insights
 
