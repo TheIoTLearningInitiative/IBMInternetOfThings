@@ -13,7 +13,7 @@ Internet of Things Topography
 
 ## Exercises
 
-- [](https://www.ibm.com/developerworks/community/blogs/cee6c09c-a315-4b04-ad14-57d6a60fa8bb/entry/setting_up_the_iot_kit?lang=en)
+- [How To Install The IoT Kit](https://www.ibm.com/developerworks/community/blogs/cee6c09c-a315-4b04-ad14-57d6a60fa8bb/entry/setting_up_the_iot_kit?lang=en)
 
 
 ## developerWorks
