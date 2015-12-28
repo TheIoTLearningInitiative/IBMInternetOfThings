@@ -13,7 +13,7 @@ Internet of Things
 - [Internet of Things Foundation Zone Bluemix](http://www.ibm.com/cloud-computing/bluemix/solutions/iot/)
 - [Internet of Things Foundation Getting Started](https://www.ng.bluemix.net/docs/#services/IoT/index.html)
 - [Internet of Things Foundation Bluemix Dashboard](https://console.ng.bluemix.net/catalog/services/internet-of-things-foundation/)
-- [](https://quickstart.internetofthings.ibmcloud.com/#/)
+- [Internet of Things Foundation Quickstart](https://quickstart.internetofthings.ibmcloud.com/#/)
 
 ### Quick Start
 
