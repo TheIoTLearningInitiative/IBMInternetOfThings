@@ -1,7 +1,7 @@
 # Bluemix
 
 
-- [](http://www.ibm.com/developerworks/cloud/bluemix/)
+- [IBM Bluemix developerWorks](http://www.ibm.com/developerworks/cloud/bluemix/)
 
 
 ## Signup
