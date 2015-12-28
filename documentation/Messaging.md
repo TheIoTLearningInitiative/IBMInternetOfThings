@@ -79,6 +79,8 @@ Messaging
 
 ## IBM MessageSight
 
+> It is an appliance, it is a Gateway to the Internet of Things and Mobile Messaging
+
 > IBM® MessageSight is designed for the Internet of Things (IoT) and mobile environments. It provides a secure, DMZ-ready channel for lightweight, rapid, bi-directional messaging.
 
 - [IBM MessageSight Homepage](http://www-03.ibm.com/software/products/en/messagesight)
