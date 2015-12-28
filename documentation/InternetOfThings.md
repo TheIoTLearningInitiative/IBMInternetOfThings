@@ -9,6 +9,7 @@ Internet of Things
 
 > The IBM Internet of Things service lets your apps communicate with and consume data collected by your connected devices, sensors, and gateways. Our recipes make it super easy to get devices connected to our Internet of Things cloud. Your apps can then use our real-time and REST APIs to communicate with your devices and consume the data you've set them up to collect.
 
+- [Internet of Things Foundation](https://internetofthings.ibmcloud.com/#/)
 - [Internet of Things Foundation Bluemix](http://www.ibm.com/cloud-computing/bluemix/solutions/iot/)
 - [Internet of Things Foundation Getting Started](https://www.ng.bluemix.net/docs/#services/IoT/index.html)
 - [Internet of Things Foundation Bluemix Dashboard](https://console.ng.bluemix.net/catalog/services/internet-of-things-foundation/)
