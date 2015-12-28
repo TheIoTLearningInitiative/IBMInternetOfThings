@@ -11,6 +11,7 @@ Messaging
 - [IBM Messaging Developer](https://developer.ibm.com/messaging/)
 - [IBM Messaging Developer Blogs](https://developer.ibm.com/messaging/blogs/)
 - [IBM Community around IBM Messaging Products Github](Ihttps://github.com/ibm-messaging)
+- [IBM Messaging Youtube](https://www.youtube.com/user/IBMmessagingMedia?feature=watch)
 
 ## MQ Light
 
