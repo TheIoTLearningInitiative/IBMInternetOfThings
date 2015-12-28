@@ -30,6 +30,7 @@ Recipes and code for
 ### Examples
 
 - https://github.com/MasayaFujita/Edison_to_IoTFoundation_Node
+- https://github.com/ibm-messaging/iot-python
 
 ## IoT Real-Time Insights
 
