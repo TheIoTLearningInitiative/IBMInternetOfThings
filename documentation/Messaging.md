@@ -15,6 +15,8 @@ Messaging
 
 ## MQ Light
 
+Based on AMQP
+
 > IBM MQ Light A simple yet powerful AMQP based messaging API. Write apps that run locally, in the cloud, or alongside IBM MQ.
 
 - [MQ Light Homepage](https://developer.ibm.com/messaging/mq-light/)
