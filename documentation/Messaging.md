@@ -76,3 +76,9 @@ Messaging
 > A scalable, distributed, high throughput message bus in the cloud, available as a fully managed Bluemix service.
 
 - [IBM Developer Works Message Hub Homepage](https://developer.ibm.com/messaging/message-hub/)
+
+## IBM MessageSight
+
+> IBM® MessageSight is designed for the Internet of Things (IoT) and mobile environments. It provides a secure, DMZ-ready channel for lightweight, rapid, bi-directional messaging.
+
+- [](http://www-03.ibm.com/software/products/en/messagesight)
