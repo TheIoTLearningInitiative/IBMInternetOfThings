@@ -17,7 +17,9 @@ Internet of Things
 
 Recipes and code for
 
-
+ARM mBed
+BeagleBone with SensorTag
+SimpleLink WiFi CC3200
 
 ## IoT Real-Time Insights
 
