@@ -13,7 +13,7 @@ Features
 - Simple use with JSON
 - Simple REST
 - Simple MQTT
-- 
+- Simple to use other Services
 
 ```sh
     # npm install -g node-red
