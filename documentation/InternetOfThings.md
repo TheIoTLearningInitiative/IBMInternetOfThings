@@ -5,7 +5,7 @@ Internet of Things
 
 > Internet of Things Foundation is a fully managed, cloud-hosted service that makes it simple to derive value from Internet of Things (IoT) devices
 
-> Internet of Things Foundation allows you to easily compose solutions
+> Internet of Things Foundation allows you to easily compose IoT solutions
 
 > The IBM Internet of Things service lets your apps communicate with and consume data collected by your connected devices, sensors, and gateways. Our recipes make it super easy to get devices connected to our Internet of Things cloud. Your apps can then use our real-time and REST APIs to communicate with your devices and consume the data you've set them up to collect.
 
