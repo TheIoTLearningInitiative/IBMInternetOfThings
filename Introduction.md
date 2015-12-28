@@ -8,4 +8,4 @@ Internet of Things Topography
 - Smart Gateways
 - Device Sensors
 
-- [IBM IoT](https://github.com/IBM-IoT/)
+- [IBM IoT Github](https://github.com/IBM-IoT/)
