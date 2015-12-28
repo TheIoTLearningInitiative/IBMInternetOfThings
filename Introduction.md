@@ -38,6 +38,6 @@ Links
 
 > IBM Informix is a product family within IBM's Information Management division that is centered on several relational database management system (RDBMS) offerings. The Informix products were originally developed by Informix Corporation, whose Informix Software subsidiary was acquired by IBM in 2001.
 
-> 
+> An Intelligent database for Internet of Things.
 
 - [IBM Informix Homepage](http://www-01.ibm.com/software/data/informix/)
