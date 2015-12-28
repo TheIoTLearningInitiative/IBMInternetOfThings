@@ -89,3 +89,4 @@ Messaging
 - [IBM MessageSight Homepage](http://www-03.ibm.com/software/products/en/messagesight)
 - [IBM MessageSight Introduction](http://www.slideshare.net/AndrewSchofield4/iot-1899-introduction-tomessagesight-35266159)
 - [IBM MessageSight Developers](https://developer.ibm.com/messaging/messagesight/)
+- [Connecting IBM MessageSight to the Enterprise](http://www.slideshare.net/AndrewSchofield4/iot-1900-connecting-ibm-message-sight-to-the-enterprise)
