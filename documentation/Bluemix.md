@@ -2,7 +2,6 @@
 
 - [IBM Bluemix developerWorks](http://www.ibm.com/developerworks/cloud/bluemix/)
 
-
 ## Signup
 
 - Go to [IBM Bluemix Console](https://console.ng.bluemix.net/)
