@@ -19,7 +19,7 @@ Recipes and code for
 
 ARM mBed
 BeagleBone with SensorTag
-SimpleLink WiFi CC3200
+SimpleLink WiFi CC3200 LaunchPad
 
 ## IoT Real-Time Insights
 
