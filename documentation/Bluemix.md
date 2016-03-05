@@ -98,7 +98,6 @@ https://www.heroku.com/python
 
 ## Links
 
-- [Bluemix Docs](https://www.ng.bluemix.net/docs/#)
 - [Create a Simple 'To Do' App with Bluemix](https://github.com/IBM-Bluemix/todo-apps)
 - [Port an iOS App from Objective-C to Swift](http://www.ibm.com/developerworks/library/mo-bluemix-swift-app/index.html)
 - [Deploy a 'Hello World' Python Flask App in Bluemix](https://developer.ibm.com/bluemix/2015/03/30/simple-hello-world-python-app-using-flask/)
