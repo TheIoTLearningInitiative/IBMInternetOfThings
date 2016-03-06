@@ -92,3 +92,11 @@ Watson
   - Authentication Method **Token**
   - Authentication Token **i+*La@jT5dd9YyMW9s**
 - Finish
+
+2. API Key
+
+ - Launch IBM Watson IoT Platform dashboard from the browser
+ - Click on ACCESS tab
+ - Click on API Keys tab
+ - Click on “Generate API Key”
+
