@@ -34,6 +34,7 @@ Recipes and code for
 - https://github.com/ibm-messaging/iot-python
 - https://developer.ibm.com/recipes/tutorials/connect-an-intel-galileo-to-the-internet-of-things-foundation/
 - https://developer.ibm.com/recipes/tutorials/ibm-bluemix-with-python-and-iot-service/
+- http://rexstjohn.com/publish-to-ibm-bluemix-via-mosquitto-from-intel-edison/
 
 ## IoT Real-Time Insights
 
