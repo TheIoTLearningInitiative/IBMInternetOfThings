@@ -84,8 +84,8 @@ Watson
   - Name **IntelEdison01**
   - Organization ID **5ii3a2**
 - Create Device Type
-  - Device Type Name **IntelEdison01-DeviceType**
-  - Device Type Description **Intel Edison 01 Device Type**
+  - Device Type Name **IntelEdison01-GatewayType**
+  - Device Type Description **Intel Edison 01 Gateway Type**
 - Add Device in IBM Watson IoT Platform
   - Device ID (MAC Address) **784082a53a73**
   - Authentication Method **Token**
