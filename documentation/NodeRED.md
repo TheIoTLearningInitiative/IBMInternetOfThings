@@ -85,3 +85,7 @@ Features
     root@edison:~# 
     
 ```
+
+### Node-RED Application on BlueMix
+
+https://developer.ibm.com/recipes/tutorials/creating-a-nodered-application-on-bluemix/
