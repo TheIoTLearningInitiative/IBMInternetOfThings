@@ -42,3 +42,5 @@ Watson
 [How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/)
 
 3. Connect the registered Device In Watson IoT Platform
+
+
