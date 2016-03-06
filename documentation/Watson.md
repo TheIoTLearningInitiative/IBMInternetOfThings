@@ -36,3 +36,6 @@ Watson
      ...
      [Go to https://quickstart.internetofthings.ibmcloud.com/#/ and write Device ID based on device MAC Address]
 ```
+
+Go to https://ibm.biz/watsoniotp
+
