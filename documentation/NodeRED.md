@@ -60,7 +60,7 @@ Features
      [Go to https://quickstart.internetofthings.ibmcloud.com/#/ and write Device ID based on device MAC Address]
 ```
 
-Node-RED
+[Node-RED IBM Github](https://github.com/ibm-messaging/iot-nodered)
 
 ```sh
     root@edison:~/.node-red# npm install node-red-contrib-ibm-watson-iot
