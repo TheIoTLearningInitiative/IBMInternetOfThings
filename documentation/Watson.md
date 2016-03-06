@@ -38,4 +38,5 @@ Watson
      ...
      [Go to https://quickstart.internetofthings.ibmcloud.com/#/ and write Device ID based on device MAC Address]
 ```
-
+2. Register your Device In Watson IoT Platform
+3. 
