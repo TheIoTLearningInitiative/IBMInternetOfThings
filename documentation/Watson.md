@@ -79,7 +79,7 @@ Watson
 
 [IBM Bluemix Console](https://console.ng.bluemix.net/) then Dashboard
 
-1. Register your Gateway In Watson IoT Platform [How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-gateways-in-ibm-watson-iot-platform/)
+1. Register your Gateway In Watson IoT Platform [How to Register Gateways in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-gateways-in-ibm-watson-iot-platform/)
 
 - Create IBM Watson IoT Platform Organization
   - Name **IntelEdison01**
