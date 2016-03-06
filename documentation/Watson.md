@@ -75,3 +75,5 @@ Watson
 https://console.ng.bluemix.net/
 
 Service and APIs > USE SERVICES AND APIS > Internet of Things
+
+Services Name Internet of Things Platform-1l
