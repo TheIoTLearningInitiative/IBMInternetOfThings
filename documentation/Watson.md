@@ -62,5 +62,8 @@ Watson
     id=784b87a53a73
     auth-method=token
     auth-token=E?NCLprfXpU)-)qW8a
-    
+    root@edison:~/ibm-iot-quickstart/samples# python ibm-iot-quickstart.py
+    Configuration file found - connecting to the registered service                                              
+    0.0                                                                                                          
+    message published                                                                                            
 ```
