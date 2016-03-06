@@ -95,7 +95,7 @@ Watson
 
 2. API Key
 
- - Launch IBM Watson IoT Platform dashboard from the browser
+ - Go to IBM Watson IoT Platform Dashboard
  - Click on ACCESS tab
  - Click on API Keys tab
  - Click on “Generate API Key”
