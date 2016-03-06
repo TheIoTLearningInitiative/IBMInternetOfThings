@@ -58,7 +58,7 @@ Watson
     root@board:~# vi device.cfg
     org=6ih3a3
     type=IntelEdison01-DeviceType
-    id=784b87a53a73
+    id=784082a53a73
     auth-method=token
     auth-token=s&M9e_vP!8Ftykd?GOP
     root@edison:~/ibm-iot-quickstart/samples# python ibm-iot-quickstart.py
