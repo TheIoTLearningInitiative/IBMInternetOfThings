@@ -63,8 +63,8 @@ Watson
     auth-token=E?NCLprfXpU)-)qW8a
     root@edison:~/ibm-iot-quickstart/samples# python ibm-iot-quickstart.py
     Configuration file found - connecting to the registered service                                              
-    0.0                                                                                                          
-    message published                                                                                            
-0.92204526404                                                                                                 
-message published
+    0.0
+    message published
+    0.92204526404
+    message published
 ```
