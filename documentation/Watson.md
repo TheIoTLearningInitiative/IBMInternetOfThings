@@ -67,5 +67,7 @@ Watson
     message published
     0.92204526404
     message published
+    
     [Go to https://6ih3a3.internetofthings.ibmcloud.com/dashboard/#/devices/browse click on your Device ID and review Recent Events]
+
 ```
