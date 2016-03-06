@@ -1,6 +1,6 @@
 # NodeRED
 
-> Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+> Node-RED is a tool for wiring together hardware devices, APIs and online services in new and interesting ways. Node-Red
 
 - [Node-RED Homepage](http://nodered.org/)
 - [Node-RED Getting Started](http://nodered.org/docs/getting-started/)
