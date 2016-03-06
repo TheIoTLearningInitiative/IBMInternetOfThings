@@ -89,3 +89,5 @@ Features
 ### Node-RED Application on BlueMix
 
 https://developer.ibm.com/recipes/tutorials/creating-a-nodered-application-on-bluemix/
+
+Name IntelEdison-NodeRed
