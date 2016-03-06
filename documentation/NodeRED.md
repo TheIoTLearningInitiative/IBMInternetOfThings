@@ -77,4 +77,11 @@ Node-RED
     Resolving deltas: 100% (204/204), done.
     Checking connectivity... done.
     root@edison:~# 
+    root@edison:~# npm install node-red-contrib-iotclouddev
+    -\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-z
+    ...
+    ...
+    node-red-contrib-iotclouddev@1.0.3 node_modules/node-red-contrib-iotclouddev
+    ��└��─��─ getmac@1.0.7 (extract-opts@2.2.0)
+    
 ```
