@@ -79,3 +79,16 @@ Watson
 [IBM Bluemix Console](https://console.ng.bluemix.net/)
 
 [](https://developer.ibm.com/recipes/tutorials/how-to-register-gateways-in-ibm-watson-iot-platform/)
+
+2. Register your Device In Watson IoT Platform [How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/)
+
+- Create IBM Watson IoT Platform Organization
+  - Name **IntelEdison01**
+  - Organization ID **5ii3a2**
+- Create Device Type
+  - Device Type Name **IntelEdison01-DeviceType**
+  - Device Type Description **Intel Edison 01 Device Type**
+- Add Device in IBM Watson IoT Platform
+  - Device ID (MAC Address) **784082a53a73**
+  - Authentication Method **Token**
+  - Authentication Token **s&M9e_vP!8Ftykd?GOP**
