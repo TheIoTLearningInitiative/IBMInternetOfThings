@@ -66,4 +66,6 @@ Watson
     Configuration file found - connecting to the registered service                                              
     0.0                                                                                                          
     message published                                                                                            
+0.92204526404                                                                                             
+message published
 ```
