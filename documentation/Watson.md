@@ -49,7 +49,7 @@ Watson
 - Add Device in IBM Watson IoT Platform
   - Device ID (MAC Address) **784b87a53a73**
   - Authentication Method **Token**
-  - Authentication Token **s&M9e_cP!7Ftykd?GOP**
+  - Authentication Token **s&M9e_vP!8Ftykd?GOP**
 
 3. Connect the registered Device In Watson IoT Platform
 [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
