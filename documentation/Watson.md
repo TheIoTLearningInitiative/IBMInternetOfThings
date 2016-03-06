@@ -71,3 +71,7 @@ Watson
     [Go to https://6ih3a3.internetofthings.ibmcloud.com/dashboard/#/devices/browse click on your Device ID and review Recent Events]
     
 ```
+
+https://console.ng.bluemix.net/
+
+Service and APIs > USE SERVICES AND APIS
