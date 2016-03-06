@@ -18,6 +18,8 @@ Watson
 [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 [How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/)
 
+1. IBM Watson IoT Platform Quickstart connection
+
 ```sh
      root@edison:~# wget https://github.com/ibm-messaging/iot-gw-solutions/releases/download/1.03/ibm-iot-quickstart.zip
      root@edison:~# cd ibm-iot-quickstart
@@ -36,6 +38,4 @@ Watson
      ...
      [Go to https://quickstart.internetofthings.ibmcloud.com/#/ and write Device ID based on device MAC Address]
 ```
-
-Go to https://ibm.biz/watsoniotp
 
