@@ -100,6 +100,8 @@ Watson
  - Click on "API Keys" tab
  - Click on “Generate API Key”
 
+Node-RED
+
 ```sh
     root@edison:~/.node-red# npm install node-red-contrib-ibm-watson-iot
     -\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\-\|/-\|/-\|z
