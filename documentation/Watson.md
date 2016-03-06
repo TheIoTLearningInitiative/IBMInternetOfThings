@@ -74,4 +74,4 @@ Watson
 
 https://console.ng.bluemix.net/
 
-Service and APIs > USE SERVICES AND APIS
+Service and APIs > USE SERVICES AND APIS > Internet of Things
