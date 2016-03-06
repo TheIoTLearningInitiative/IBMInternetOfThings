@@ -47,7 +47,7 @@ Watson
   - Name **IntelEdison01-DeviceType**
   - Description **Intel Edison 01 Device Type**
 - Add Device in IBM Watson IoT Platform
-  - Device Id (MAC Address) 784b87a53a73
+  - Device Id (MAC Address) **784b87a53a73**
 
 3. Connect the registered Device In Watson IoT Platform
 [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
