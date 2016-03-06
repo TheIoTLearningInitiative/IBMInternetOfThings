@@ -19,7 +19,7 @@ Watson
 [IBM Bluemix Console](https://console.ng.bluemix.net/)
 
 1. IBM Watson IoT Platform Quickstart connection
-[Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
+[Connect an Intel® IoT Device to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/)
 
    ```sh
      root@board:~# wget https://github.com/ibm-messaging/iot-gw-solutions/releases/download/1.03/ibm-iot-quickstart.zip
@@ -79,7 +79,7 @@ Watson
 
 [IBM Bluemix Console](https://console.ng.bluemix.net/) then Dashboard
 
-1. Register your Device In Watson IoT Platform [How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-gateways-in-ibm-watson-iot-platform/)
+1. Register your Gateway In Watson IoT Platform [How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-gateways-in-ibm-watson-iot-platform/)
 
 - Create IBM Watson IoT Platform Organization
   - Name **IntelEdison01**
