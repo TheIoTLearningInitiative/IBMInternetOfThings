@@ -41,6 +41,8 @@ Watson
 2. Register your Device In Watson IoT Platform [How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/)
 
 - Create IBM Watson IoT Platform Organization
+  - Name IntelEdison01
+  - Id 5ih3a2
 - Create Device Type
 - Add Device in IBM Watson IoT Platform
 
