@@ -57,5 +57,11 @@ Watson
 
 ```sh
     root@board:~# vi device.cfg
+    org=6ih3a3
+    type=IntelEdison01-DeviceType
+    id=784b87a53a73
+    auth-method=token
+    auth-token=E?NCLprfXpU)-)qW8a
     
+
 ```
