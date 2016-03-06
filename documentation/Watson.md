@@ -14,7 +14,7 @@ Watson
 [IBM Watson IoT Platform Python for Device Developers](https://docs.internetofthings.ibmcloud.com/devices/libraries/python.html)
 [IBM Watson IoT Recipes](https://developer.ibm.com/recipes/)
 
-### Project Gateway Type
+### Project Device Type
 
 [IBM Bluemix Console](https://console.ng.bluemix.net/)
 
