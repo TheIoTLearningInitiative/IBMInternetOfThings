@@ -78,4 +78,4 @@ Watson
 
 [IBM Bluemix Console](https://console.ng.bluemix.net/)
 
-https://developer.ibm.com/recipes/tutorials/how-to-register-gateways-in-ibm-watson-iot-platform/
+[](https://developer.ibm.com/recipes/tutorials/how-to-register-gateways-in-ibm-watson-iot-platform/)
