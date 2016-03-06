@@ -31,7 +31,7 @@ Features
      ��└��─��─ node-red-node-serialport@0.1.2 (serialport@2.0.6)
      root@edison:~# node-red &
      
-     [Go to http://<board.ip.adress>:1880/#]
+     Go to http://<board.ip.adress>:1880/#
 ```
 
 ```sh
