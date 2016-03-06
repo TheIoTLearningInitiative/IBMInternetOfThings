@@ -83,7 +83,6 @@ Features
     Resolving deltas: 100% (204/204), done.
     Checking connectivity... done.
     root@edison:~# 
-    
 ```
 
 ### Node-RED Application on BlueMix
@@ -92,3 +91,4 @@ https://developer.ibm.com/recipes/tutorials/creating-a-nodered-application-on-bl
 
 App Name **IntelEdison-NodeRed**
 App Host **IntelEdison-NodeRed**
+Domain **mybluemix.net**
