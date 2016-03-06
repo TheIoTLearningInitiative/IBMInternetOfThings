@@ -16,6 +16,8 @@ Watson
 
 ## Project
 
+[IBM Bluemix Console](https://console.ng.bluemix.net/)
+
 1. IBM Watson IoT Platform Quickstart connection
 [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 
@@ -72,7 +74,7 @@ Watson
     
 ```
 
-https://console.ng.bluemix.net/
+
 
 Service and APIs > USE SERVICES AND APIS > Internet of Things
 
