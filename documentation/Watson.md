@@ -42,12 +42,14 @@ Watson
 
 - Create IBM Watson IoT Platform Organization
   - Name **IntelEdison01**
-  - Id **5ih3a2**
+  - Organization ID **5ih3a2**
 - Create Device Type
-  - Name **IntelEdison01-DeviceType**
-  - Description **Intel Edison 01 Device Type**
+  - Device Type Name **IntelEdison01-DeviceType**
+  - Device Type Description **Intel Edison 01 Device Type**
 - Add Device in IBM Watson IoT Platform
-  - Device Id (MAC Address) **784b87a53a73**
+  - Device ID (MAC Address) **784b87a53a73**
+  - Authentication Method **Token**
+  - Authentication Token **s&M9e_cP!7Ftykd?GOP**
 
 3. Connect the registered Device In Watson IoT Platform
 [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
