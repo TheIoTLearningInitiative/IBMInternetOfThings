@@ -19,7 +19,6 @@ Watson
 1. IBM Watson IoT Platform Quickstart connection
 [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 
-   1.1 
    ```sh
      root@board:~# wget https://github.com/ibm-messaging/iot-gw-solutions/releases/download/1.03/ibm-iot-quickstart.zip
      root@board:~# cd ibm-iot-quickstart
