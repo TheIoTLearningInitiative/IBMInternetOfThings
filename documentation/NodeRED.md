@@ -30,7 +30,6 @@ Features
      ��├��─��─ ws@0.8.1 (options@0.0.6, ultron@1.0.2, utf-8-validate@1.2.1, bufferutil@1.2.1)
      ��└��─��─ node-red-node-serialport@0.1.2 (serialport@2.0.6)
      root@edison:~# node-red &
-     
 ```
 
 ```sh
