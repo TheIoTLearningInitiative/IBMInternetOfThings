@@ -63,4 +63,4 @@ Links
 
 > DevOps Made Easy. Integrated Agile Planning, Coding, Building, Deploying
 
-https://hub.jazz.net/
+[IBM Bluemix DevOps Services](https://hub.jazz.net/)
