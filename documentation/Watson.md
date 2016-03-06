@@ -56,7 +56,7 @@ Watson
 
 ```sh
     root@board:~# vi device.cfg
-    org=6ih3a3
+    org=5ii3a2
     type=IntelEdison01-DeviceType
     id=784082a53a73
     auth-method=token
