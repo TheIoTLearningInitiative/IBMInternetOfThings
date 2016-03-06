@@ -90,4 +90,5 @@ Features
 
 https://developer.ibm.com/recipes/tutorials/creating-a-nodered-application-on-bluemix/
 
-Name IntelEdison-NodeRed
+App Name **IntelEdison-NodeRed**
+App Host **IntelEdison-NodeRed**
