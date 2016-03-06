@@ -53,4 +53,4 @@ Links
 
 ## IBM Internet of Things Foundation Client for Python
 
- [IBM Internet of Things Foundation Client for Python](https://pypi.python.org/pypi/ibmiotf)
+[IBM Internet of Things Foundation Client for Python](https://pypi.python.org/pypi/ibmiotf)
