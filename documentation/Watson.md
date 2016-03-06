@@ -57,4 +57,5 @@ Watson
 
 ```sh
     root@board:~# vi device.cfg
+    
 ```
