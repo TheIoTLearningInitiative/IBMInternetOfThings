@@ -4,8 +4,8 @@
 * [Introduction](Introduction.md)
 * [Bluemix](documentation/Bluemix.md)
    * [Internet of Things](documentation/InternetOfThings.md)
-* [NodeRED](documentation/NodeRED.md)
 * [Watson](documentation/Watson.md)
+* [NodeRED](documentation/NodeRED.md)
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
 
