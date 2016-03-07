@@ -62,6 +62,8 @@ Features
 
 ### Node-RED Application on BlueMix
 
+> You should have connected a registered Device in Watson IoT Platform
+
 [Creating a NodeRED Application on Bluemix](https://developer.ibm.com/recipes/tutorials/creating-a-nodered-application-on-bluemix/)
 
 App Name **IntelEdison-NodeRed**
