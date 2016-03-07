@@ -60,6 +60,16 @@ Features
      [Go to https://quickstart.internetofthings.ibmcloud.com/#/ and write Device ID based on device MAC Address]
 ```
 
+### Node-RED Application on BlueMix
+
+[Creating a NodeRED Application on Bluemix](https://developer.ibm.com/recipes/tutorials/creating-a-nodered-application-on-bluemix/)
+
+App Name **IntelEdison-NodeRed**
+App Host **IntelEdison-NodeRed**
+Domain **mybluemix.net**
+
+
+
 [Node-RED IBM Github](https://github.com/ibm-messaging/iot-nodered)
 
 ```sh
@@ -85,10 +95,3 @@ Features
     root@edison:~# 
 ```
 
-### Node-RED Application on BlueMix
-
-[Creating a NodeRED Application on Bluemix](https://developer.ibm.com/recipes/tutorials/creating-a-nodered-application-on-bluemix/)
-
-App Name **IntelEdison-NodeRed**
-App Host **IntelEdison-NodeRed**
-Domain **mybluemix.net**
