@@ -51,4 +51,8 @@ Unpacking objects: 100% (58/58), done.
 Checking connectivity... done.
 xe1gyq@jessie:~/ibmbluemix$ cd bluemix-python-flask-sample
 xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cf login -a https://api.ng.bluemix.net
+cf push <YOUR_APP_NAME> -m 128M
+cf push <YOUR_APP_NAME> -m 128M -b https://github.com/cloudfoundry/python-buildpack
+cf push <YOUR_APP_NAME> -m 128M -n <YOUR_HOST_NAME>
+
 ```
