@@ -6,7 +6,7 @@ Getting Started
 - [Youtube Smucsm s Teach Me How to Bluemix](https://youtu.be/10GV_MfasW4)
 
 
-## Hello World Python Flask App
+## Hello World Python Flask App, IBM Bluemix Console
 
 Instructions from [Youtube Jeff Sloyer Deploying a Hello World Python Flask App in IBM Bluemix (Cloud Foundry)](https://www.youtube.com/watch?v=b-SF3bgaQTw)
 
@@ -19,3 +19,5 @@ GIT URL: https://github.com/IBM-Bluemix/bluemix-python-flask-sample
 GIT BRANCH: master
 ```
 3. 
+
+## Hello World Python Flask App, Cloud Foundry Command Line Interface
