@@ -68,10 +68,8 @@ Org:            xe1gyq@gmail.com
 Space:          xe1gyq   
 xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cf push xeflask -m 128M
 Using manifest file /home/xe1gyq/ibmbluemix/bluemix-python-flask-sample/manifest.yml
-
 Creating app xeflask in org xe1gyq@gmail.com / space xe1gyq as xe1gyq@gmail.com...
 OK
-
 Creating route xeflask.mybluemix.net...
 
 
