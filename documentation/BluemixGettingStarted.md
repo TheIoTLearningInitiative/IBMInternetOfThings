@@ -72,10 +72,4 @@ Creating app xeflask in org xe1gyq@gmail.com / space xe1gyq as xe1gyq@gmail.com.
 OK
 Creating route xeflask.mybluemix.net...
 
-
-
-xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cf push <YOUR_APP_NAME> -m 128M
-xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cf push <YOUR_APP_NAME> -m 128M -b https://github.com/cloudfoundry/python-buildpack
-xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cf push <YOUR_APP_NAME> -m 128M -n <YOUR_HOST_NAME>
-
 ```
