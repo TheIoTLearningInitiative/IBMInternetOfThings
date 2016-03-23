@@ -23,4 +23,13 @@ GIT BRANCH: master
 ## Hello World Python Flask App, Cloud Foundry Command Line Interface
 
 1. Go to https://github.com/cloudfoundry/cli
-2. 
+2. Download and install CF Cli
+xe1gyq@jessie:~$ mkdir ibmbluemix
+xe1gyq@jessie:~$ cd ibmbluemix/
+xe1gyq@jessie:~/ibmbluemix$ git clone https://github.com/IBM-Bluemix/bluemix-python-flask-sample.git
+Cloning into 'bluemix-python-flask-sample'...
+remote: Counting objects: 58, done.
+remote: Compressing objects: 100% (11/11), done.
+remote: Total 58 (delta 4), reused 0 (delta 0), pack-reused 45
+Unpacking objects: 100% (58/58), done.
+Checking connectivity... done.
