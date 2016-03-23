@@ -18,7 +18,8 @@ BLUEMIX-PYTHON-FLASK-SAMPLE
 GIT URL: https://github.com/IBM-Bluemix/bluemix-python-flask-sample
 GIT BRANCH: master
 ```
-3. 
+3. Go to
+http://xe1gyq-flask.mybluemix.net/
 
 ## Hello World Python Flask App, Cloud Foundry Command Line Interface
 
