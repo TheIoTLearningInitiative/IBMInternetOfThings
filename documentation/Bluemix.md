@@ -2,11 +2,14 @@
 
 > IBM's Open Cloud Architecture implementation based on the Cloud Foundry Project
 
+> The platform and partner for open source. Communities are building amazing things in cloud, take advantage of them with Bluemix
+
 - [IBM Bluemix](https://console.ng.bluemix.net/)
 - [IBM Bluemix developerWorks](http://www.ibm.com/developerworks/cloud/bluemix/)
 - [IBM Bluemix Docs](https://console.ng.bluemix.net/docs/#)
 - [IBM Developer Recipes](https://developer.ibm.com/recipes/)
 - [What is IBM Bluemix?](http://www.ibm.com/developerworks/cloud/library/cl-bluemixfoundry/)
+- [](http://www.ibm.com/cloud-computing/bluemix/open-source/)
 
 ## Signup
 
