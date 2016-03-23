@@ -1,6 +1,6 @@
 # Bluemix
 
-> IBM's Open Cloud Architecture implementation based on the Cloud Foundry project
+> IBM's Open Cloud Architecture implementation based on the Cloud Foundry Project
 
 - [IBM Bluemix](https://console.ng.bluemix.net/)
 - [IBM Bluemix developerWorks](http://www.ibm.com/developerworks/cloud/bluemix/)
