@@ -12,7 +12,7 @@
 - [IBM Developer Recipes](https://developer.ibm.com/recipes/)
 - [What is IBM Bluemix? Cloud Foundry](http://www.ibm.com/developerworks/cloud/library/cl-bluemixfoundry/)
 - [IBM Bluemix Open Source](http://www.ibm.com/cloud-computing/bluemix/open-source/)
-- [Youtube Getting started with IBM Bluemix](https://youtu.be/MtBdbaCQV8A)
+- [Youtube IBMetinfo Getting started with IBM Bluemix](https://youtu.be/MtBdbaCQV8A)
 
 ## Signup
 
