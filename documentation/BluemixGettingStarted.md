@@ -24,6 +24,8 @@ GIT BRANCH: master
 
 1. Go to https://github.com/cloudfoundry/cli
 2. Download and install CF Cli
+
+```sh
 xe1gyq@jessie:~$ mkdir ibmbluemix
 xe1gyq@jessie:~$ cd ibmbluemix/
 xe1gyq@jessie:~/ibmbluemix$ git clone https://github.com/IBM-Bluemix/bluemix-python-flask-sample.git
@@ -33,3 +35,4 @@ remote: Compressing objects: 100% (11/11), done.
 remote: Total 58 (delta 4), reused 0 (delta 0), pack-reused 45
 Unpacking objects: 100% (58/58), done.
 Checking connectivity... done.
+```
