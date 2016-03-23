@@ -8,7 +8,9 @@ Getting Started
 
 ## Hello World Python Flask App
 
-[Youtube Jeff Sloyer Deploying a Hello World Python Flask App in IBM Bluemix (Cloud Foundry)](https://www.youtube.com/watch?v=b-SF3bgaQTw)
+Instructions from [Youtube Jeff Sloyer Deploying a Hello World Python Flask App in IBM Bluemix (Cloud Foundry)](https://www.youtube.com/watch?v=b-SF3bgaQTw)
 
 
-https://github.com/IBM-Bluemix/bluemix-python-flask-sample
+1. Go to [Github IBM Bluemix Python Flask](https://github.com/IBM-Bluemix/bluemix-python-flask-sample)
+2. [Click on <Deploy To Bluemix>](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/bluemix-python-flask-sample)
+
