@@ -21,6 +21,11 @@ GIT BRANCH: master
 3. Go to
 http://xe1gyq-flask.mybluemix.net/
 
+```sh
+Hi there!
+Thanks for creating a Python Flask Starter Application.
+```
+
 ## Hello World Python Flask App, Cloud Foundry Command Line Interface
 
 ToDo
@@ -73,3 +78,8 @@ Creating route xeflask.mybluemix.net...
 ```
 3. Go to
 http://xeflask.mybluemix.net/
+
+```sh
+Hi there!
+Thanks for creating a Python Flask Starter Application.
+```
