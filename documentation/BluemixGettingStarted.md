@@ -32,10 +32,10 @@ Preparing to unpack cf-cli-installer_6.16.1_i686.deb ...
 Unpacking cf-cli (6.16.1) ...
 Setting up cf-cli (6.16.1) ...
 xe1gyq@jessie:~/Downloads$ cd
+xe1gyq@jessie:~$ 
 ```
 
 ```sh
-xe1gyq@jessie:~$ cd
 xe1gyq@jessie:~$ mkdir ibmbluemix
 xe1gyq@jessie:~$ cd ibmbluemix/
 xe1gyq@jessie:~/ibmbluemix$ git clone https://github.com/IBM-Bluemix/bluemix-python-flask-sample.git
