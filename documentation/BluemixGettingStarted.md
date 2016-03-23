@@ -72,4 +72,4 @@ OK
 Creating route xeflask.mybluemix.net...
 ```
 3. Go to
-http://xe1gyq-flask.mybluemix.net/
+http://xeflask.mybluemix.net/
