@@ -1,4 +1,7 @@
 JazzHub
 ==
 
+> IBM Bluemix™ DevOps Services Enhance your Bluemix experience.
+Develop and deploy software in the cloud. Code with the Web IDE in your browser. Push your applications to Bluemix, IBM's cloud platform. Ask questions and get answers in our forum. Get started by forking projects or following a tutorial.
+
 https://hub.jazz.net/
