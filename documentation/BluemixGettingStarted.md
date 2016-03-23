@@ -2,6 +2,7 @@ Getting Started
 ==
 
 - [Youtube IBMetinfo Getting started with IBM Bluemix](https://youtu.be/MtBdbaCQV8A)
+- [Youtube IBMetinfo How Bluemix Works](https://www.youtube.com/watch?v=OD1NP-Yk2BI)
 - [Youtube Smucsm s Teach Me How to Bluemix](https://youtu.be/10GV_MfasW4)
 
 
