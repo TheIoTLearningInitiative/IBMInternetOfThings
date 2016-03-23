@@ -27,6 +27,7 @@ ToDo
 
 1. Go to https://github.com/cloudfoundry/cli
 2. Download and install CF Cli from [](https://github.com/cloudfoundry/cli/releases)
+
 ```sh
 xe1gyq@jessie:~/Downloads$ sudo dpkg -i cf-cli-installer_6.16.1_i686.deb 
 Selecting previously unselected package cf-cli.
