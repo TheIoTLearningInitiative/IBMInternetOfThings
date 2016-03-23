@@ -27,7 +27,6 @@ ToDo
 
 1. Go to https://github.com/cloudfoundry/cli
 2. Download and install CF Cli from [](https://github.com/cloudfoundry/cli/releases)
-
 ```sh
 xe1gyq@jessie:~/Downloads$ sudo dpkg -i cf-cli-installer_6.16.1_i686.deb 
 Selecting previously unselected package cf-cli.
@@ -71,5 +70,6 @@ Using manifest file /home/xe1gyq/ibmbluemix/bluemix-python-flask-sample/manifest
 Creating app xeflask in org xe1gyq@gmail.com / space xe1gyq as xe1gyq@gmail.com...
 OK
 Creating route xeflask.mybluemix.net...
-
 ```
+3. Go to
+http://xe1gyq-flask.mybluemix.net/
