@@ -24,6 +24,14 @@ GIT BRANCH: master
 
 1. Go to https://github.com/cloudfoundry/cli
 2. Download and install CF Cli
+```sh
+xe1gyq@jessie:~/Downloads$ sudo dpkg -i cf-cli-installer_6.16.1_i686.deb 
+Selecting previously unselected package cf-cli.
+(Reading database ... 152345 files and directories currently installed.)
+Preparing to unpack cf-cli-installer_6.16.1_i686.deb ...
+Unpacking cf-cli (6.16.1) ...
+Setting up cf-cli (6.16.1) ...
+```
 
 ```sh
 xe1gyq@jessie:~$ mkdir ibmbluemix
