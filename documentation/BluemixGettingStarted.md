@@ -35,5 +35,5 @@ remote: Compressing objects: 100% (11/11), done.
 remote: Total 58 (delta 4), reused 0 (delta 0), pack-reused 45
 Unpacking objects: 100% (58/58), done.
 Checking connectivity... done.
+xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cf login -a https://api.ng.bluemix.net
 ```
-
