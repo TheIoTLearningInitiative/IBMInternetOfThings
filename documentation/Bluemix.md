@@ -6,6 +6,7 @@
 - [IBM Bluemix developerWorks](http://www.ibm.com/developerworks/cloud/bluemix/)
 - [IBM Bluemix Docs](https://console.ng.bluemix.net/docs/#)
 - [IBM Developer Recipes](https://developer.ibm.com/recipes/)
+- [What is IBM Bluemix?](http://www.ibm.com/developerworks/cloud/library/cl-bluemixfoundry/)
 
 ## Signup
 
