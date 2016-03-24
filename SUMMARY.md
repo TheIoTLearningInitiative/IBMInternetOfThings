@@ -8,7 +8,7 @@
 * [Watson](documentation/Watson.md)
    * [Internet of Things](documentation/WatsonInternetOfThings.md)
    * [Quick Start](documentation/QuickStart.md)
-   * Clients
+   * [Clients](documentation/WatsonClients.md)
 * [NodeRED](documentation/NodeRED.md)
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
