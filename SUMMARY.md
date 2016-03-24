@@ -11,6 +11,7 @@
    * [Clients](documentation/WatsonClients.md)
        * [C](documentation/WatsonClientsC.md)
        * [Python](documentation/WatsonClientsPython.md)
+   * Projects
 * [NodeRED](documentation/NodeRED.md)
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
