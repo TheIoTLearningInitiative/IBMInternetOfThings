@@ -6,7 +6,7 @@
    * [Internet of Things](documentation/InternetOfThings.md)
    * [Getting Started](documentation/BluemixGettingStarted.md)
 * [Watson](documentation/Watson.md)
-   * Quick Start
+   * [Quick Start](documentation/QuickStart.md)
 * [NodeRED](documentation/NodeRED.md)
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
