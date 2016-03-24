@@ -54,6 +54,10 @@ remote: Total 58 (delta 4), reused 0 (delta 0), pack-reused 45
 Unpacking objects: 100% (58/58), done.
 Checking connectivity... done.
 xe1gyq@jessie:~/ibmbluemix$ cd bluemix-python-flask-sample
+xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ ls
+LICENSE       NOTICE    README.md         runtime.txt  welcome.py
+manifest.yml  Procfile  requirements.txt  static
+xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ 
 xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cat manifest.yml
 ---
 applications:
