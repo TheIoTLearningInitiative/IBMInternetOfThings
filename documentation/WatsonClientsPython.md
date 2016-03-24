@@ -1,7 +1,7 @@
 Python
 ==
 
-### IBM Internet of Things Foundation for Python
+## IBM Internet of Things Foundation for Python
 
 ```sh
     root@board:~# pip install ibmiotf
