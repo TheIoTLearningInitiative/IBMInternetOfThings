@@ -99,3 +99,6 @@ IBM Watson IoT Platform
  - Click on "API Keys" tab
  - Click on “Generate API Key”
 
+### Project
+
+- [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
