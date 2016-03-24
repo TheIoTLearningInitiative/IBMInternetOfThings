@@ -1,7 +1,7 @@
 C
 ==
 
-### Embedded C Client Library - Introduction
+## Embedded C Client Library - Introduction
 
 > Embedded C client for interacting with the IBM Watson Internet of Things Platform.
 
