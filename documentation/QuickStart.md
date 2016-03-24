@@ -1,4 +1,5 @@
-# Quick Start
+Quick Start
+==
 
 > Quickstart is an open sandbox allowing developers to quickly and easily get devices connected to the Watson IoT platform with registration required. 
 
@@ -6,13 +7,13 @@
 
 > Quickstart Simulated Device! In addition to these, we have developed a simple browser-based simulated device, designed for mobile devices, that can be used to connect any device with a web browser to the service.
 
-#### Virtual Device
+## Virtual Device
 
 > Use the simulated device to experience the IBM Watson IoT Platform
 
 [IBM Watson IoT Platform Virtual Device](https://developer.ibm.com/recipes/tutorials/use-the-simulated-device-to-experience-the-iot-foundation/)
 
-##### Project
+### Project
 
 Use IBM simulated device from Web Browser to experience the IBM Watson IoT Platform
 
@@ -21,7 +22,7 @@ From Web Browser:
 1. http://quickstart.internetofthings.ibmcloud.com/iotsensor
 2. http://quickstart.internetofthings.ibmcloud.com/
 
-#### Physical Device
+## Physical Device
 
 Use IBM IoT Quickstart code to send data from a physical device to the IBM Watson IoT Platform
 
