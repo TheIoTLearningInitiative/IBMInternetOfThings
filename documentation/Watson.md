@@ -9,6 +9,10 @@ Watson
 
 ## IBM Watson IoT Platform
 
+> Watson Internet of Things. Learning from the connected world to transform industries. IBM
+
+> IBM and its clients are ushering in a new cognitive era. IBM Watson IoT platform extends the power of cognitive computing to the billions of connected devices, sensors and systems that comprise the IoT. IBM
+
 - [IBM Watson IoT Platform Programming Guides](https://docs.internetofthings.ibmcloud.com/)
 - [IBM Watson IoT Platform Press](https://developer.ibm.com/iotfoundation/blog/2016/02/12/the-ibm-watson-iot-platform-arrives/)
 - [IBM Watson IoT Platform Python for Device Developers](https://docs.internetofthings.ibmcloud.com/devices/libraries/python.html)
