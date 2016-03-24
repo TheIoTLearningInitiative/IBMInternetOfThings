@@ -10,7 +10,7 @@
    * [Quick Start](documentation/QuickStart.md)
    * [Clients](documentation/WatsonClients.md)
        * [C](documentation/WatsonClientsC.md)
-       * Python
+       * [Python](documentation/WatsonClientsPython.md)
 * [NodeRED](documentation/NodeRED.md)
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
