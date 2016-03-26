@@ -29,6 +29,10 @@ Use IBM IoT Quickstart code to send data from a physical device to the IBM Watso
 From development board command line:
 
 ```sh
+     root@board:~# ifconfig # Check your MAC Address
+     ...
+     wlan0     Link encap:Ethernet  HWaddr 7c:dd:90:6d:e0:e9
+     ...
      root@board:~# wget https://github.com/ibm-messaging/iot-gw-solutions/releases/download/1.03/ibm-iot-quickstart.zip
      root@board:~# cd ibm-iot-quickstart
      root@board:~/ibm-iot-quickstart# ls
