@@ -13,7 +13,7 @@
        * [Python](documentation/WatsonClientsPython.md)
    * [Projects](documentation/WatsonProjects.md)
 * [NodeRED](documentation/NodeRED.md)
-   * Installation
+   * [Installation](documentation/NodeRedInstallation.md)
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
 * [JazzHub](documentation/JazzHub.md)
