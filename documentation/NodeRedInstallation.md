@@ -9,6 +9,8 @@ Installation
     $ node-red
 ```
 
+## Intel Edison
+
 ```sh
     root@edison:~# npm install -g --unsafe-perm node-red
      \|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|//
