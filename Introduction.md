@@ -1,6 +1,8 @@
 Introduction
 ==
 
+https://www.ibm.com/cloud-computing/what-is-cloud-computing
+
 Internet of Things Topography
 
 - Deep Analytics Zone
