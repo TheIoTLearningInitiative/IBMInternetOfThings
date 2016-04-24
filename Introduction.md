@@ -13,6 +13,7 @@ Links
 - [IBM IoT Github](https://github.com/IBM-IoT/)
 - [IBM IoT developerWorks](https://www.ibm.com/developerworks/community/groups/service/html/communitystart?communityUuid=cee6c09c-a315-4b04-ad14-57d6a60fa8bb)
 - [IBM Intel](https://developer.ibm.com/bluemix/2015/11/03/intel-and-ibm-show-potential-of-iot-to-seattle-developers/)
+- [IBM Developer Academic Initiative](https://developer.ibm.com/academic/)
 
 ## Exercise
 
@@ -21,7 +22,6 @@ Links
 3. [Configuring Node-Red to Post to the Internet of Things Foundation](https://www.ibm.com/developerworks/community/blogs/cee6c09c-a315-4b04-ad14-57d6a60fa8bb/entry/Configuring_Node_Red_to_Post_to_the_Internet_of_Things_Foundation?lang=en)
 4. [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 5. [How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/)
-
 
 ## IBM Webinars
 

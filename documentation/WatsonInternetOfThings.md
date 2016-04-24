@@ -11,4 +11,5 @@ IBM Watson IoT Platform
 - [IBM Watson IoT Platform Python for Device Developers](https://docs.internetofthings.ibmcloud.com/devices/libraries/python.html)
 - [IBM Watson IoT Recipes](https://developer.ibm.com/recipes/)
 - [IBM Watson IoT Platform Quickstart](https://quickstart.internetofthings.ibmcloud.com/#/)
+- [IBM Watson IoT Platform Foundation](https://developer.ibm.com/iotfoundation/)
 - [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)

@@ -14,6 +14,7 @@
    * [Projects](documentation/WatsonProjects.md)
 * [NodeRED](documentation/NodeRED.md)
    * [Installation](documentation/NodeRedInstallation.md)
+   * [Projects](documentation/NodeRedProjects.md)
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
 * [JazzHub](documentation/JazzHub.md)
