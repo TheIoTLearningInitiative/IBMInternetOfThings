@@ -18,4 +18,5 @@
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
 * [JazzHub](documentation/JazzHub.md)
+* Cloud Foundry CLI
 
