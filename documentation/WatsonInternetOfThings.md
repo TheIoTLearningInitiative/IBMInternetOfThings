@@ -17,4 +17,4 @@ IBM Watson IoT Platform
 
 ## Collaboration
 
-- [](http://www.ibm.com/internet-of-things/iot-news/announcements/IBM-Cisco/)
+- [IBM and Cisco](http://www.ibm.com/internet-of-things/iot-news/announcements/IBM-Cisco/)
