@@ -14,6 +14,7 @@
 - [Getting Started with Node-RED and IBM Bluemix](https://github.com/intel-iot-devkit/Intel-IoT-Gateway/blob/master/Getting%20Started%20With%20Node-Red%20and%20Bluemix/README.MD)
 - [Intel® IoT Gateway Developer Github](https://github.com/intel-iot-devkit/Intel-IoT-Gateway)
 - [Raspberry Pi Hosting Node-Red](https://learn.adafruit.com/raspberry-pi-hosting-node-red/)
+- [MakerCollider Node-Red](https://github.com/MakerCollider/node-red-nodes)
 
 Features
 
