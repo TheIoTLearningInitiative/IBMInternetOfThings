@@ -4,7 +4,7 @@
 
 - [IBM Cloud Architecture Center](https://developer.ibm.com/architecture/)
 - [IBM Cloud Architecture Center IoT](https://developer.ibm.com/architecture/iot)
-- [](http://www.ibm.com/developerworks/cloud/library/cl-transition-to-cloud-centric-architecture-bluemix-trs/index.html?ca=drs-)
+- [IBM Transitioning to a cloud-centric architecture](http://www.ibm.com/developerworks/cloud/library/cl-transition-to-cloud-centric-architecture-bluemix-trs/index.html?ca=drs-)
 
 # Use Cases
 
