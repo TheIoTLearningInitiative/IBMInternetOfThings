@@ -19,4 +19,4 @@
 
 # Analytical
 
-- [](https://developer.ibm.com/recipes/tutorials/list-of-ibm-watson-iot-analytical-recipes/)
+- [List of IBM Watson IoT Analytical Recipes](https://developer.ibm.com/recipes/tutorials/list-of-ibm-watson-iot-analytical-recipes/)
