@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+* Summary
 * About this Training
 * [Introduction](documentation/Introduction.md)
    * [Architecture](documentation/Architecture.md)
@@ -24,5 +25,4 @@
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
 * [JazzHub](documentation/JazzHub.md)
-* Summary
 
