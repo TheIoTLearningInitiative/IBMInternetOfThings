@@ -1,5 +1,4 @@
-Watson
-==
+# Watson
 
 > Learning from the connected world to transform industry
 
@@ -14,4 +13,6 @@ Watson
 
 ## Use Cases
 
+- [IBM Watson News Explorer](http://news-explorer.mybluemix.net/)
 - [Use Medical Minecraft to develop cognitive computing skills](https://developer.ibm.com/academic/2016/03/01/use-medical-minecraft-to-develop-cognitive-computing-skills/)
+
