@@ -1,7 +1,7 @@
 # Summary
 
 * [Cover](README.md)
-* Summary
+* [Summary](SUMMARY.md)
 * About this Training
 * [Introduction](documentation/Introduction.md)
    * [Architecture](documentation/Architecture.md)
