@@ -1,5 +1,4 @@
-IBM Watson IoT Platform
-==
+# IBM Watson IoT Platform
 
 > Watson Internet of Things. Learning from the connected world to transform industries. IBM
 
@@ -14,7 +13,8 @@ IBM Watson IoT Platform
 - [IBM Watson IoT Platform Foundation](https://developer.ibm.com/iotfoundation/)
 - [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 
-
-## Collaboration
+# Collaboration
 
 - [IBM and Cisco](http://www.ibm.com/internet-of-things/iot-news/announcements/IBM-Cisco/)
+
+##
