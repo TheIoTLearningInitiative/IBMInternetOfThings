@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Summary](SUMMARY.md)
 * About this Training
+   * Objectives
 * [Introduction](documentation/Introduction.md)
    * [Architecture](documentation/Architecture.md)
    * [Community](documentation/Community.md)
