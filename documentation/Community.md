@@ -1,3 +1,3 @@
 # Community
 
-[](https://developer.ibm.com/recipes/author/savio-saldanha/)
+[Recipes by SavioSaldanha](https://developer.ibm.com/recipes/author/savio-saldanha/)
