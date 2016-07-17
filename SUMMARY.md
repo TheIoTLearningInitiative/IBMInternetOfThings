@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
    * [Community](documentation/Community.md)
+   * Architecture
 * [Bluemix](documentation/Bluemix.md)
    * [Internet of Things](documentation/InternetOfThings.md)
    * [Getting Started](documentation/BluemixGettingStarted.md)
