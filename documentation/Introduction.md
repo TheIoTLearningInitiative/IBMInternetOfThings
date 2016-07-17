@@ -44,6 +44,7 @@ Links
 
 > __Connect__ Make connections, get answers, and interact with IBM experts and developers like you in our Developer Centers, forums, and blogs.
 
+- [developerWorks](http://www.ibm.com/developerworks/)
 - [developerWorks Open Tech Talks](https://ibm.6connex.com/event/developerWorksOpen/login)
 
 ## IBM LinuxONE™
