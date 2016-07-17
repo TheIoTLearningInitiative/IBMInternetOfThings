@@ -1,5 +1,4 @@
-Introduction
-==
+# Introduction
 
 > Cloud computing, often referred to as simply “the cloud,” is the delivery of on-demand computing resources—everything from applications to data centers—over the Internet on a pay-for-use basis. [IBM Cloud Computing](https://www.ibm.com/cloud-computing/what-is-cloud-computing)
 
