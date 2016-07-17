@@ -19,3 +19,4 @@
 
 # Analytical
 
+- [](https://developer.ibm.com/recipes/tutorials/list-of-ibm-watson-iot-analytical-recipes/)
