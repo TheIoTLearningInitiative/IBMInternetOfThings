@@ -17,4 +17,5 @@
 
 - [IBM and Cisco](http://www.ibm.com/internet-of-things/iot-news/announcements/IBM-Cisco/)
 
-##
+# Analytical
+
