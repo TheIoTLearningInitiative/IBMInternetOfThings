@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Summary](SUMMARY.md)
 * About this Training
-   * Objectives
+   * [Objectives](documentation/Objectives.md)
    * Skills
    * Prerequisites
 * [Introduction](documentation/Introduction.md)
