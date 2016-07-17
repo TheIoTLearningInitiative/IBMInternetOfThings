@@ -28,13 +28,13 @@ Links
 4. [Connect an Intel® IoT Gateway to IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-iot-gateway-to-iot-foundation/)
 5. [How to Register Devices in IBM Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/how-to-register-devices-in-ibm-iot-foundation/)
 
-## IBM Webinars
+# IBM Webinars
 
 > Register for a live Webcast. Free of charge. IBM cloud can integrate enterprise-grade services and help speed up the way you innovate. Unlock more value in your business and in the technology you already have.
 
 - [IBM Cloud Webinars](http://www.ibmcloudwebinars.com/events/cloud-webinars/)
 
-## developerWorks
+# developerWorks
 
 > __Learn__ Grow your skills with how-to tutorials and courses on IBM tools and open standards technologies for all phases of your app development lifecycle.
 
@@ -45,13 +45,13 @@ Links
 - [developerWorks](http://www.ibm.com/developerworks/)
 - [developerWorks Open Tech Talks](https://ibm.6connex.com/event/developerWorksOpen/login)
 
-## IBM LinuxONE™
+# IBM LinuxONE™
 
 > Linux without limits: The ultimate flexibility to create solutions for mobile, cloud, analytics and devops.
 
 - [IBM LinuxONE™ Homepage](http://www-03.ibm.com/systems/z/os/linux/linux-one.html)
 
-## Informix
+# Informix
 
 > IBM Informix is a product family within IBM's Information Management division that is centered on several relational database management system (RDBMS) offerings. The Informix products were originally developed by Informix Corporation, whose Informix Software subsidiary was acquired by IBM in 2001.
 
@@ -59,15 +59,15 @@ Links
 
 - [IBM Informix Homepage](http://www-01.ibm.com/software/data/informix/)
 
-## IBM Github
+# IBM Github
 
 [IBM Github](https://github.com/IBM-IoT)
 
-## IBM Internet of Things Foundation Client for Python
+# IBM Internet of Things Foundation Client for Python
 
 [IBM Internet of Things Foundation Client for Python](https://pypi.python.org/pypi/ibmiotf)
 
-## IBM Bluemix DevOps Services
+# IBM Bluemix DevOps Services
 
 > DevOps Made Easy. Integrated Agile Planning, Coding, Building, Deploying
 
