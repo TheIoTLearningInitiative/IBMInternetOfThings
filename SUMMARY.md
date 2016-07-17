@@ -4,6 +4,7 @@
 * [Summary](SUMMARY.md)
 * About this Training
    * Objectives
+   * Skills
 * [Introduction](documentation/Introduction.md)
    * [Architecture](documentation/Architecture.md)
    * [Community](documentation/Community.md)
