@@ -1,7 +1,7 @@
 # Bluemix
 
 > IBM Bluemix is a cloud platform as a service (PaaS) developed by IBM. It supports several programming languages and services as well as integrated DevOps to build, run, deploy and manage applications on the cloud. Bluemix is based on Cloud Foundry open technology and runs on SoftLayer infrastructure. Bluemix supports several programming languages including Java, Node.js, Go, PHP, Python, Ruby Sinatra, Ruby on Rails and can be extended to support other languages such as Scala through the use of buildpacks. [Wikipedia](https://en.wikipedia.org/wiki/Bluemix)
-> 
+
 > IBM's Open Cloud Architecture implementation based on the Cloud Foundry Project
 
 > The platform and partner for open source. Communities are building amazing things in cloud, take advantage of them with Bluemix
