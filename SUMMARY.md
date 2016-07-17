@@ -5,6 +5,7 @@
 * About this Training
    * Objectives
    * Skills
+   * Prerequisoites
 * [Introduction](documentation/Introduction.md)
    * [Architecture](documentation/Architecture.md)
    * [Community](documentation/Community.md)
