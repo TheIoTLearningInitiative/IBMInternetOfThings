@@ -1,7 +1,7 @@
 # Summary
 
 * [Cover](README.md)
-* [Introduction](Introduction.md)
+* [Introduction](documentation/Introduction.md)
    * [Community](documentation/Community.md)
 * [Bluemix](documentation/Bluemix.md)
    * [Internet of Things](documentation/InternetOfThings.md)
