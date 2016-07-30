@@ -194,6 +194,7 @@ node-red-contrib-gpio@0.8.0 node_modules/node-red-contrib-gpio
 ├── meshblu@1.34.1 (backo@1.1.0, debug@2.2.0, json-stable-stringify@1.0.1, url@0.10.3, socket.io-client@1.4.8, node-rsa@0.2.30, lodash@3.10.1)
 ├── serialport@3.1.2 (bindings@1.2.1, es6-promise@3.2.1, commander@2.9.0, debug@2.2.0, nan@2.4.0, object.assign@4.0.4)
 └── firmata@0.11.3 (browser-serialport@2.0.3, es6-shim@0.33.13, serialport@2.1.2)
+root@edison:~/.node-red# 
 ```
 
 - Device: IO Plugin
