@@ -10,7 +10,7 @@
   - Payload: __Timestamp__
   - Topic: 
   - Repeat: __Interval__ every __1__ Second
-  - 
+  - Name: 
 
 > Node Output: Debug
 > > Output Message Property
