@@ -22,8 +22,10 @@ Install the following npm packages:
 - node-red-node-intel-gpio
 - node-red
 
+ # Get board.ip.adress
+
 ```sh
-    root@edison:~# ifconfig # Get board.ip.adress
+    root@edison:~# ifconfig
     ...
     wlan0     Link encap:Ethernet  HWaddr 78:4b:87:a5:3a:73  
               inet addr:192.168.1.65  Bcast:192.168.1.255  Mask:255.255.255.0
