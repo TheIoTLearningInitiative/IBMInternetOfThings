@@ -7,8 +7,10 @@
 ## @ Node-Red Flow Space
 
 - Node Input: Inject
-  - Payload Timestamp
-  - Repeat Interval 1 Second
+  - Payload: __Timestamp__
+  - Topic: 
+  - Repeat: __Interval__ every __1__ Second
+  - 
 
 > Node Output: Debug
 > > Output Message Property
