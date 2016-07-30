@@ -119,10 +119,6 @@ node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
 root@edison:~#
 ```
 
-- Digital In
-- Digital Out
-- Digital PWM
-
 ## node-red-contrib-gpio
 
 ```sh
