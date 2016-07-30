@@ -26,6 +26,7 @@
    * [Projects](documentation/NodeRedProjects.md)
        * [Input Inject + Output Debug](documentation/NodeRedInputIInjectOutputDebug.md)
        * [Input Mqtt + Output Debug](documentation/NodeRedInputMqttOutputDebug.md)
+       * Watson™ Tone Analyzer Service
 * [Cloud Foundry CLI](documentation/CloudFoundryCli.md)
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
