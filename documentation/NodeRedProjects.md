@@ -13,8 +13,8 @@
   - Name: 
 
 - Node Output: Debug
-  - Output Message Property
-  - msg.payload
+  - Output: msg.payload
+  - 
 
 ### Source
 
