@@ -43,18 +43,17 @@ Look at Node Intel-GPIO
 ## node-red-contrib-gpio
 
 ```sh
-    root@edison:~# npm install node-red-contrib-gpio
+root@edison:~# npm install node-red-contrib-gpio
 ```
 
 ```sh
-     -\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\|/-\|/-\|/|
-     > meshblu@1.32.0 preinstall /home/root/node_modules/node-red-contrib-gpio/node_modules/meshblu
-     ...
-     ��├��─��─ serialport@2.0.6 (bindings@1.2.1, sf@0.1.7, async@0.9.0, nan@2.0.9, debug@2.2.0, optimist@0.6.1)
-     ��└��─��─ meshblu@1.32.0 (backo@1.1.0, debug@2.2.0, json-stable-stringify@1.0.1, url@0.10.3, node-rsa@0.2.30, socket.io-c)
-    root@edison:~# ls /usr/lib/node_modules/
-    iotkit                    jsupm_grovevdiv           jsupm_mpl3115a2
-    jsupm_grovespeaker        jsupm_mma7660
+
+```
+
+```sh
+root@edison:~# ls /usr/lib/node_modules/
+iotkit                    jsupm_grovevdiv           jsupm_mpl3115a2
+jsupm_grovespeaker        jsupm_mma7660
 ```
 
 ## node-red-contrib-gpio
