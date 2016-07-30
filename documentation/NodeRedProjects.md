@@ -10,7 +10,7 @@
 > > Payload Timestamp
 > > Repeat Interval 1 Second
 
-> Output Debug
+> Node Output: Debug
 > > Output Message Property
 > > msg.payload
 
