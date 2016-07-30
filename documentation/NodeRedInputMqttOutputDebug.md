@@ -28,6 +28,7 @@
 ```sh
     $ mosquitto_pub -h test.mosquitto.org -t IBMIoT/NodeRed/IntelEdison -m "Hello World!"
 ```
+
 # @ Node-Red Debug Tab
 
 ```sh
