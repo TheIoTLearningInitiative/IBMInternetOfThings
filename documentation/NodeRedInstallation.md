@@ -126,3 +126,4 @@ Look at Node Intel-GPIO
 
 ## PC
 
+Go to http://<board.ip.adress>:1880/#
