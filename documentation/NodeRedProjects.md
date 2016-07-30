@@ -2,9 +2,9 @@
 
 - [Developing with Node-RED](0https://software.intel.com/en-us/articles/developing-with-node-red)
 
-## Input Inject + Output Debug
+# Input Inject + Output Debug
 
-### @ Node-Red Flow Space
+## @ Node-Red Flow Space
 
 > Input Inject
 > > Payload Timestamp
