@@ -140,7 +140,7 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 root@edison:~# cd .node-red/
 root@edison:~/.node-red# npm install node-red-contrib-grove-edison
 node-red-contrib-grove-edison@0.1.1 node_modules/node-red-contrib-grove-edison
-root@edison:~/.node-red# clear
+root@edison:~/.node-red# 
 ```
 
 ## node-red-node-intel-gpio
