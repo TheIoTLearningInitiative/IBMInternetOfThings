@@ -18,9 +18,9 @@ Installation
 
 Install the following npm packages:
 
-node-red-contrib-gpio
-galileo-io
-node-red
+- node-red-contrib-gpio
+- galileo-io
+- node-red
 
 ```sh
     root@edison:~# ifconfig # Get board.ip.adress
