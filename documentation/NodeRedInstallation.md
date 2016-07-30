@@ -138,8 +138,17 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 
 ```sh
 root@edison:~# cd .node-red/
+```
+
+```sh
 root@edison:~/.node-red# npm install node-red-contrib-grove-edison
 node-red-contrib-grove-edison@0.1.1 node_modules/node-red-contrib-grove-edison
+root@edison:~/.node-red# 
+```
+
+```sh
+root@edison:~/.node-red# ls node_modules/
+node-red-contrib-grove-edison
 root@edison:~/.node-red# 
 ```
 
