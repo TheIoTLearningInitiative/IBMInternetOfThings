@@ -1,12 +1,11 @@
-Installation
-==
+# Installation
 
 - [A set of node-red nodes for connecting to johnny-five IO Plugins](https://github.com/monteslu/node-red-contrib-gpio)
 - [Intel Galileo & Intel Edison IO Plugin for Johnny-Five](https://github.com/rwaldron/galileo-io/)
 - [Youtube Rupam Beginners Guide to node red with Intel Edison Twitter,Gmail,Data Logging,Gpio,MQTT](https://www.youtube.com/watch?v=2k6HrxSmA30)
 - [Scargill Backing up Node-Red](http://tech.scargill.net/backing-up-node-red/)
 
-## i386
+# i386
 
 ```sh
     # apt-get install npm nodejs nodejs-legacy
@@ -14,7 +13,7 @@ Installation
     $ node-red
 ```
 
-## Intel Edison
+# Intel Edison
 
 Install the following npm packages:
 
@@ -30,11 +29,13 @@ Install the following npm packages:
     ...
 ```
 
+# node-red-contrib-gpio
+
 ```sh
     root@edison:~# npm install node-red-contrib-gpio
 ```
 
-```sh
+v```sh
      -\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\|/-\|/-\|/|
      > meshblu@1.32.0 preinstall /home/root/node_modules/node-red-contrib-gpio/node_modules/meshblu
      ...
@@ -44,6 +45,8 @@ Install the following npm packages:
     iotkit                    jsupm_grovevdiv           jsupm_mpl3115a2
     jsupm_grovespeaker        jsupm_mma7660
 ```
+
+# node-red-contrib-gpio
 
 ```sh
     root@edison:~# npm install galileo-io
@@ -99,7 +102,7 @@ Install the following npm packages:
     root@edison:~#
 ```
 
-## Intel Edison, node-red-node-intel-gpio
+# Intel Edison, node-red-node-intel-gpio
 
 > A Node-RED node to talk to an Intel Galileo or Edison using mraa
 
