@@ -2,13 +2,13 @@
 
 # @ Node-Red Flow Space
 
-> Input Mqtt
-> > Server test.mosquitto.org:1883
-> > Topic IBMIoT/NodeRed/IntelEdison
+- Input Mqtt
+  - Server test.mosquitto.org:1883
+  - Topic IBMIoT/NodeRed/IntelEdison
 
-> Output Debug
-> > Output Message Property
-> > msg.payload
+- Output Debug
+  - Output Message Property
+  - msg.payload
 
 # Source
 
