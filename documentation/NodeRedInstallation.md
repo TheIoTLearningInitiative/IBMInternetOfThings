@@ -63,7 +63,7 @@ Install the following npm packages:
     ��└��─��─ es6-shim@0.35.0
 ```
 
-# Intel Edison, node-red-node-intel-gpio
+# node-red-node-intel-gpio
 
 > A Node-RED node to talk to an Intel Galileo or Edison using mraa
 
