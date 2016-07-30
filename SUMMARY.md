@@ -21,6 +21,7 @@
        * [C](documentation/WatsonClientsC.md)
        * [Python](documentation/WatsonClientsPython.md)
    * [Projects](documentation/WatsonProjects.md)
+   * Services
 * [NodeRED](documentation/NodeRED.md)
    * [Installation](documentation/NodeRedInstallation.md)
    * [Projects](documentation/NodeRedProjects.md)
