@@ -70,9 +70,13 @@ Install the following npm packages:
      ��└��─��─ node-red-node-serialport@0.1.2 (serialport@2.0.6)
 ```
 
+## Launch #1
+
 ```sh
     root@edison:~# node-red &
 ```
+
+## Launch #2
 
 ```sh
     root@edison:~# ./node_modules/node-red/bin/node-red-pi 
