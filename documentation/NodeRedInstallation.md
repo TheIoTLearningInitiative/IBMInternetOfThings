@@ -182,6 +182,7 @@ Welcome to Node-RED
 30 Jul 16:45:03 - [info] Starting flows
 30 Jul 16:45:03 - [info] Started flows
 30 Jul 16:45:04 - [info] Server now running at http://127.0.0.1:1880/
+
 ```
 
 ## Launch #2
