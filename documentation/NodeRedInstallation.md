@@ -197,6 +197,12 @@ root@edison:~/.node-red# npm install node-red-contrib-gpio
   - Electirc Imp: imp-io
   - Particle(Spark) Core: particle-io
 
+```sh
+root@edison:~/.node-red# ls node_modules/
+node-red-contrib-gpio  node-red-contrib-grove-edison  node-red-node-intel-gpio
+root@edison:~/.node-red#
+```
+
 ## IP Address
 
 Get Board IP Adress
