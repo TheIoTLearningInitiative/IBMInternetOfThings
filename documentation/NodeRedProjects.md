@@ -14,7 +14,8 @@
 
 - Node Output: Debug
   - Output: msg.payload
-  - 
+  - To: debug tab
+  - Name: 
 
 ### Source
 
