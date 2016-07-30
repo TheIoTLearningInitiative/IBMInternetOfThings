@@ -6,9 +6,9 @@
 
 ## @ Node-Red Flow Space
 
-> Node Input: Inject
-> > Payload Timestamp
-> > Repeat Interval 1 Second
+- Node Input: Inject
+  - Payload Timestamp
+  - Repeat Interval 1 Second
 
 > Node Output: Debug
 > > Output Message Property
