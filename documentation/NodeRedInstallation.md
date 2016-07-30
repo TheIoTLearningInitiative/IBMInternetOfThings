@@ -4,6 +4,7 @@
 - [Intel Galileo & Intel Edison IO Plugin for Johnny-Five](https://github.com/rwaldron/galileo-io/)
 - [Youtube Rupam Beginners Guide to node red with Intel Edison Twitter,Gmail,Data Logging,Gpio,MQTT](https://www.youtube.com/watch?v=2k6HrxSmA30)
 - [Scargill Backing up Node-Red](http://tech.scargill.net/backing-up-node-red/)
+- [node-red-node-intel-gpio](http://flows.nodered.org/node/node-red-node-intel-gpio)
 
 # i386
 
