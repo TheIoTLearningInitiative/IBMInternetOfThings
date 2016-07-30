@@ -134,47 +134,6 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 └── node-red-node-serialport@0.2.1 (serialport@2.1.2)
 ```
 
-## node-red-contrib-grove-edison
-
-```sh
-root@edison:~# cd .node-red/
-```
-
-```sh
-root@edison:~/.node-red# npm install node-red-contrib-grove-edison
-node-red-contrib-grove-edison@0.1.1 node_modules/node-red-contrib-grove-edison
-root@edison:~/.node-red# 
-```
-
-```sh
-root@edison:~/.node-red# ls node_modules/
-node-red-contrib-grove-edison
-root@edison:~/.node-red# 
-```
-
-## node-red-node-intel-gpio
-
-> A Node-RED node to talk to an Intel Galileo or Edison using mraa
-
-- [NPM JS node-red-node-intel-gpio](https://www.npmjs.com/package/node-red-node-intel-gpio)
-- [node-red-node-intel-gpio](http://flows.nodered.org/node/node-red-node-intel-gpio)
-
-```sh
-root@edison:~# cd .node-red/
-```
-
-```sh
-root@edison:~/.node-red# npm install node-red-node-intel-gpio
-node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
-root@edison:~/.node-red# 
-```
-
-```sh
-root@edison:~/.node-red# ls node_modules/
-node-red-contrib-grove-edison  node-red-node-intel-gpio
-root@edison:~/.node-red# 
-```
-
 ## node-red-contrib-gpio
 
 ```sh
@@ -210,8 +169,55 @@ root@edison:~/.node-red#
 
 ```sh
 root@edison:~/.node-red# ls node_modules/
+node-red-contrib-gpio
+root@edison:~/.node-red#
+```
+
+## node-red-contrib-grove-edison
+
+```sh
+root@edison:~# cd .node-red/
+```
+
+```sh
+root@edison:~/.node-red# npm install node-red-contrib-grove-edison
+node-red-contrib-grove-edison@0.1.1 node_modules/node-red-contrib-grove-edison
+root@edison:~/.node-red# 
+```
+
+```sh
+root@edison:~/.node-red# ls node_modules/
+node-red-contrib-grove-edison
+root@edison:~/.node-red# 
+```
+
+```sh
+root@edison:~/.node-red# ls node_modules/
 node-red-contrib-gpio  node-red-contrib-grove-edison  node-red-node-intel-gpio
 root@edison:~/.node-red#
+```
+
+## node-red-node-intel-gpio
+
+> A Node-RED node to talk to an Intel Galileo or Edison using mraa
+
+- [NPM JS node-red-node-intel-gpio](https://www.npmjs.com/package/node-red-node-intel-gpio)
+- [node-red-node-intel-gpio](http://flows.nodered.org/node/node-red-node-intel-gpio)
+
+```sh
+root@edison:~# cd .node-red/
+```
+
+```sh
+root@edison:~/.node-red# npm install node-red-node-intel-gpio
+node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
+root@edison:~/.node-red# 
+```
+
+```sh
+root@edison:~/.node-red# ls node_modules/
+node-red-contrib-grove-edison  node-red-node-intel-gpio
+root@edison:~/.node-red# 
 ```
 
 ## IP Address
