@@ -95,13 +95,13 @@ Look at Node Intel-GPIO
     ...
 ```
 
-## Launch #1
+# Launch #1
 
 ```sh
     root@edison:~# node-red &
 ```
 
-## Launch #2
+# Launch #2
 
 ```sh
     root@edison:~# ./node_modules/node-red/bin/node-red-pi 
