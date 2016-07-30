@@ -1,3 +1,3 @@
 # Watson™ Tone Analyzer Service
 
->  [Homepage](https://www.ibm.com/watson/developercloud/doc/tone-analyzer/)
+> The IBM Watson™ Tone Analyzer Service uses linguistic analysis to detect three types of tones from written text: emotions, social tendencies, and writing style. Emotions identified include things like anger, fear, joy, sadness, and disgust. Identified social tendencies include things from the Big Five personality traits used by some psychologists. These include openness, conscientiousness, extraversion, agreeableness, and emotional range. Identified writing styles include confident, analytical, and tentative. [Homepage](https://www.ibm.com/watson/developercloud/doc/tone-analyzer/)
