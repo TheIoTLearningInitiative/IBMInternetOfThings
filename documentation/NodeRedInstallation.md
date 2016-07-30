@@ -58,6 +58,34 @@ make: Leaving directory '/home/root/node_modules/mraa/build'
 mraa@1.1.2 node_modules/mraa
 ```
 
+## galileo-io
+
+```sh
+root@edison:~# npm install galileo-io
+```
+
+```sh
+\
+> galileo-io@0.9.4 postinstall /home/root/node_modules/galileo-io
+> node scripts/postinstall
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  Do not quit the program until npm completes the installation process.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+  Galileo-IO needs to install a trusted version of libmraa0.
+  This process takes approximately one minute.
+  Thanks for your patience.
+
+...
+...
+galileo-io@0.9.4 node_modules/galileo-io
+├── es6-promise@3.2.1
+├── es6-shim@0.35.1
+└── remapped@0.2.1 (getobject@0.1.0, traverse@0.6.6)
+root@edison:~# 
+```
+
 ## node-red
 
 ```sh
@@ -139,34 +167,6 @@ node-red-contrib-gpio@0.8.0 node_modules/node-red-contrib-gpio
 ├── meshblu@1.34.1 (backo@1.1.0, debug@2.2.0, json-stable-stringify@1.0.1, url@0.10.3, socket.io-client@1.4.8, node-rsa@0.2.30, lodash@3.10.1)
 ├── serialport@3.1.2 (bindings@1.2.1, es6-promise@3.2.1, commander@2.9.0, debug@2.2.0, nan@2.4.0, object.assign@4.0.4)
 └── firmata@0.11.3 (browser-serialport@2.0.3, es6-shim@0.33.13, serialport@2.1.2)
-```
-
-## galileo-io
-
-```sh
-root@edison:~# npm install galileo-io
-```
-
-```sh
-\
-> galileo-io@0.9.4 postinstall /home/root/node_modules/galileo-io
-> node scripts/postinstall
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-  Do not quit the program until npm completes the installation process.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-  Galileo-IO needs to install a trusted version of libmraa0.
-  This process takes approximately one minute.
-  Thanks for your patience.
-
-...
-...
-galileo-io@0.9.4 node_modules/galileo-io
-├── es6-promise@3.2.1
-├── es6-shim@0.35.1
-└── remapped@0.2.1 (getobject@0.1.0, traverse@0.6.6)
-root@edison:~# 
 ```
 
 ## IP Address
