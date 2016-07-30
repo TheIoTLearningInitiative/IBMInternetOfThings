@@ -17,10 +17,27 @@
 
 Install the following npm packages:
 
+- node-red-node-intel-gpio
 - node-red-contrib-gpio
 - galileo-io
-- node-red-node-intel-gpio
 - node-red
+
+## node-red-node-intel-gpio
+
+> A Node-RED node to talk to an Intel Galileo or Edison using mraa
+
+- [NPM JS node-red-node-intel-gpio](https://www.npmjs.com/package/node-red-node-intel-gpio)
+
+```sh
+    root@edison:~# npm i node-red-node-intel-gpio
+    -\|/-\|/-\|/-\|/-\|/-\|node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
+```
+
+Look at Node Intel-GPIO
+
+- Digital In
+- Digital Out
+- Digital PWM
 
 ## node-red-contrib-gpio
 
@@ -55,23 +72,6 @@ Install the following npm packages:
     ��├��─��─ remapped@0.2.1 (getobject@0.1.0, traverse@0.6.6)
     ��└��─��─ es6-shim@0.35.0
 ```
-
-## node-red-node-intel-gpio
-
-> A Node-RED node to talk to an Intel Galileo or Edison using mraa
-
-- [NPM JS node-red-node-intel-gpio](https://www.npmjs.com/package/node-red-node-intel-gpio)
-
-```sh
-    root@edison:~# npm i node-red-node-intel-gpio
-    -\|/-\|/-\|/-\|/-\|/-\|node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
-```
-
-Look at Node Intel-GPIO
-
-- Digital In
-- Digital Out
-- Digital PWM
 
 ## node-red
 
