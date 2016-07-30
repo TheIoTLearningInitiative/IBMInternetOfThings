@@ -207,7 +207,7 @@ Welcome to Node-RED
 
     root@edison:~# ls .node-red      
     flows_edison.json  lib                node_modules       settings.js
-    root@edison:~#
+    root@edison:~# 
 ```
 
 ## PC
