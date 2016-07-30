@@ -141,6 +141,27 @@ root@edison:~#
 ## mraa
 
 ```sh
+root@edison:~# opkg update
+Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//Packages.
+Updated list of available packages in /var/lib/opkg/iotkit.
+Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/all/Packages.
+Updated list of available packages in /var/lib/opkg/iotdk-all.
+Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/core2-32/Packages.
+Updated list of available packages in /var/lib/opkg/iotdk-core2-32.
+Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/edison/Packages.
+Updated list of available packages in /var/lib/opkg/iotdk-edison.
+root@edison:~# opkg install mraa
+Upgrading mraa from 1.0.0-r0 to 1.1.2 on root.
+Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//mraa_1.1.2_i586.ipk.
+Removing package mraa-dev from root...
+Removing package mraa-doc from root...
+Removing obsolete file /usr/lib/libmraa.so.1.0.0.
+Removing obsolete file /usr/bin/mraa-gpio.
+Configuring mraa.
+root@edison:~#
+```
+
+```sh
 root@edison:~# npm install mraa
 ```
 
