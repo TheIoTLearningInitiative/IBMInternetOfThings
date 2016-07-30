@@ -232,7 +232,7 @@ root@edison:~/.node-red# npm install node-red-node-upm
 root@edison:~/.node-red# ls node_modules/
 node-red-contrib-gpio          node-red-node-intel-gpio
 node-red-contrib-grove-edison  node-red-node-upm
-root@edison:~/.node-red#
+root@edison:~/.node-red# 
 ```
 
 ## IP Address
