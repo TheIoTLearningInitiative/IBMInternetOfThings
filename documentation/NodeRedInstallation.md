@@ -16,6 +16,12 @@ Installation
 
 ## Intel Edison
 
+Install the following npm packages:
+
+node-red-contrib-gpio
+galileo-io
+node-red
+
 ```sh
     root@edison:~# ifconfig # Get board.ip.adress
     ...
@@ -55,7 +61,7 @@ Installation
 ```
 
 ```sh
-    root@edison:~# npm install -g --unsafe-perm node-red
+     root@edison:~# npm install -g --unsafe-perm node-red
      \|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|//
      > bcrypt@0.8.5 install /usr/lib/node_modules/node-red/node_modules/bcrypt
      > node-gyp rebuild
