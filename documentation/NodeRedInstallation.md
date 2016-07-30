@@ -29,8 +29,9 @@ Install the following npm packages:
 - [NPM JS node-red-node-intel-gpio](https://www.npmjs.com/package/node-red-node-intel-gpio)
 
 ```sh
-    root@edison:~# npm i node-red-node-intel-gpio
-    -\|/-\|/-\|/-\|/-\|/-\|node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
+root@edison:~# npm install node-red-node-intel-gpio
+node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
+root@edison:~#
 ```
 
 Look at Node Intel-GPIO
