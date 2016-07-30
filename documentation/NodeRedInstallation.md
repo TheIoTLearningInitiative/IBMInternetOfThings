@@ -264,7 +264,64 @@ Welcome to Node-RED
 30 Jul 16:45:03 - [info] Starting flows
 30 Jul 16:45:03 - [info] Started flows
 30 Jul 16:45:04 - [info] Server now running at http://127.0.0.1:1880/
+```
 
+```sh
+root@edison:~# ls /usr/lib/node_modules/
+iotkit                    jsupm_grovewater  jsupm_mq303a
+iotkit-agent              jsupm_grovewfs    jsupm_my9221
+iotkit-comm               jsupm_guvas12d    jsupm_nlgpio16
+jsupm_a110x               jsupm_h3lis331dl  jsupm_nrf24l01
+jsupm_ad8232              jsupm_h803x       jsupm_nrf8001
+jsupm_adafruitms1438      jsupm_hcsr04      jsupm_nunchuck
+jsupm_adafruitss          jsupm_hdxxvxta    jsupm_otp538u
+jsupm_adc121c021          jsupm_hlg150h     jsupm_ozw
+jsupm_adis16448           jsupm_hm11        jsupm_pca9685
+jsupm_ads1x15             jsupm_hmc5883l    jsupm_pn532
+jsupm_adxl335             jsupm_hmtrp       jsupm_ppd42ns
+jsupm_adxl345             jsupm_hp20x       jsupm_pulsensor
+jsupm_adxrs610            jsupm_ht9170      jsupm_rfr359f
+jsupm_am2315              jsupm_htu21d      jsupm_rgbringcoder
+jsupm_apa102              jsupm_hwxpxx      jsupm_rhusb
+jsupm_apds9002            jsupm_hx711       jsupm_rotaryencoder
+jsupm_apds9930            jsupm_i2clcd      jsupm_rpr220
+jsupm_at42qt1070          jsupm_ili9341     jsupm_servo
+jsupm_biss0001            jsupm_ina132      jsupm_si1132
+jsupm_bma220              jsupm_interfaces  jsupm_si114x
+jsupm_bmi160              jsupm_isd1820     jsupm_si7005
+jsupm_bmp280              jsupm_itg3200     jsupm_sm130
+jsupm_bmpx8x              jsupm_joystick12  jsupm_smartdrive
+jsupm_bno055              jsupm_kxcjk1013   jsupm_ssd1351
+jsupm_buzzer              jsupm_l298        jsupm_st7735
+jsupm_cjq4435             jsupm_l3gd20      jsupm_stepmotor
+jsupm_cwlsxxa             jsupm_ldt0028     jsupm_sx1276
+jsupm_dfrph               jsupm_lm35        jsupm_sx6119
+jsupm_ds1307              jsupm_lol         jsupm_t3311
+jsupm_ds1808lc            jsupm_loudness    jsupm_t6713
+jsupm_ds18b20             jsupm_lp8860      jsupm_ta12200
+jsupm_ds2413              jsupm_lpd8806     jsupm_tcs3414cs
+jsupm_ecs1030             jsupm_lsm303      jsupm_teams
+jsupm_enc03r              jsupm_lsm9ds0     jsupm_tex00
+jsupm_flex                jsupm_m24lr64e    jsupm_th02
+jsupm_gas                 jsupm_max31723    jsupm_tm1637
+jsupm_gp2y0a              jsupm_max31855    jsupm_tsl2561
+jsupm_grove               jsupm_max44000    jsupm_ttp223
+jsupm_grovecollision      jsupm_max44009    jsupm_ublox6
+jsupm_groveehr            jsupm_max5487     jsupm_uln200xa
+jsupm_groveeldriver       jsupm_maxds3231m  jsupm_urm37
+jsupm_groveelectromagnet  jsupm_maxsonarez  jsupm_vcap
+jsupm_groveemg            jsupm_mcp9808     jsupm_waterlevel
+jsupm_grovegprs           jsupm_mg811       jsupm_wheelencoder
+jsupm_grovegsr            jsupm_mhz16       jsupm_wt5001
+jsupm_grovelinefinder     jsupm_mic         jsupm_xbee
+jsupm_grovemd             jsupm_micsv89     jsupm_yg1006
+jsupm_grovemoisture       jsupm_mlx90614    jsupm_zfm20
+jsupm_groveo2             jsupm_mma7455     mraa
+jsupm_grovescam           jsupm_mma7660     node-red
+jsupm_grovespeaker        jsupm_mpl3115a2   npm
+jsupm_groveultrasonic     jsupm_mpr121      wyliodrin
+jsupm_grovevdiv           jsupm_mpu9150
+root@edison:~# 
 ```
 
 ## Launch #2
@@ -293,9 +350,3 @@ Welcome to Node-RED
 ## PC
 
 Go to http://<board.ip.adress>:1880/#
-
-```sh
-root@edison:~# ls /usr/lib/node_modules/
-iotkit                    jsupm_grovevdiv           jsupm_mpl3115a2
-jsupm_grovespeaker        jsupm_mma7660
-```
