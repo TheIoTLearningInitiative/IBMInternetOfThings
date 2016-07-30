@@ -138,7 +138,9 @@ galileo-io@0.9.4 node_modules/galileo-io
 root@edison:~# 
 ```
 
-## Get board.ip.adress
+## IP Address
+
+Get board.ip.adress
 
 ```sh
     root@edison:~# ifconfig
