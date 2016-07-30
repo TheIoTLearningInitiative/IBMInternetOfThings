@@ -110,10 +110,10 @@ node-red-contrib-gpio@0.8.0 node_modules/node-red-contrib-gpio
 └── firmata@0.11.3 (browser-serialport@2.0.3, es6-shim@0.33.13, serialport@2.1.2)
 ```
 
-## node-red-contrib-gpio
+## galileo-io
 
 ```sh
-    root@edison:~# npm install galileo-io
+root@edison:~# npm install galileo-io
 ```
 
 ```sh
