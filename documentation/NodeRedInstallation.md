@@ -35,7 +35,7 @@ Install the following npm packages:
     root@edison:~# npm install node-red-contrib-gpio
 ```
 
-v```sh
+```sh
      -\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\|/-\|/-\|/|
      > meshblu@1.32.0 preinstall /home/root/node_modules/node-red-contrib-gpio/node_modules/meshblu
      ...
