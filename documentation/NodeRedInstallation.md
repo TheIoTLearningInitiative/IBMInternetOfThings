@@ -160,6 +160,12 @@ node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
 root@edison:~/.node-red# 
 ```
 
+```sh
+root@edison:~/.node-red# ls node_modules/
+node-red-contrib-grove-edison  node-red-node-intel-gpio
+root@edison:~/.node-red# 
+```
+
 ## node-red-contrib-gpio
 
 ```sh
