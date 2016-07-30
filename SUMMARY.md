@@ -25,7 +25,7 @@
    * [Installation](documentation/NodeRedInstallation.md)
    * [Projects](documentation/NodeRedProjects.md)
        * [Input Inject + Output Debug](documentation/NodeRedInputIInjectOutputDebug.md)
-       * Input Mqtt + Output Debug
+       * [Input Mqtt + Output Debug](documentation/NodeRedInputMqttOutputDebug.md)
 * [Cloud Foundry CLI](documentation/CloudFoundryCli.md)
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
