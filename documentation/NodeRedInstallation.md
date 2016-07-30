@@ -186,16 +186,16 @@ root@edison:~/.node-red# npm install node-red-contrib-gpio
 ...
 ```
 
-- Device	IO Plugin
-- Arduino/Firmata	firmata
-- Raspberry Pi	raspi-io
-- BeagleBone Black	beaglebone-io
-- C.H.I.P.	chip-io
-- Galileo/Edison	galileo-io
-- Blend Micro	blend-micro-io
-- LightBlue Bean	bean-io
-- Electirc Imp	imp-io
-- Particle(Spark) Core	particle-io
+- Device: IO Plugin
+  - Arduino/Firmata: firmata
+  - Raspberry Pi: raspi-io
+  - BeagleBone Black: beaglebone-io
+  - C.H.I.P.: chip-io
+  - Galileo/Edison: galileo-io
+  - Blend Micro: blend-micro-io
+  - LightBlue Bean:	bean-io
+  - Electirc Imp: imp-io
+  - Particle(Spark) Core: particle-io
 
 ## IP Address
 
