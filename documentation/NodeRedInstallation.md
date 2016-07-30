@@ -19,6 +19,7 @@ Install the following npm packages:
 
 - node-red-contrib-gpio
 - galileo-io
+- node-red-node-intel-gpio
 - node-red
 
 ```sh
