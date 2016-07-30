@@ -19,6 +19,7 @@
 Install the following npm packages:
 
 - node-red
+- mraa
 - node-red-node-intel-gpio
 - node-red-contrib-gpio
 - galileo-io
@@ -69,6 +70,40 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 ├── cheerio@0.19.0 (entities@1.1.1, dom-serializer@0.1.0, css-select@1.0.0, htmlparser2@3.8.3, lodash@3.10.1)
 ├── xml2js@0.4.17 (sax@1.2.1, xmlbuilder@4.2.1)
 └── node-red-node-serialport@0.2.1 (serialport@2.1.2)
+```
+
+## mraa
+
+```sh
+root@edison:~# opkg update
+Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//Packages.
+Updated list of available packages in /var/lib/opkg/iotkit.
+Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/all/Packages.
+Updated list of available packages in /var/lib/opkg/iotdk-all.
+Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/core2-32/Packages.
+Updated list of available packages in /var/lib/opkg/iotdk-core2-32.
+Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/edison/Packages.
+Updated list of available packages in /var/lib/opkg/iotdk-edison.
+root@edison:~# opkg install mraa
+Upgrading mraa from 1.0.0-r0 to 1.1.2 on root.
+Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//mraa_1.1.2_i586.ipk.
+Removing package mraa-dev from root...
+Removing package mraa-doc from root...
+Removing obsolete file /usr/lib/libmraa.so.1.0.0.
+Removing obsolete file /usr/bin/mraa-gpio.
+Configuring mraa.
+root@edison:~# 
+```
+
+```sh
+root@edison:~# npm install mraa
+```
+
+```
+  SOLINK_MODULE(target) Release/obj.target/mraa.node
+  COPY Release/mraa.node
+make: Leaving directory '/home/root/node_modules/mraa/build'
+mraa@1.1.2 node_modules/mraa
 ```
 
 ## node-red-node-intel-gpio
@@ -136,40 +171,6 @@ galileo-io@0.9.4 node_modules/galileo-io
 ├── es6-shim@0.35.1
 └── remapped@0.2.1 (getobject@0.1.0, traverse@0.6.6)
 root@edison:~# 
-```
-
-## mraa
-
-```sh
-root@edison:~# opkg update
-Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//Packages.
-Updated list of available packages in /var/lib/opkg/iotkit.
-Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/all/Packages.
-Updated list of available packages in /var/lib/opkg/iotdk-all.
-Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/core2-32/Packages.
-Updated list of available packages in /var/lib/opkg/iotdk-core2-32.
-Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/edison/Packages.
-Updated list of available packages in /var/lib/opkg/iotdk-edison.
-root@edison:~# opkg install mraa
-Upgrading mraa from 1.0.0-r0 to 1.1.2 on root.
-Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//mraa_1.1.2_i586.ipk.
-Removing package mraa-dev from root...
-Removing package mraa-doc from root...
-Removing obsolete file /usr/lib/libmraa.so.1.0.0.
-Removing obsolete file /usr/bin/mraa-gpio.
-Configuring mraa.
-root@edison:~#
-```
-
-```sh
-root@edison:~# npm install mraa
-```
-
-```
-  SOLINK_MODULE(target) Release/obj.target/mraa.node
-  COPY Release/mraa.node
-make: Leaving directory '/home/root/node_modules/mraa/build'
-mraa@1.1.2 node_modules/mraa
 ```
 
 ## IP Address
