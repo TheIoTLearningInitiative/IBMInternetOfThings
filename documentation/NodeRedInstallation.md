@@ -189,7 +189,7 @@ root@edison:~/.node-red# npm install node-red-contrib-gpio
 
 ## IP Address
 
-Get board.ip.adress
+Get Board IP Adress
 
 ```sh
     root@edison:~# ifconfig
