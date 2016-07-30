@@ -6,7 +6,7 @@
 
 ## @ Node-Red Flow Space
 
-> Input Inject
+> Node Input: Inject
 > > Payload Timestamp
 > > Repeat Interval 1 Second
 
