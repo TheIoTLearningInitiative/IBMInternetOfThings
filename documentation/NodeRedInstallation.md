@@ -98,12 +98,6 @@ root@edison:~# npm install node-red-contrib-gpio
 
 ```
 
-```sh
-root@edison:~# ls /usr/lib/node_modules/
-iotkit                    jsupm_grovevdiv           jsupm_mpl3115a2
-jsupm_grovespeaker        jsupm_mma7660
-```
-
 ## node-red-contrib-gpio
 
 ```sh
@@ -163,3 +157,9 @@ jsupm_grovespeaker        jsupm_mma7660
 ## PC
 
 Go to http://<board.ip.adress>:1880/#
+
+```sh
+root@edison:~# ls /usr/lib/node_modules/
+iotkit                    jsupm_grovevdiv           jsupm_mpl3115a2
+jsupm_grovespeaker        jsupm_mma7660
+```
