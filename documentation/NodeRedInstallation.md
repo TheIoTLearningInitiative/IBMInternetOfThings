@@ -63,7 +63,7 @@ Install the following npm packages:
     ��└��─��─ es6-shim@0.35.0
 ```
 
-# node-red-contrib-gpio
+# node-red
 
 ```sh
      root@edison:~# npm install -g --unsafe-perm node-red
