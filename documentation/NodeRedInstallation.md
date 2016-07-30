@@ -22,7 +22,7 @@ Install the following npm packages:
 - node-red-node-intel-gpio
 - node-red
 
-# node-red-contrib-gpio
+## node-red-contrib-gpio
 
 ```sh
     root@edison:~# npm install node-red-contrib-gpio
@@ -39,7 +39,7 @@ Install the following npm packages:
     jsupm_grovespeaker        jsupm_mma7660
 ```
 
-# node-red-contrib-gpio
+## node-red-contrib-gpio
 
 ```sh
     root@edison:~# npm install galileo-io
@@ -56,7 +56,7 @@ Install the following npm packages:
     ��└��─��─ es6-shim@0.35.0
 ```
 
-# node-red-node-intel-gpio
+## node-red-node-intel-gpio
 
 > A Node-RED node to talk to an Intel Galileo or Edison using mraa
 
@@ -73,7 +73,7 @@ Look at Node Intel-GPIO
 - Digital Out
 - Digital PWM
 
-# node-red
+## node-red
 
 ```sh
      root@edison:~# npm install -g --unsafe-perm node-red
@@ -85,7 +85,7 @@ Look at Node Intel-GPIO
      ��└��─��─ node-red-node-serialport@0.1.2 (serialport@2.0.6)
 ```
 
-# Get board.ip.adress
+## Get board.ip.adress
 
 ```sh
     root@edison:~# ifconfig
