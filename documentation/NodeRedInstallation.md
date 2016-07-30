@@ -52,6 +52,9 @@ Installation
     ...
     ��├��─��─ remapped@0.2.1 (getobject@0.1.0, traverse@0.6.6)
     ��└��─��─ es6-shim@0.35.0
+```
+
+```sh
     root@edison:~# npm install -g --unsafe-perm node-red
      \|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|//
      > bcrypt@0.8.5 install /usr/lib/node_modules/node-red/node_modules/bcrypt
