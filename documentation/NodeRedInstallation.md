@@ -19,10 +19,10 @@
 Install the following npm packages:
 
 - mraa
+- galileo-io
 - node-red
 - node-red-node-intel-gpio
 - node-red-contrib-gpio
-- galileo-io
 
 ## mraa
 
