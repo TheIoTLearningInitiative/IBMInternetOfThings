@@ -28,6 +28,7 @@ Install the following npm packages:
 > A Node-RED node to talk to an Intel Galileo or Edison using mraa
 
 - [NPM JS node-red-node-intel-gpio](https://www.npmjs.com/package/node-red-node-intel-gpio)
+- [node-red-node-intel-gpio](http://flows.nodered.org/node/node-red-node-intel-gpio)
 
 ```sh
 root@edison:~# npm install node-red-node-intel-gpio
