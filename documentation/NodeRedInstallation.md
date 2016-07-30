@@ -26,7 +26,7 @@ Install the following npm packages:
 ## node-red
 
 ```sh
-     root@edison:~# npm install -g --unsafe-perm node-red
+     root@edison:~# npm install -g node-red
      \|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|//
      > bcrypt@0.8.5 install /usr/lib/node_modules/node-red/node_modules/bcrypt
      > node-gyp rebuild
