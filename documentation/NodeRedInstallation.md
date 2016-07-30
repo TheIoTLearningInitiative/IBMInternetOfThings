@@ -26,13 +26,35 @@ Install the following npm packages:
 ## node-red
 
 ```sh
-     root@edison:~# npm install -g node-red
-     \|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|//
-     > bcrypt@0.8.5 install /usr/lib/node_modules/node-red/node_modules/bcrypt
-     > node-gyp rebuild
-     ...
-     ��├��─��─ ws@0.8.1 (options@0.0.6, ultron@1.0.2, utf-8-validate@1.2.1, bufferutil@1.2.1)
-     ��└��─��─ node-red-node-serialport@0.1.2 (serialport@2.0.6)
+root@edison:~# npm install -g node-red
+```
+
+```sh
+npm WARN deprecated tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+
+> bcrypt@0.8.7 install /home/root/node_modules/node-red/node_modules/bcrypt
+> node-gyp rebuild
+
+make: Entering directory '/home/root/node_modules/node-red/node_modules/bcrypt/build'
+  CXX(target) Release/obj.target/bcrypt_lib/src/blowfish.o
+  CXX(target) Release/obj.target/bcrypt_lib/src/bcrypt.o
+  CXX(target) Release/obj.target/bcrypt_lib/src/bcrypt_node.o
+  SOLINK_MODULE(target) Release/obj.target/bcrypt_lib.node
+  COPY Release/bcrypt_lib.node
+make: Leaving directory '/home/root/node_modules/node-red/node_modules/bcrypt/build'
+npm WARN deprecated i18next-client@1.10.3: you can use npm install i18next from version 2.0.0
+
+> utf-8-validate@1.2.1 install /home/root/node_modules/node-red/node_modules/ws/node_modules/utf-8-validate
+> node-gyp rebuild
+
+make: Entering directory '/home/root/node_modules/node-red/node_modules/ws/node_modules/utf-8-validate/build'
+  CXX(target) Release/obj.target/validation/src/validation.o
+  SOLINK_MODULE(target) Release/obj.target/validation.node
+  COPY Release/validation.node
+make: Leaving directory '/home/root/node_modules/node-red/node_modules/ws/node_modules/utf-8-validate/build'
+
+> bufferutil@1.2.1 install /home/root/node_modules/node-red/node_modules/ws/node_modules/bufferutil
+> node-gyp rebuild
 ```
 
 ## node-red-node-intel-gpio
