@@ -131,6 +131,10 @@ node-red-contrib-gpio@0.8.0 node_modules/node-red-contrib-gpio
 
 ...
 ...
+galileo-io@0.9.4 node_modules/galileo-io
+├── es6-promise@3.2.1
+├── es6-shim@0.35.1
+└── remapped@0.2.1 (getobject@0.1.0, traverse@0.6.6)
 
 ```
 
