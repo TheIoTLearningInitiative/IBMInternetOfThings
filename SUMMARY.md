@@ -20,8 +20,8 @@
    * [Clients](documentation/WatsonClients.md)
        * [C](documentation/WatsonClientsC.md)
        * [Python](documentation/WatsonClientsPython.md)
-   * [Projects](documentation/WatsonProjects.md)
    * Services
+   * [Projects](documentation/WatsonProjects.md)
 * [NodeRED](documentation/NodeRED.md)
    * [Installation](documentation/NodeRedInstallation.md)
    * [Projects](documentation/NodeRedProjects.md)
