@@ -12,9 +12,9 @@
   - Repeat: __Interval__ every __1__ Second
   - Name: 
 
-> Node Output: Debug
-> > Output Message Property
-> > msg.payload
+- Node Output: Debug
+  - Output Message Property
+  - msg.payload
 
 ### Source
 
