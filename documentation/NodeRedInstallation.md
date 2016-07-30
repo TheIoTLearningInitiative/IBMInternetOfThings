@@ -152,13 +152,12 @@ root@edison:~/.node-red#
 
 ```sh
 root@edison:~# cd .node-red/
-root@edison:~/.node-red# npm install node-red-contrib-grove-edison
 ```
 
 ```sh
-root@edison:~# npm install node-red-node-intel-gpio
+root@edison:~/.node-red# npm install node-red-node-intel-gpio
 node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
-root@edison:~#
+root@edison:~/.node-red# 
 ```
 
 ## node-red-contrib-gpio
