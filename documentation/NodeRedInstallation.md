@@ -63,6 +63,23 @@ Install the following npm packages:
     ��└��─��─ es6-shim@0.35.0
 ```
 
+# Intel Edison, node-red-node-intel-gpio
+
+> A Node-RED node to talk to an Intel Galileo or Edison using mraa
+
+- [NPM JS node-red-node-intel-gpio](https://www.npmjs.com/package/node-red-node-intel-gpio)
+
+```sh
+    root@edison:~# npm i node-red-node-intel-gpio
+    -\|/-\|/-\|/-\|/-\|/-\|node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
+```
+
+Look at Node Intel-GPIO
+
+- Digital In
+- Digital Out
+- Digital PWM
+
 # node-red
 
 ```sh
@@ -103,20 +120,3 @@ Install the following npm packages:
     flows_edison.json  lib                node_modules       settings.js
     root@edison:~#
 ```
-
-# Intel Edison, node-red-node-intel-gpio
-
-> A Node-RED node to talk to an Intel Galileo or Edison using mraa
-
-- [NPM JS node-red-node-intel-gpio](https://www.npmjs.com/package/node-red-node-intel-gpio)
-
-```sh
-    root@edison:~# npm i node-red-node-intel-gpio
-    -\|/-\|/-\|/-\|/-\|/-\|node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
-```
-
-Look at Node Intel-GPIO
-
-- Digital In
-- Digital Out
-- Digital PWM
