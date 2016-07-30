@@ -178,7 +178,7 @@ root@edison:~/.node-red#
 ## node-red-contrib-gpio
 
 ```sh
-root@edison:~# npm install node-red-contrib-gpio
+root@edison:~/.node-red# npm install node-red-contrib-gpio
 ```
 
 ```sh
