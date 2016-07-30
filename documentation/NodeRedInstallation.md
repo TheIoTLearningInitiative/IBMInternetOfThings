@@ -138,6 +138,12 @@ galileo-io@0.9.4 node_modules/galileo-io
 root@edison:~# 
 ```
 
+## mraa
+
+```sh
+root@edison:~# npm install mraa
+```
+
 ## IP Address
 
 Get board.ip.adress
