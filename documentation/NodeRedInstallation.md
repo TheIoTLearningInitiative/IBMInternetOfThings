@@ -22,16 +22,6 @@ Install the following npm packages:
 - node-red-node-intel-gpio
 - node-red
 
- # Get board.ip.adress
-
-```sh
-    root@edison:~# ifconfig
-    ...
-    wlan0     Link encap:Ethernet  HWaddr 78:4b:87:a5:3a:73  
-              inet addr:192.168.1.65  Bcast:192.168.1.255  Mask:255.255.255.0
-    ...
-```
-
 # node-red-contrib-gpio
 
 ```sh
@@ -93,6 +83,16 @@ Look at Node Intel-GPIO
      ...
      ��├��─��─ ws@0.8.1 (options@0.0.6, ultron@1.0.2, utf-8-validate@1.2.1, bufferutil@1.2.1)
      ��└��─��─ node-red-node-serialport@0.1.2 (serialport@2.0.6)
+```
+
+# Get board.ip.adress
+
+```sh
+    root@edison:~# ifconfig
+    ...
+    wlan0     Link encap:Ethernet  HWaddr 78:4b:87:a5:3a:73  
+              inet addr:192.168.1.65  Bcast:192.168.1.255  Mask:255.255.255.0
+    ...
 ```
 
 ## Launch #1
