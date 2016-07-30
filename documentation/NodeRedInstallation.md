@@ -151,7 +151,37 @@ root@edison:~#
 ## Launch #1
 
 ```sh
-    root@edison:~# node-red &
+root@edison:~# node-red &
+[1] 1835
+root@edison:~#
+
+Welcome to Node-RED
+===================
+
+30 Jul 16:44:53 - [info] Node-RED version: v0.14.6
+30 Jul 16:44:54 - [info] Node.js  version: v4.4.3
+30 Jul 16:44:54 - [info] Linux 3.10.98-poky-edison+ ia32 LE
+30 Jul 16:44:54 - [info] Loading palette nodes
+30 Jul 16:45:03 - [warn] ------------------------------------------------------
+30 Jul 16:45:03 - [warn] [rpi-gpio] Info : Ignoring Raspberry Pi specific node
+30 Jul 16:45:03 - [warn] [serialport] Error: Could not locate the bindings file. Tried:
+ → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/build/serialport.node
+ → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/build/Debug/serialport.node
+ → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/build/Release/serialport.node
+ → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/out/Debug/serialport.node
+ → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/Debug/serialport.node
+ → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/out/Release/serialport.node
+ → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/Release/serialport.node
+ → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/build/default/serialport.node
+ → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/compiled/4.4.3/linux/ia32/serialport.node
+30 Jul 16:45:03 - [warn] ------------------------------------------------------
+30 Jul 16:45:03 - [info] Settings file  : /home/root/.node-red/settings.js
+30 Jul 16:45:03 - [info] User directory : /home/root/.node-red
+30 Jul 16:45:03 - [info] Flows file     : /home/root/.node-red/flows_edison.json
+30 Jul 16:45:03 - [info] Creating new flow file
+30 Jul 16:45:03 - [info] Starting flows
+30 Jul 16:45:03 - [info] Started flows
+30 Jul 16:45:04 - [info] Server now running at http://127.0.0.1:1880/
 ```
 
 ## Launch #2
