@@ -144,6 +144,13 @@ root@edison:~#
 root@edison:~# npm install mraa
 ```
 
+```
+  SOLINK_MODULE(target) Release/obj.target/mraa.node
+  COPY Release/mraa.node
+make: Leaving directory '/home/root/node_modules/mraa/build'
+mraa@1.1.2 node_modules/mraa
+```
+
 ## IP Address
 
 Get board.ip.adress
