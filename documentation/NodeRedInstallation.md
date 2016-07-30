@@ -123,3 +123,6 @@ Look at Node Intel-GPIO
     flows_edison.json  lib                node_modules       settings.js
     root@edison:~#
 ```
+
+## PC
+
