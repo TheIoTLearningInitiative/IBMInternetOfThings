@@ -204,7 +204,7 @@ Get Board IP Adress
 ```sh
 root@edison:~# node-red &
 [1] 1835
-root@edison:~#
+root@edison:~# 
 
 Welcome to Node-RED
 ===================
