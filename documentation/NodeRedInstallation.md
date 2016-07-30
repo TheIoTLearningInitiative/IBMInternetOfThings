@@ -95,28 +95,8 @@ root@edison:~# npm install node-red-contrib-gpio
 ```
 
 ```sh
-/
-> meshblu@1.34.1 preinstall /home/root/node_modules/node-red-contrib-gpio/node_modules/meshblu
-> node -e "try{require('./skip-install.js')}catch(e){}"
-
-No precompiled binary found
-/
-> serialport@3.1.2 install /home/root/node_modules/node-red-contrib-gpio/node_modules/serialport
-> node-pre-gyp install --fallback-to-build
-
-node-pre-gyp ERR! Tried to download: https://github.com/voodootikigod/node-serialport/releases/download/3.1.2/serialport-v3.1.2-node-v46-linux-ia32.tar.gz
-node-pre-gyp ERR! Pre-built binaries not found for serialport@3.1.2 and node@4.4.3 (node-v46 ABI) (falling back to source compile with node-gyp)
-make: Entering directory '/home/root/node_modules/node-red-contrib-gpio/node_modules/serialport/build'
-  CXX(target) Release/obj.target/serialport/src/serialport.o
-  CXX(target) Release/obj.target/serialport/src/serialport_unix.o
-  CXX(target) Release/obj.target/serialport/src/serialport_poller.o
-  SOLINK_MODULE(target) Release/obj.target/serialport.node
-  COPY Release/serialport.node
-make: Leaving directory '/home/root/node_modules/node-red-contrib-gpio/node_modules/serialport/build'
-
-> serialport@2.1.2 install /home/root/node_modules/node-red-contrib-gpio/node_modules/firmata/node_modules/serialport
-> node-pre-gyp install --fallback-to-build
-
+...
+...
 [serialport] Success: "/home/root/node_modules/node-red-contrib-gpio/node_modules/firmata/node_modules/serialport/build/Release/serialport.node" is installed via remote
 node-red-contrib-gpio@0.8.0 node_modules/node-red-contrib-gpio
 ├── udp-serial@0.2.0
