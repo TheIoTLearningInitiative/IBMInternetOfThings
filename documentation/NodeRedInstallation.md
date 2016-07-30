@@ -137,6 +137,10 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 ## node-red-contrib-gpio
 
 ```sh
+root@edison:~# cd .node-red/
+```
+
+```sh
 root@edison:~/.node-red# npm install node-red-contrib-gpio
 ```
 
