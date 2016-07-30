@@ -22,7 +22,13 @@ Installation
     wlan0     Link encap:Ethernet  HWaddr 78:4b:87:a5:3a:73  
               inet addr:192.168.1.65  Bcast:192.168.1.255  Mask:255.255.255.0
     ...
+```
+
+```sh
     root@edison:~# npm install node-red-contrib-gpio
+```
+
+```sh
      -\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\|/-\|/-\|/|
      > meshblu@1.32.0 preinstall /home/root/node_modules/node-red-contrib-gpio/node_modules/meshblu
      ...
@@ -31,7 +37,13 @@ Installation
     root@edison:~# ls /usr/lib/node_modules/
     iotkit                    jsupm_grovevdiv           jsupm_mpl3115a2
     jsupm_grovespeaker        jsupm_mma7660
+```
+
+```sh
     root@edison:~# npm install galileo-io
+```
+
+```sh
     -\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|-\|/-\|/-\|/-\|/-
     > galileo-io@0.9.4 postinstall /home/root/node_modules/galileo-io
     > node scripts/postinstall
@@ -47,8 +59,14 @@ Installation
      ...
      ��├��─��─ ws@0.8.1 (options@0.0.6, ultron@1.0.2, utf-8-validate@1.2.1, bufferutil@1.2.1)
      ��└��─��─ node-red-node-serialport@0.1.2 (serialport@2.0.6)
+```
+
+```sh
     root@edison:~# node-red &
-root@edison:~# ./node_modules/node-red/bin/node-red-pi 
+```
+
+```sh
+    root@edison:~# ./node_modules/node-red/bin/node-red-pi 
     
     Welcome to Node-RED
     ===================
