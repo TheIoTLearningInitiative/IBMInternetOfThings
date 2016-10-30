@@ -27,10 +27,8 @@ Thanks for creating a Python Flask Starter Application.
 
 ## Hello World Python Flask App, Cloud Foundry Command Line Interface
 
-ToDo
-
 1. Go to https://github.com/cloudfoundry/cli
-2. Download and install CF Cli from [](https://github.com/cloudfoundry/cli/releases)
+2. Download and install CF Cli from [CloudFoundry Command Line Interface](https://github.com/cloudfoundry/cli/releases)
 ```sh
 xe1gyq@jessie:~/Downloads$ sudo dpkg -i cf-cli-installer_6.16.1_i686.deb 
 Selecting previously unselected package cf-cli.
