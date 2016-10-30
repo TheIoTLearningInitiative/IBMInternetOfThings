@@ -34,6 +34,14 @@ Recipes and code for
 - [5](http://rexstjohn.com/publish-to-ibm-bluemix-via-mosquitto-from-intel-edison/)
 - [6](http://www.iotdevfest.com/files/Stewart-IoTDevfest2016.pdf)
 
+
+# Boilerplates. Get started with IBM Watson IoT platform using the Node-RED Node.js sample application. 
+
+> With the Starter, you can quickly simulate an Internet of Things device, create cards, generate data, and begin analyzing and displaying data in the Watson IoT Platform dashboard.
+
+> Internet of Things Platform Starter. Get started with IBM Watson IoT platform using the Node-RED Node.js sample application. With the Starter, you can quickly simulate an Internet of Things device, create cards, generate data, and begin analyzing and displaying data in the Watson IoT Platform dashboard.
+IBM
+
 # IoT Real-Time Insights
 
 > The IBM IoT Real-Time Insights services allows you to understand IoT data in context and monitor the conditions of your devices and operations. IoT Real-Time Insights works with Internet of Things Foundation to enrich and monitor data from you devices, visualize what’s happening now, and respond to emerging conditions through automated actions.
