@@ -1,4 +1,4 @@
-# Registration
+# Registration, Create Device Type
 
 Create Device Type
 
