@@ -1,5 +1,4 @@
-Quick Start
-==
+# Quick Start
 
 > Quickstart is an open sandbox allowing developers to quickly and easily get devices connected to the Watson IoT platform with registration required. 
 
