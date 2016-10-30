@@ -20,7 +20,7 @@ GIT BRANCH: master
 APP NAME: python-hello-world-flask-theiotlearninginitiative-1634
 REGION: IBM Bluemix US South
 ORGANIZATUION: theiotlearninginitiative
-SPACE:
+SPACE: dev
 ```
 3. Go to
 http://xe1gyq-flask.mybluemix.net/
