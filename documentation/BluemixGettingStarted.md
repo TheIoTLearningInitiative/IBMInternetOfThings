@@ -29,8 +29,7 @@ Deploy!
 http://tili-python-hello-world-flask-0001.mybluemix.net/
 
 ```sh
-Hi there!
-Thanks for creating a Python Flask Starter Application.
+Hello World! I am running on port 63608
 ```
 
 ## Hello World Python Flask App, Cloud Foundry Command Line Interface
