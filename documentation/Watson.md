@@ -37,6 +37,11 @@
 > > AlchemyVision
 > > Visual Recognition
 
+## Watson Text Analytics
+
+> Mine unstructured textual data, including transcripts from call centers, technician maintenance logs and blog comments to find correlations and patterns in the vast amounts of data from these sources. Uses:
+> > AlchemyLanguage
+
 ## Use Cases
 
 - [IBM Watson News Explorer](http://news-explorer.mybluemix.net/)
