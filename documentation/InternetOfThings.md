@@ -34,9 +34,9 @@ Recipes and code for
 - [5](http://rexstjohn.com/publish-to-ibm-bluemix-via-mosquitto-from-intel-edison/)
 - [6](http://www.iotdevfest.com/files/Stewart-IoTDevfest2016.pdf)
 
-# App Boilerplates Node-RED Node.js Sample Application
+# App Boilerplates Internet of Things Platform Starter
 
-> Internet of Things Platform Starter. Get started with IBM Watson IoT platform using the Node-RED Node.js sample application. With the Starter, you can quickly simulate an Internet of Things device, create cards, generate data, and begin analyzing and displaying data in the Watson IoT Platform dashboard.
+>  Get started with IBM Watson IoT platform using the Node-RED Node.js sample application. With the Starter, you can quickly simulate an Internet of Things device, create cards, generate data, and begin analyzing and displaying data in the Watson IoT Platform dashboard.
 
 
 # Internet of Things Platform
