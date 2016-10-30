@@ -17,7 +17,7 @@
 * [Watson](documentation/Watson.md)
    * [Internet of Things](documentation/WatsonInternetOfThings.md)
    * [Quick Start](documentation/QuickStart.md)
-       * IBM Watson IoT Platform Connect
+       * [IBM Watson IoT Platform Connect](documentation/IbmWatsonIoTPlatformConnect.md)
    * [Clients](documentation/WatsonClients.md)
        * [C](documentation/WatsonClientsC.md)
        * [Python](documentation/WatsonClientsPython.md)
