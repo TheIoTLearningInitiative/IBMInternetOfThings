@@ -14,9 +14,10 @@ Instructions from [Youtube Jeff Sloyer Deploying a Hello World Python Flask App 
 2. [Click on "Deploy to Bluemix"](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/bluemix-python-flask-sample)
 
 ```
-BLUEMIX-PYTHON-FLASK-SAMPLE
-GIT URL: https://github.com/IBM-Bluemix/bluemix-python-flask-sample
+PYTHON-HELLO-WORLD-FLASK
+GIT URL: https://github.com/IBM-Bluemix/python-hello-world-flask
 GIT BRANCH: master
+APP NAME: python-hello-world-flask-theiotlearninginitiative-1634
 ```
 3. Go to
 http://xe1gyq-flask.mybluemix.net/
