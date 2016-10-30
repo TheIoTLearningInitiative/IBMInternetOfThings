@@ -22,3 +22,4 @@ Under the Connect your devices section, click on Launch dashboard. This will tak
 > Plan
 > > Change Pricing Plan
 > Connections
+> > No Connected Apps or Services. Click Create Connection to connect Tili Internet of Things Platform to one of your existing apps or compatible services.
