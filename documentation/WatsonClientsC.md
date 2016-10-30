@@ -23,8 +23,8 @@ Compiling source files ...
 Linking libiotf.so libwiotdevice.so
 Removing temporary files...
 Build complete
-root@edison:~/iotf-embeddedc# cd samples/
-root@edison:~/iotf-embeddedc/samples# ls
+root@board:~/iotf-embeddedc# cd samples/
+root@board:~/iotf-embeddedc/samples# ls
 Makefile         build.sh         gateway.cfg      sampleDevice.c
 README.md        device.cfg       helloWorld.c     sampleGateway.c
 root@board:~/iotf-embeddedc/samples# make          
