@@ -39,37 +39,37 @@ Thanks for creating a Python Flask Starter Application.
 2. Download and install CF Cli from [CloudFoundry Command Line Interface](https://github.com/cloudfoundry/cli/releases)
 
 ```sh
-xe1gyq@jessie:~/Downloads$ sudo dpkg -i cf-cli-installer_6.16.1_i686.deb 
+user@workstation:~/Downloads$ sudo dpkg -i cf-cli-installer_6.16.1_i686.deb 
 Selecting previously unselected package cf-cli.
 (Reading database ... 152345 files and directories currently installed.)
 Preparing to unpack cf-cli-installer_6.16.1_i686.deb ...
 Unpacking cf-cli (6.16.1) ...
 Setting up cf-cli (6.16.1) ...
-xe1gyq@jessie:~/Downloads$ cd
-xe1gyq@jessie:~$ 
+user@workstation:~/Downloads$ cd
+user@workstation:~$ 
 ```
 
 ```sh
-xe1gyq@jessie:~$ mkdir ibmbluemix
-xe1gyq@jessie:~$ cd ibmbluemix/
-xe1gyq@jessie:~/ibmbluemix$ git clone https://github.com/IBM-Bluemix/bluemix-python-flask-sample.git
+user@workstation:~$ mkdir ibmbluemix
+user@workstation:~$ cd ibmbluemix/
+user@workstation:~/ibmbluemix$ git clone https://github.com/IBM-Bluemix/bluemix-python-flask-sample.git
 Cloning into 'bluemix-python-flask-sample'...
 remote: Counting objects: 58, done.
 remote: Compressing objects: 100% (11/11), done.
 remote: Total 58 (delta 4), reused 0 (delta 0), pack-reused 45
 Unpacking objects: 100% (58/58), done.
 Checking connectivity... done.
-xe1gyq@jessie:~/ibmbluemix$ cd bluemix-python-flask-sample
-xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ ls
+user@workstation:~/ibmbluemix$ cd bluemix-python-flask-sample
+user@workstation:~/ibmbluemix/bluemix-python-flask-sample$ ls
 LICENSE       NOTICE    README.md         runtime.txt  welcome.py
 manifest.yml  Procfile  requirements.txt  static
-xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ 
-xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cat manifest.yml
+user@workstation:~/ibmbluemix/bluemix-python-flask-sample$ 
+user@workstation:~/ibmbluemix/bluemix-python-flask-sample$ cat manifest.yml
 ---
 applications:
 - name: bluemix-python-flask-sample
   memory: 128M
-xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cf login -a https://api.ng.bluemix.net
+user@workstation:~/ibmbluemix/bluemix-python-flask-sample$ cf login -a https://api.ng.bluemix.net
 API endpoint: api.ng.bluemix.net
 Email> user@gmail.com
 Password> 
@@ -85,7 +85,7 @@ API endpoint:   https://api.ng.bluemix.net (API version: 2.40.0)
 User:           theiotlearninginitiative@gmail.com   
 Org:            theiotlearninginitiative@gmail.com   
 Space:          dev   
-xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ xe1gyq@jessie:~/ibmbluemix/bluemix-python-flask-sample$ cf push xeflask -m 128M
+user@workstation:~/ibmbluemix/bluemix-python-flask-sample$ user@workstation:~/ibmbluemix/bluemix-python-flask-sample$ cf push xeflask -m 128M
 Using manifest file /home/xe1gyq/ibmbluemix/bluemix-python-flask-sample/manifest.yml
 Creating app xeflask in org theiotlearninginitiative / space dev as theiotlearninginitiative...
 OK
