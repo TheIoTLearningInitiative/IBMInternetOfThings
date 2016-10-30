@@ -26,7 +26,8 @@ Under the Connect your devices section, click on Launch dashboard. This will tak
 > > > Launch dashboard
 
 > > Analyze your data
-Use the newly integrated triggers and alerts to monitor real-time conditions and take action on emerging situations. See our recipes site to find tutorials on how you can make the most of our new capabilities.
+
+> > > Use the newly integrated triggers and alerts to monitor real-time conditions and take action on emerging situations. See our recipes site to find tutorials on how you can make the most of our new capabilities.
 
 > > Learn how to extend your app
 
