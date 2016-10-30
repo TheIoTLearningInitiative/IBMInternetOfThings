@@ -91,6 +91,7 @@ Creating app xeflask in org theiotlearninginitiative / space dev as theiotlearni
 OK
 Creating route xeflask.mybluemix.net...
 ```
+
 3. Go to
 http://xeflask.mybluemix.net/
 
