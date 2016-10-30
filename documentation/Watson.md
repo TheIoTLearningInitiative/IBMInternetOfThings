@@ -24,7 +24,12 @@
 > > Text to Speech
 > > Speech to Text
 
+## Watson Machine Learning
 
+> Automate data processing and rank data based on learned priorities. Machine Learning can be applied to IoT data to automatically understand current conditions, expected trends and suggested actions when issues arise. Uses:
+> > Watson Analytics
+> > Tradeoff Analytics
+> > Apache Spark machine learning library
 
 ## Use Cases
 
