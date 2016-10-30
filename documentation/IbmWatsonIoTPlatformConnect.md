@@ -4,6 +4,7 @@
 2. Click on CATALOG tab
 3. Search and select the Internet of Things Platform service
 4. Type the Service Name "Tili Internet of Things Platform" and click Create button
+   - Service Name: Tili Internet of Things Platform
    - AUTHOR: IBM
    - PUBLISHED: 09/14/2016
    - TYPE: Service
