@@ -80,9 +80,7 @@ __Boilerplates__ Get started with a new app, now
   - IoT Real-Time Insights IBM
   - flowthings.io Third Party
 
-### Hands-On
-
-#### IBM IoT Foundation Python
+### IBM IoT Foundation Python
 
 ```sh
     # pip install ibmiotf
