@@ -11,6 +11,19 @@
 - [IBM Watson Developer Community](https://developer.ibm.com/watson/)
 - [IBM Watson Developer Cloud](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/)
 
+# Arquitecture
+
+## Watson Natural Language Processing
+
+> Automatically link words to the user’s meaning and intent and correlate with other sources of data to put interactions into context of specific solutions. Uses:
+> > Natural Language Classifier
+> > Concept Expansion
+> > Conversation
+> > Dialog
+> > Language Translation
+> > Text to Speech
+> > Speech to Text
+
 ## Use Cases
 
 - [IBM Watson News Explorer](http://news-explorer.mybluemix.net/)
