@@ -26,7 +26,7 @@ Deploy!
 ```
 
 3. Go to
-http://xe1gyq-flask.mybluemix.net/
+http://tili-python-hello-world-flask-0001.mybluemix.net/
 
 ```sh
 Hi there!
