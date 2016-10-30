@@ -36,5 +36,4 @@
    - Enter device ID (required)
 3. Metadata (optional) 
    - > Metadata must be added as JSON; plain text cannot be used.
-
-
+4. 
