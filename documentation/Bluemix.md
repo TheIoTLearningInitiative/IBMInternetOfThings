@@ -83,8 +83,7 @@ __Boilerplates__ Get started with a new app, now
 ### IBM IoT Foundation Python
 
 ```sh
-    # pip install ibmiotf
-    
+root@board:~# pip install ibmiotf
 ```
 - [Client libraries and samples for connecting to the IBM Internet of Things Foundation using Python 2.7 or 3.4](https://github.com/ibm-messaging/iot-python)
 
