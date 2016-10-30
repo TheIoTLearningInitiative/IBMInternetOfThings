@@ -28,24 +28,24 @@ Use IBM IoT Quickstart code to send data from a physical device to the IBM Watso
 From development board command line:
 
 ```sh
-     root@board:~# ifconfig # Check your MAC Address
-     ...
-     wlan0     Link encap:Ethernet  HWaddr 7c:dd:90:6d:e0:e9
-     ...
-     root@board:~# wget https://github.com/ibm-messaging/iot-gw-solutions/releases/download/1.03/ibm-iot-quickstart.zip
-     root@board:~# cd ibm-iot-quickstart
-     root@board:~/ibm-iot-quickstart# ls
-     CLA.md     LICENSE    README.md  samples
-     root@board:~/ibm-iot-quickstart# cd samples/
-     root@board:~/ibm-iot-quickstart/samples# ls
-     client.py              ibm-iot-quickstart.py
-     root@board:~/ibm-iot-quickstart/samples# python ibm-iot-quickstart.py
-     No config file found, connecting to the Quickstart service
-     MAC address: 784b87a53a73
-     0.0
-     message published
-     1.00586756077
-     message published     
-     ...
-     [Go to https://quickstart.internetofthings.ibmcloud.com/#/ and write the Device ID based on device MAC Address]
+root@board:~# ifconfig # Check your MAC Address
+...
+wlan0     Link encap:Ethernet  HWaddr 7c:dd:90:6d:e0:e9
+...
+root@board:~# wget https://github.com/ibm-messaging/iot-gw-solutions/releases/download/1.03/ibm-iot-quickstart.zip
+root@board:~# cd ibm-iot-quickstart
+root@board:~/ibm-iot-quickstart# ls
+CLA.md     LICENSE    README.md  samples
+root@board:~/ibm-iot-quickstart# cd samples/
+root@board:~/ibm-iot-quickstart/samples# ls
+client.py              ibm-iot-quickstart.py
+root@board:~/ibm-iot-quickstart/samples# python ibm-iot-quickstart.py
+No config file found, connecting to the Quickstart service
+MAC address: 784b87a53a73
+0.0
+message published
+1.00586756077
+message published     
+...
+[Go to https://quickstart.internetofthings.ibmcloud.com/#/ and write the Device ID based on device MAC Address]
 ```
