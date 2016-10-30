@@ -14,6 +14,7 @@
 Under the Connect your devices section, click on Launch dashboard. This will take you to your IBM Watson IoT Platform Connect organization space. This Watson IoT organization is a space used for connecting and managing devices (like your Galileo) to the IBM Watson IoT Platform so that your applications can access their live and historical data.
 
 
+
 > Manage
 > > Connect your devices
 > > > Use our recipes to find out how to add your devices. We work with partners and have sample connection recipes for many devices.
