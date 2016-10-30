@@ -57,3 +57,28 @@
      - Authentication Token
      - To be generated
      - Metadata
+
+
+# Device
+
+> Your Device Credentials. You have registered your device to the organization. To get it connected, you need to add these credentials to your device. Once you've added these, you should see the messages sent from your device in the 'Sensor Information' section on this page.
+
+- Organization ID 
+- Device Type TiliIntelEdison
+- Device ID TiliIntelEdisonDemo
+- Authentication Method 
+- Authentication Token  
+
+> Authentication tokens are non-recoverable. If you misplace this token, you will need to re-register the device to generate a new authentication token.
+Find out how to add these credentials to your device  
+
+- Connection Information     
+- Device ID TiliIntelEdisonDemo
+- Device Type TiliIntelEdison
+- Date Added Sunday, October 30, 2016
+- Added By theiotlearninginitiative@gmail.com
+
+> Connection State Registered
+> Recent Events. There are currently no events
+> Sensor Information. There are currently no datapoints
+> Metadata
