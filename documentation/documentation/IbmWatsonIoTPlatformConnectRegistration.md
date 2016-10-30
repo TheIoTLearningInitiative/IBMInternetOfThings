@@ -9,13 +9,11 @@ __Description:__ Intel Edison IBM Watson Demo
 
 > Define Template
 > > Use the options below to select attributes for the device type. All of these attributes are optional. They will be used as a template for new devices that are assigned this device type. Attributes you do not define may still be edited individually on devices that are assigned this device type.
-
-
-Serial Number 
-Manufacturer 
-Model 
-Class 
-Description 
-Firmware Version 
-Hardware Version 
-Descriptive Location 
+> > - Serial Number 
+> > - Manufacturer 
+> > - Model 
+> > - Class 
+> > - Description 
+> > - Firmware Version 
+> > - Hardware Version 
+> > - Descriptive Location 
