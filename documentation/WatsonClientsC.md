@@ -18,7 +18,7 @@ root@board:~/iotf-embeddedc# ls
 LICENSE          gatewayclient.c  iotfclient.h
 README.md        gatewayclient.h  lib
 buildlib.sh      iotfclient.c     samples
-root@edison:~/iotf-embeddedc# ./buildlib.sh
+root@board:~/iotf-embeddedc# ./buildlib.sh
 Compiling source files ...
 Linking libiotf.so libwiotdevice.so
 Removing temporary files...
