@@ -87,10 +87,7 @@ root@board:~# pip install ibmiotf
 ```
 - [Client libraries and samples for connecting to the IBM Internet of Things Foundation using Python 2.7 or 3.4](https://github.com/ibm-messaging/iot-python)
 
-## Exercise
-
-### Turn Your Phone into an IoT Device
-
+Exercise. Turn Your Phone into an IoT Device
 Follow up this [Turn your phone into an IoT device in under 15 minutes](https://www.youtube.com/watch?v=_Q4GlqAf2m4) Youtube video 
 
 ## Cloud Foundry CLI
