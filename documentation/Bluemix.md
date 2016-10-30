@@ -92,7 +92,7 @@ Follow up this [Turn your phone into an IoT device in under 15 minutes](https://
 
 ## Cloud Foundry CLI
 
-- [CloudFoundry](https://github.com/cloudfoundry/cli#downloads)
+- [CloudFoundry Command Line Interface](https://github.com/cloudfoundry/cli#downloads)
 - [ATTM2X Demo Bluemix](https://github.com/attm2x/m2x-demo-bluemix-python)
 - [Heroku Python](https://www.heroku.com/python)
 
