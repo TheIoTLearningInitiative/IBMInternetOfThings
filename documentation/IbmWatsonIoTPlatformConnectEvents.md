@@ -25,22 +25,29 @@ root@edison:~/ibm-iot-quickstart#
 ```
 
 ```sh
-root@edison:~/ibm-iot-quickstart# npm install mqtt
+root@edison:~/ibm-iot-quickstart# sh setup.sh
+Installing board packages ...
+Not downgrading package nodejs on root from v4.4.3-r1.0 to 0.10.25-r0.
+Installing ntp-tickadj (4.2.6p5-r6.0) on root.
+Installing ntp-utils (4.2.6p5-r6.0) on root.
+Installing ntpdate (4.2.6p5-r6.0) on root.
+Collected errors:
+ * satisfy_dependencies_for: Cannot satisfy the following dependencies for ntp-tickadj:
+ *      libc0 (>= 0.9.33+git0+946799cd0ce0c6c803c9cb173a84f4d607bde350) * 
+ * opkg_install_cmd: Cannot install package ntp-tickadj.
+ * satisfy_dependencies_for: Cannot satisfy the following dependencies for ntp-utils:
+ *      libc0 (>= 0.9.33+git0+946799cd0ce0c6c803c9cb173a84f4d607bde350) * 
+ * opkg_install_cmd: Cannot install package ntp-utils.
+ * satisfy_dependencies_for: Cannot satisfy the following dependencies for ntpdate:
+ *      libc0 (>= 0.9.33+git0+946799cd0ce0c6c803c9cb173a84f4d607bde350) * 
+ * opkg_install_cmd: Cannot install package ntpdate.
+Setting time ...
+setup.sh: line 5: ntpdate: command not found
+Installing NodeJS packages ...
 npm WARN package.json ibm-iot-quickstart@0.0.1 No repository field.
 npm WARN package.json ibm-iot-quickstart@0.0.1 No README data
 npm WARN package.json ibm-iot-quickstart@0.0.1 No license field.
-mqtt@0.3.13 node_modules/mqtt
-└── readable-stream@1.0.34 (string_decoder@0.10.31, isarray@0.0.1, inherits@2.0.3, core-util-is@1.0.2)
-root@edison:~/ibm-iot-quickstart# 
-```
-
-```sh
-root@edison:~/ibm-iot-quickstart# npm install getmac
-npm WARN package.json ibm-iot-quickstart@0.0.1 No repository field.
-npm WARN package.json ibm-iot-quickstart@0.0.1 No README data
-npm WARN package.json ibm-iot-quickstart@0.0.1 No license field.
-getmac@1.2.1 node_modules/getmac
-└── extract-opts@3.3.1 (editions@1.3.1, eachr@3.2.0, typechecker@4.3.0)
+properties@1.2.1 node_modules/properties
 root@edison:~/ibm-iot-quickstart# 
 ```
 
