@@ -13,7 +13,7 @@
 - [Internet of Things Foundation Quickstart](https://quickstart.internetofthings.ibmcloud.com/#/)
 - [Creating apps with the Internet of Things starter application](https://console.ng.bluemix.net/docs/starters/IoT/iot500.html#iot500)
 
-### Quick Start
+## Quick Start
 
 Recipes and code for
 
@@ -25,7 +25,7 @@ Recipes and code for
 - Arduino Uno with WiFi shield
 - Device Simulator
 
-### Examples
+## Examples
 
 - https://github.com/MasayaFujita/Edison_to_IoTFoundation_Node
 - https://github.com/ibm-messaging/iot-python
