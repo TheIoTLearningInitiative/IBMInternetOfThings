@@ -30,3 +30,4 @@
 
 1. Choose Device Type
    -  TiliIntelEdison
+
