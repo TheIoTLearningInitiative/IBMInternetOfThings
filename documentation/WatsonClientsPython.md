@@ -38,9 +38,9 @@ time.sleep(1)
 KeyboardInterrupt
 root@board:~/iot-python/samples/helloWorld#
 root@board:~/iot-python/samples/helloWorld# cd ../psutil
-root@edison:~/iot-python/samples/psutil# python iotpsutil.py
+root@board:~/iot-python/samples/psutil# python iotpsutil.py
 2016-03-05 18:51:44,770   ibmiotf.device.Client      INFO    Connected successfully: d:quickstart:sample-iotL
 (Press Ctrl+C to disconnect)
-root@edison:~/iot-python/samples/psutil# 
+root@board:~/iot-python/samples/psutil# 
 ```
 
