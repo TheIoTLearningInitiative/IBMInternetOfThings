@@ -24,7 +24,6 @@ Under the Connect your devices section, click on Launch dashboard. This will tak
 Use the newly integrated triggers and alerts to monitor real-time conditions and take action on emerging situations. See our recipes site to find tutorials on how you can make the most of our new capabilities.
 > > Learn how to extend your app
 > > > Use other Bluemix services to extend your app to start creating a great Internet of Things app. Here are some of the services you could use: Twilio (Third Party), Cloudant NoSQL DB (IBM), Dash DB (IBM), Geospatial Analytics (IBM), Time Series Database (IBM), IBM Analytics for Hadoop (IBM)
-
 > Plan
 > > Change Pricing Plan
 > Connections
