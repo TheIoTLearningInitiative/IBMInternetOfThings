@@ -20,5 +20,5 @@ Under the Connect your devices section, click on Launch dashboard. This will tak
 > > > Launch the Watson IoT Platform dashboard and add your devices by clicking the 'Add Device' button under the 'Devices' tab.
 > > > Launch dashboard
 > Plan
-> > 
+> > Change Pricing Plan
 > Connections
