@@ -31,6 +31,12 @@
 > > Tradeoff Analytics
 > > Apache Spark machine learning library
 
+## Watson Video and Image Analytics
+
+> Monitor unstructured data from video feeds and image snapshots to identify scenes and patterns in video data. Apps can combine this data with machine data to gain a greater understanding of past events and emerging situations. Uses:
+> > AlchemyVision
+> > Visual Recognition
+
 ## Use Cases
 
 - [IBM Watson News Explorer](http://news-explorer.mybluemix.net/)
