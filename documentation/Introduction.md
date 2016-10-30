@@ -1,7 +1,5 @@
 # IBM
 
-> Category: The New Builders. The New Builders podcast features interviews with innovative application developers, where they reveal their best practices, latest projects and favorite tools. [The New Builders Podcast](https://developer.ibm.com/tv/category/builders/)
-
 > About IBM. IBMers value... Dedication to every client’s success. Innovation that matters—for our company and the world. Trust and personal responsibility in all relationships. [Homepage](http://www.ibm.com/ibm/us/en/)
 
 # IBM Cloud Computing
