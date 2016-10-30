@@ -2,6 +2,10 @@
 
 # Create Device Type
 
+1. Click on Devices tab
+2. Click on Add Device button
+3. Click on Create Device Type 
+
 __Name:__ TiliIntelEdison
 > The device type name is used to identify the device type uniquely, using a restricted set of characters to make it suitable for API use.
 
