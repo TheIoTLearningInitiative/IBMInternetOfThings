@@ -36,4 +36,9 @@
    - Enter device ID (required)
 3. Metadata (optional) 
    - > Metadata must be added as JSON; plain text cannot be used.
-4. 
+4. Security
+   - You have two options:
+   - > __Auto-generated authentication token.__ Allow the service to generate an authentication token for you. The token will be 18 characters long and will contain a mix of alphanumeric characters and symbols. The token will be returned to you at the end of the registration process.
+   - > __Self-provided authentication token.__ Provide your own authentication token for this device. The token must be between 8 and 36 characters long, and should contain a mix of lower and upper case letters, numbers, and symbols (hyphen, underscore, exclamation-point, ampersand, at sign, question mark, period, right and left parentheses are permitted). The token should be free of repetition, dictionary words, user names, and other predefined sequences.
+   - Provide a token (optional): Enter authentication token here
+   - > Authentication tokens are encrypted before we store them. We are not able to recover lost authentication tokens. Ensure you make a note of the authentication token after clicking Add.
