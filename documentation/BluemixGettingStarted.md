@@ -17,11 +17,14 @@ Instructions from [Youtube Jeff Sloyer Deploying a Hello World Python Flask App 
 PYTHON-HELLO-WORLD-FLASK
 GIT URL: https://github.com/IBM-Bluemix/python-hello-world-flask
 GIT BRANCH: master
-APP NAME: python-hello-world-flask-theiotlearninginitiative-1634
+APP NAME: tili-python-hello-world-flask-0001
 REGION: IBM Bluemix US South
 ORGANIZATUION: theiotlearninginitiative
 SPACE: dev
+
+Deploy!
 ```
+
 3. Go to
 http://xe1gyq-flask.mybluemix.net/
 
