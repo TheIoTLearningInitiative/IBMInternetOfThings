@@ -23,3 +23,11 @@ Archive:  ibm-iot-quickstart.zip
 root@edison:~# cd ibm-iot-quickstart
 root@edison:~/ibm-iot-quickstart# 
 ```
+
+```sh
+root@edison:~/ibm-iot-quickstart# ls
+IoTFoundation-CA.pem  device.sample.cfg      package.json  setup.sh
+IoTFoundation.pem     ibm-iot-quickstart.js  packages      sketch
+root@edison:~/ibm-iot-quickstart# cp device.sample.cfg device.cfg 
+root@edison:~/ibm-iot-quickstart# 
+```
