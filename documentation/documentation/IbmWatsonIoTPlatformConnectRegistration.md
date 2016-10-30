@@ -5,3 +5,4 @@ __Name:__ TiliIntelEdison
 
 __Description:__ Intel Edison IBM Watson Demo
 > The device type description can be used for a more descriptive way of identifying the device type.
+
