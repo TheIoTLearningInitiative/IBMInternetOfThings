@@ -35,6 +35,16 @@ root@edison:~/ibm-iot-quickstart#
 ```
 
 ```sh
+root@edison:~/ibm-iot-quickstart# npm install getmac
+npm WARN package.json ibm-iot-quickstart@0.0.1 No repository field.
+npm WARN package.json ibm-iot-quickstart@0.0.1 No README data
+npm WARN package.json ibm-iot-quickstart@0.0.1 No license field.
+getmac@1.2.1 node_modules/getmac
+└── extract-opts@3.3.1 (editions@1.3.1, eachr@3.2.0, typechecker@4.3.0)
+root@edison:~/ibm-iot-quickstart# 
+```
+
+```sh
 root@edison:~/ibm-iot-quickstart# ls
 IoTFoundation-CA.pem  device.sample.cfg      package.json  setup.sh
 IoTFoundation.pem     ibm-iot-quickstart.js  packages      sketch
