@@ -1,12 +1,9 @@
-Python
-==
-
-## IBM Internet of Things Foundation for Python
+# IBM Internet of Things Foundation for Python
 
 ```sh
 root@board:~# pip install ibmiotf
 root@board:~# git clone https://github.com/ibm-messaging/iot-python.git
-    Cloning into 'iot-python'...
+Cloning into 'iot-python'...
     remote: Counting objects: 1501, done.
     remote: Total 1501 (delta 0), reused 0 (delta 0), pack-reused 1501
     Receiving objects: 100% (1501/1501), 574.55 KiB | 212.00 KiB/s, done.
