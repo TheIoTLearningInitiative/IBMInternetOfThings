@@ -25,6 +25,16 @@ root@edison:~/ibm-iot-quickstart#
 ```
 
 ```sh
+root@edison:~/ibm-iot-quickstart# npm install mqtt
+npm WARN package.json ibm-iot-quickstart@0.0.1 No repository field.
+npm WARN package.json ibm-iot-quickstart@0.0.1 No README data
+npm WARN package.json ibm-iot-quickstart@0.0.1 No license field.
+mqtt@0.3.13 node_modules/mqtt
+└── readable-stream@1.0.34 (string_decoder@0.10.31, isarray@0.0.1, inherits@2.0.3, core-util-is@1.0.2)
+root@edison:~/ibm-iot-quickstart# 
+```
+
+```sh
 root@edison:~/ibm-iot-quickstart# ls
 IoTFoundation-CA.pem  device.sample.cfg      package.json  setup.sh
 IoTFoundation.pem     ibm-iot-quickstart.js  packages      sketch
