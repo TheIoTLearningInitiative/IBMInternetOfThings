@@ -19,7 +19,7 @@
    * [Quick Start](documentation/QuickStart.md)
        * [IBM Watson IoT Platform Connect](documentation/IbmWatsonIoTPlatformConnect.md)
            * [Registration](documentation/documentation/IbmWatsonIoTPlatformConnectRegistration.md)
-           * Events
+           * [Events](documentation/IbmWatsonIoTPlatformConnectEvents.md)
    * [Clients](documentation/WatsonClients.md)
        * [C](documentation/WatsonClientsC.md)
        * [Python](documentation/WatsonClientsPython.md)
