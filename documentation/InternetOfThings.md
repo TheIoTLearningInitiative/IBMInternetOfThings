@@ -1,7 +1,4 @@
-Internet of Things
-==
-
-## Internet of Things Foundation
+# Internet of Things Foundation
 
 > Internet of Things Foundation is a fully managed, cloud-hosted service that makes it simple to derive value from Internet of Things (IoT) devices
 
