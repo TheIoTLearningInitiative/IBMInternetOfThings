@@ -25,3 +25,5 @@
    
    > Submit Information. You did not select any fields in the Define Template step. It is not mandatory to do so, but if you wish to define attributes that will act as a template for new devices that are assigned this device type, you may go back to that step and revise your decision - the fields you select will then appear here.
 6. Metadata
+
+# Add a Device Type
