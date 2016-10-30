@@ -71,11 +71,11 @@ applications:
   memory: 128M
 user@workstation:~/ibmbluemix/bluemix-python-flask-sample$ cf login -a https://api.ng.bluemix.net
 API endpoint: api.ng.bluemix.net
-Email> theiotlearninginitiative
+Email> theiotlearninginitiative@
 Password> 
 Authenticating...
 OK
-Targeted org xe1gyq@gmail.com
+Targeted org theiotlearninginitiative@
 Select a space (or press enter to skip):
 1. dev
 2. xe1gyq
