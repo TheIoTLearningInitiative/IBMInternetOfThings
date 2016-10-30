@@ -42,3 +42,18 @@
    - > __Self-provided authentication token.__ Provide your own authentication token for this device. The token must be between 8 and 36 characters long, and should contain a mix of lower and upper case letters, numbers, and symbols (hyphen, underscore, exclamation-point, ampersand, at sign, question mark, period, right and left parentheses are permitted). The token should be free of repetition, dictionary words, user names, and other predefined sequences.
    - Provide a token (optional): Enter authentication token here
    - > Authentication tokens are encrypted before we store them. We are not able to recover lost authentication tokens. Ensure you make a note of the authentication token after clicking Add.
+5. Summary
+   - Please check that all submitted information for this device is correct before adding this device.
+     - Device TypeTiliIntelEdison
+     - Device IDTiliIntelEdisonDemo
+     - Serial Number
+     - Manufacturer
+     - Model
+     - Class
+     - Description
+     - Firmware Version
+     - Hardware Version
+     - Descriptive Location
+     - Authentication Token
+     - To be generated
+     - Metadata
