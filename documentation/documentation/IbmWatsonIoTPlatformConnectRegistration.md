@@ -30,4 +30,8 @@
 
 1. Choose Device Type
    -  TiliIntelEdison
+2. Device Info
+   - > Device ID is the only required information, however other fields are populated according to the attributes set in the selected device type. These values can be overridden, and attributes not set in the device type can be added.
+   - __Device ID__: TiliIntelEdison01
+   - Enter device ID (required)
 
