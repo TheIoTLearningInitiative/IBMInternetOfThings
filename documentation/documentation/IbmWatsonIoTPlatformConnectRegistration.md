@@ -29,4 +29,4 @@
 # Add Device
 
 1. Choose Device Type
-2. 
+   -  TiliIntelEdison
