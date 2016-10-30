@@ -82,8 +82,8 @@ Select a space (or press enter to skip):
 Space> xe1gyq
 Targeted space xe1gyq
 API endpoint:   https://api.ng.bluemix.net (API version: 2.40.0)   
-User:           theiotlearninginitiative@gmail.com   
-Org:            theiotlearninginitiative@gmail.com   
+User:           theiotlearninginitiative   
+Org:            theiotlearninginitiative   
 Space:          dev   
 user@workstation:~/ibmbluemix/bluemix-python-flask-sample$ user@workstation:~/ibmbluemix/bluemix-python-flask-sample$ cf push xeflask -m 128M
 Using manifest file /home/xe1gyq/ibmbluemix/bluemix-python-flask-sample/manifest.yml
