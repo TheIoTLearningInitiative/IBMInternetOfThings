@@ -29,5 +29,15 @@ root@edison:~/ibm-iot-quickstart# ls
 IoTFoundation-CA.pem  device.sample.cfg      package.json  setup.sh
 IoTFoundation.pem     ibm-iot-quickstart.js  packages      sketch
 root@edison:~/ibm-iot-quickstart# cp device.sample.cfg device.cfg 
-root@edison:~/ibm-iot-quickstart# 
+root@edison:~/ibm-iot-quickstart# nano device.cfg
 ```
+
+```sh
+org=my_organization
+type=my_type
+id=112233445566
+auth-method=token
+auth-token=my_token
+```
+
+
