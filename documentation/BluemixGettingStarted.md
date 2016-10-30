@@ -18,9 +18,9 @@ PYTHON-HELLO-WORLD-FLASK
 GIT URL: https://github.com/IBM-Bluemix/python-hello-world-flask
 GIT BRANCH: master
 APP NAME: python-hello-world-flask-theiotlearninginitiative-1634
-REGION:
-ORGANIZATUION: 
-SPACE: 
+REGION: IBM Bluemix US South
+ORGANIZATUION: theiotlearninginitiative
+SPACE:
 ```
 3. Go to
 http://xe1gyq-flask.mybluemix.net/
