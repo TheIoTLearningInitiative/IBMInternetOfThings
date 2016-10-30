@@ -20,7 +20,7 @@
 - Validate Email Address
 - Welcome to [IBM Bluemix Dashboard](https://console.ng.bluemix.net/?direct=classic)!
 
-### Dashboard Components
+Dashboard Components
 
 - Cloud Foundry Apps
 - Containers
