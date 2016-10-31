@@ -278,6 +278,10 @@ node-red-contrib-grove-edison  node-red-node-upm
 root@edison:~/.node-red# 
 ```
 
+### node-red-contrib-upm
+
+Node-RED nodes to talk to sensors supported by the UPM library
+
 ### node-red-node-watson
 
 ```sh
