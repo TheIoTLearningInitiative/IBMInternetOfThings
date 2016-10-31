@@ -69,6 +69,8 @@ mraa@1.1.2 node_modules/mraa
 
 ## galileo-io / edison-io
 
+> Intel Edison & Intel Galileo IO Plugin for Johnny-Five JavaScript Robotics
+
 ```sh
 root@edison:~# npm install galileo-io
 ```
