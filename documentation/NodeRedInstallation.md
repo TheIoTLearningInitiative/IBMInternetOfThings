@@ -9,9 +9,9 @@
 # i386
 
 ```sh
-    # apt-get install npm nodejs nodejs-legacy
-    # npm install -g node-red
-    $ node-red
+# apt-get install npm nodejs nodejs-legacy
+# npm install -g node-red
+$ node-red
 ```
 
 # Intel Edison
