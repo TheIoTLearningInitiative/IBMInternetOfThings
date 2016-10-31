@@ -13,7 +13,7 @@
    * [Internet of Things](documentation/InternetOfThings.md)
    * [Getting Started](documentation/BluemixGettingStarted.md)
    * [Catalogs](documentation/IBMBlueMixCatalogs.md)
-   * Documentation
+   * [Documentation](documentation/BluemixDocumentation.md)
    * [Examples](documentation/BlueMixExamples.md)
 * [Watson](documentation/Watson.md)
    * [Internet of Things](documentation/WatsonInternetOfThings.md)
