@@ -228,7 +228,7 @@ node-red-contrib-gpio  node-red-contrib-grove-edison  node-red-node-intel-gpio
 root@edison:~/.node-red#
 ```
 
-## node-red-node-upm
+### node-red-node-upm
 
 ```sh
 root@edison:~# cd .node-red/
