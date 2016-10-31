@@ -52,6 +52,7 @@ root@edison:~#
 
 ```sh
 root@edison:~# npm install mraa
+...
   SOLINK_MODULE(target) Release/obj.target/mraa.node
   COPY Release/mraa.node
 make: Leaving directory '/home/root/node_modules/mraa/build'
