@@ -245,7 +245,7 @@ node-red-contrib-grove-edison  node-red-node-upm
 root@edison:~/.node-red# 
 ```
 
-## node-red-node-watson
+### node-red-node-watson
 
 ```sh
 root@edison:~# cd .node-red/
