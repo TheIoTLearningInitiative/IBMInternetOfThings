@@ -17,7 +17,6 @@
    * [Examples](documentation/BlueMixExamples.md)
 * [Watson](documentation/Watson.md)
    * [Internet of Things](documentation/WatsonInternetOfThings.md)
-       * Applications
    * [Quick Start](documentation/QuickStart.md)
        * [IBM Watson IoT Platform Connect](documentation/IbmWatsonIoTPlatformConnect.md)
            * [Registration](documentation/IbmWatsonIoTPlatformConnectRegistration.md)
@@ -27,6 +26,7 @@
        * [Python](documentation/WatsonClientsPython.md)
    * Services
        * [Tone Analyzer](documentation/WatsonToneAnalyzer.md)
+   * Applications
    * [Projects](documentation/WatsonProjects.md)
 * [NodeRED](documentation/NodeRED.md)
    * [Installation](documentation/NodeRedInstallation.md)
