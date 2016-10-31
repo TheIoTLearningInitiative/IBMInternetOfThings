@@ -301,6 +301,12 @@ root@edison:~/.node-red#
 root@edison:~/.node-red# npm install node-red-node-watson
 ```
 
+```sh
+root@edison:~/.node-red# ls node_modules/
+
+root@edison:~/.node-red# 
+```
+
 ## IP Address
 
 Get Board IP Adress
