@@ -147,7 +147,7 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 root@edison:~# cd .node-red/
 ```
 
-## node-red-contrib-gpio
+### node-red-contrib-gpio
 
 ```sh
 root@edison:~# cd .node-red/
@@ -187,7 +187,7 @@ node-red-contrib-gpio
 root@edison:~/.node-red#
 ```
 
-## node-red-node-intel-gpio
+### node-red-node-intel-gpio
 
 > A Node-RED node to talk to an Intel Galileo or Edison using mraa
 
