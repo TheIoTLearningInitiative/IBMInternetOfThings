@@ -182,6 +182,18 @@ root@edison:~# cd .node-red/
 
 > A set of node-red nodes for using johnny-five and IO plugins
 
+Boards
+
+- Arduino/Firmata	firmata
+- Raspberry Pi	raspi-io
+- BeagleBone Black	beaglebone-io
+- C.H.I.P.	chip-io
+- Galileo/Edison	galileo-io
+- Blend Micro	blend-micro-io
+- LightBlue Bean	bean-io
+- Electirc Imp	imp-io
+- Particle(Spark) Core	particle-io
+
 ```sh
 root@edison:~/.node-red# npm install node-red-contrib-gpio
 ...
