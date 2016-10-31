@@ -26,6 +26,8 @@ Install the following npm packages:
 
 ## mraa
 
+> IO library that helps you use I2c, SPI, gpio, uart, pwm, analog inputs (aio) and more on a number of platforms such as the Intel galileo, the Intel edison and others
+
 ```sh
 root@edison:~# opkg update
 Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//Packages.
