@@ -17,6 +17,7 @@
    * [Examples](documentation/BlueMixExamples.md)
 * [Watson](documentation/Watson.md)
    * [Internet of Things](documentation/WatsonInternetOfThings.md)
+       * Applications
    * [Quick Start](documentation/QuickStart.md)
        * [IBM Watson IoT Platform Connect](documentation/IbmWatsonIoTPlatformConnect.md)
            * [Registration](documentation/IbmWatsonIoTPlatformConnectRegistration.md)
