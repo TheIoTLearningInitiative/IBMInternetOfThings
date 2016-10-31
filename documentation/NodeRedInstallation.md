@@ -288,6 +288,8 @@ root@edison:~/.node-red# npm install node-red-contrib-upm
 
 ### node-red-node-watson
 
+> A collection of Node-RED nodes for IBM Watson services
+
 ```sh
 root@edison:~/.node-red# npm install node-red-node-watson
 ```
