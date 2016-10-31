@@ -303,7 +303,8 @@ root@edison:~/.node-red# npm install node-red-node-watson
 
 ```sh
 root@edison:~/.node-red# ls node_modules/
-
+node-red-contrib-gpio          node-red-contrib-upm      node-red-node-upm
+node-red-contrib-grove-edison  node-red-node-intel-gpio  node-red-node-watson
 root@edison:~/.node-red# 
 ```
 
