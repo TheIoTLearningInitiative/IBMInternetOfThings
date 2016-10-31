@@ -182,7 +182,7 @@ root@edison:~# cd .node-red/
 
 > A set of node-red nodes for using johnny-five and IO plugins
 
-Boards
+Supported Hardware
 
 - Arduino/Firmata	firmata
 - Raspberry Pi	raspi-io
