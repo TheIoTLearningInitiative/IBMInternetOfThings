@@ -141,6 +141,12 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 └── node-red-node-serialport@0.2.1 (serialport@2.1.2)
 ```
 
+## Node Modules
+
+```sh
+root@edison:~# cd .node-red/
+```
+
 ## node-red-contrib-gpio
 
 ```sh
