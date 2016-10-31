@@ -321,6 +321,11 @@ root@edison:~/.node-red# ls node_modules/
 root@edison:~/.node-red# 
 ```
 
+# node-red-bluemix-nodes 
+
+> A collection of extra Node-RED nodes for IBM Bluemix.
+
+
 
 ## IP Address
 
