@@ -8,7 +8,7 @@
 4. Provide the app name, modify the host name if required, and click Create.
 5. Your app begins staging, and the landing page for your app on the Bluemix Dashboard displays as your app starts.
 6. You can follow the instructions on that page to do the following tasks:
-   6.1 Download the Cloud Foundry command line interface.
+   - Download the Cloud Foundry command line interface.
 7.Download the starter application.
 8.Take steps to redeploy the starter application.
 9.Modify the app and deploy again.
