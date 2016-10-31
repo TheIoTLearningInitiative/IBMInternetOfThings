@@ -26,7 +26,7 @@
        * [Python](documentation/WatsonClientsPython.md)
    * Services
        * [Tone Analyzer](documentation/WatsonToneAnalyzer.md)
-   * Applications
+   * [Applications](documentation/WatsonApplications.md)
    * [Projects](documentation/WatsonProjects.md)
 * [NodeRED](documentation/NodeRED.md)
    * [Installation](documentation/NodeRedInstallation.md)
