@@ -11,6 +11,10 @@
 - [IBM Watson Developer Community](https://developer.ibm.com/watson/)
 - [IBM Watson Developer Cloud](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/)
 
+# Watson Play
+
+> Explore IBM Watson Internet of Things. See how IBM can help you build your own IoT solution. Go ahead… take us for a test drive. [Discover IoT](http://discover-iot.eu-gb.mybluemix.net/#/play)
+
 # Arquitecture
 
 ## Watson Natural Language Processing
