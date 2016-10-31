@@ -36,6 +36,9 @@ Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/core2-32/Packages.
 Updated list of available packages in /var/lib/opkg/iotdk-core2-32.
 Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/edison/Packages.
 Updated list of available packages in /var/lib/opkg/iotdk-edison.
+```
+
+```sh
 root@edison:~# opkg install mraa
 Upgrading mraa from 1.0.0-r0 to 1.1.2 on root.
 Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//mraa_1.1.2_i586.ipk.
