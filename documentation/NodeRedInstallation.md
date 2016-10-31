@@ -210,7 +210,7 @@ node-red-contrib-gpio node-red-node-intel-gpio
 root@edison:~/.node-red# 
 ```
 
-## node-red-contrib-grove-edison
+### node-red-contrib-grove-edison
 
 ```sh
 root@edison:~# cd .node-red/
