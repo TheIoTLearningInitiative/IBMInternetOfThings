@@ -307,6 +307,21 @@ root@edison:~/.node-red# ls node_modules/
 root@edison:~/.node-red# 
 ```
 
+### node-red-contrib-play-audio
+
+> A node-red node for playing audio in the browser
+
+```sh
+root@edison:~/.node-red# npm install node-red-contrib-play-audio
+```
+
+```sh
+root@edison:~/.node-red# ls node_modules/
+
+root@edison:~/.node-red# 
+```
+
+
 ## IP Address
 
 Get Board IP Adress
