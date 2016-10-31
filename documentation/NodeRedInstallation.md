@@ -66,7 +66,7 @@ root@edison:~# npm install galileo-io
 ```
 
 ```sh
-\
+...
 > galileo-io@0.9.4 postinstall /home/root/node_modules/galileo-io
 > node scripts/postinstall
 
