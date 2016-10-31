@@ -145,6 +145,26 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 root@edison:~# node-red
 ```
 
+```sh
+Welcome to Node-RED
+===================
+
+30 Jul 16:44:53 - [info] Node-RED version: v0.14.6
+30 Jul 16:44:54 - [info] Node.js  version: v4.4.3
+30 Jul 16:44:54 - [info] Linux 3.10.98-poky-edison+ ia32 LE
+30 Jul 16:44:54 - [info] Loading palette nodes
+30 Jul 16:45:03 - [warn] ------------------------------------------------------
+...
+30 Jul 16:45:03 - [warn] ------------------------------------------------------
+30 Jul 16:45:03 - [info] Settings file  : /home/root/.node-red/settings.js
+30 Jul 16:45:03 - [info] User directory : /home/root/.node-red
+30 Jul 16:45:03 - [info] Flows file     : /home/root/.node-red/flows_edison.json
+30 Jul 16:45:03 - [info] Creating new flow file
+30 Jul 16:45:03 - [info] Starting flows
+30 Jul 16:45:03 - [info] Started flows
+30 Jul 16:45:04 - [info] Server now running at http://127.0.0.1:1880/
+```
+
 
 ## Node Red Required Modules
 
