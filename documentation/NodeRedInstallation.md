@@ -249,6 +249,8 @@ root@edison:~/.node-red#
 
 ### node-red-contrib-grove-edison
 
+> Node-RED nodes for Grove sensors used with the Intel Edison board
+
 ```sh
 root@edison:~/.node-red# npm install node-red-contrib-grove-edison
 node-red-contrib-grove-edison@0.1.1 node_modules/node-red-contrib-grove-edison
