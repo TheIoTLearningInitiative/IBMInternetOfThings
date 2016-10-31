@@ -28,7 +28,6 @@
        * [Tone Analyzer](documentation/WatsonToneAnalyzer.md)
    * [Applications](documentation/WatsonApplications.md)
        * [Projects](documentation/WatsonProjects.md)
-       * Tbd
 * [NodeRED](documentation/NodeRED.md)
    * [Installation](documentation/NodeRedInstallation.md)
    * [Projects](documentation/NodeRedProjects.md)
