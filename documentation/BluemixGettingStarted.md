@@ -9,9 +9,9 @@
 5. Your app begins staging, and the landing page for your app on the Bluemix Dashboard displays as your app starts.
 6. You can follow the instructions on that page to do the following tasks:
    - Download the Cloud Foundry command line interface.
-7.Download the starter application.
-8.Take steps to redeploy the starter application.
-9.Modify the app and deploy again.
+   - Download the starter application.
+   - Take steps to redeploy the starter application.
+7.Modify the app and deploy again.
 > The directory containing the starter application you downloaded contains a README file. Refer to the README for a description of the files in the starter application package. Make changes to the code, deploy the application again, then see the effect in your running app.
 
 - [Youtube IBMetinfo Getting started with IBM Bluemix](https://youtu.be/MtBdbaCQV8A)
