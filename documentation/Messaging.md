@@ -1,5 +1,4 @@
-Messaging
-==
+# Messaging
 
 > Integration and management of cloud-based and on-premises applications and data 
 
