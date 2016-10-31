@@ -73,6 +73,22 @@ auth-token=my_token
 ## Python
 
 
+```sh
+root@board:~# wget https://github.com/ibm-messaging/iot-gw-solutions/releases/download/1.03/ibm-iot-quickstart.zip
+root@board:~# cd ibm-iot-quickstart
+root@board:~/ibm-iot-quickstart# ls
+CLA.md     LICENSE    README.md  samples
+root@board:~/ibm-iot-quickstart# cd samples/
+root@board:~/ibm-iot-quickstart/samples# ls
+client.py              ibm-iot-quickstart.py
+root@board:~/ibm-iot-quickstart/samples# python ibm-iot-quickstart.py
+No config file found, connecting to the Quickstart service
+MAC address: 784b87a53a73
+0.0
+message published
+1.00586756077
+message published     
+```
 
 ```sh
 root@edison:~/ibm-iot-quickstart# nano device.cfg
