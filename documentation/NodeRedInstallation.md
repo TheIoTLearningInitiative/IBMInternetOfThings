@@ -62,7 +62,7 @@ mraa@1.1.2 node_modules/mraa
 ## galileo-io / edison-io
 
 ```sh
-root@edison:~# npm install edison-io
+root@edison:~# npm install galileo-io
 ```
 
 ```sh
