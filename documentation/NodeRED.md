@@ -25,7 +25,6 @@ Features
 - Simple MQTT
 - Simple to use other Services
 
-
 UI Nodes
 
 - Input
@@ -35,6 +34,18 @@ UI Nodes
 - Storage
 - Analysis
 - Advanced
+
+Boards
+
+- Arduino/Firmata	firmata
+- Raspberry Pi	raspi-io
+- BeagleBone Black	beaglebone-io
+- C.H.I.P.	chip-io
+- Galileo/Edison	galileo-io
+- Blend Micro	blend-micro-io
+- LightBlue Bean	bean-io
+- Electirc Imp	imp-io
+- Particle(Spark) Core	particle-io
 
 # Node-RED Application on BlueMix
 
