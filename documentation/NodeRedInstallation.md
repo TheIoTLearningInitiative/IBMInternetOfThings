@@ -40,6 +40,9 @@ Updated list of available packages in /var/lib/opkg/iotdk-edison.
 
 ```sh
 root@edison:~# opkg install mraa
+```
+
+```sh
 Upgrading mraa from 1.0.0-r0 to 1.1.2 on root.
 Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//mraa_1.1.2_i586.ipk.
 Removing package mraa-dev from root...
@@ -52,6 +55,9 @@ root@edison:~#
 
 ```sh
 root@edison:~# npm install mraa
+```
+
+```sh
 ...
   SOLINK_MODULE(target) Release/obj.target/mraa.node
   COPY Release/mraa.node
