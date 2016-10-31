@@ -142,7 +142,7 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 ```
 
 ```sh
-root@edison:~# cd .node-red/
+root@edison:~# node-red
 ```
 
 
