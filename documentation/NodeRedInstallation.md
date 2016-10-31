@@ -231,9 +231,6 @@ root@edison:~/.node-red#
 
 ### node-red-node-watson
 
-```sh
-root@edison:~# cd .node-red/
-```
 
 ```sh
 root@edison:~/.node-red# npm install node-red-node-watson
