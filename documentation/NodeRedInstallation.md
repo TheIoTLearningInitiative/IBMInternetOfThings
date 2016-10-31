@@ -313,7 +313,7 @@ Get Board IP Adress
     ...
 ```
 
-## Launch
+## Launch #1
 
 ```sh
 root@edison:~# node-red &
