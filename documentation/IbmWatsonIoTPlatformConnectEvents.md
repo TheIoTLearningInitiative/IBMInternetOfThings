@@ -69,9 +69,7 @@ auth-method=token
 auth-token=my_token
 ```
 
-
 ## Python
-
 
 ```sh
 root@board:~# wget https://github.com/ibm-messaging/iot-gw-solutions/releases/download/1.03/ibm-iot-quickstart.zip
