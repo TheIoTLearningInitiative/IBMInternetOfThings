@@ -11,7 +11,8 @@
    - Download the Cloud Foundry command line interface.
    - Download the starter application.
    - Take steps to redeploy the starter application.
-7.Modify the app and deploy again.
+7. Modify the app and deploy again.
+
 > The directory containing the starter application you downloaded contains a README file. Refer to the README for a description of the files in the starter application package. Make changes to the code, deploy the application again, then see the effect in your running app.
 
 - [Youtube IBMetinfo Getting started with IBM Bluemix](https://youtu.be/MtBdbaCQV8A)
