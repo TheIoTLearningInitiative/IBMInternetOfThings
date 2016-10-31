@@ -141,6 +141,11 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 └── node-red-node-serialport@0.2.1 (serialport@2.1.2)
 ```
 
+```sh
+root@edison:~# cd .node-red/
+```
+
+
 ## Node Red Required Modules
 
 ```sh
@@ -344,24 +349,26 @@ root@edison:~#
 ## Launch #2
 
 ```sh
-    root@edison:~# ./node_modules/node-red/bin/node-red-pi 
-    
-    Welcome to Node-RED
-    ===================
-    
-    26 Mar 14:02:36 - [info] Node-RED version: v0.13.4
-    26 Mar 14:02:36 - [info] Node.js  version: v0.10.38
-    26 Mar 14:02:36 - [info] Linux 3.10.17-poky-edison+ ia32 LE
-    26 Mar 14:02:36 - [info] Loading palette nodes
-    ...
-    26 Mar 14:02:47 - [info] Started flows
-    26 Mar 14:02:47 - [info] Server now running at http://127.0.0.1:1880/
-     
-    Go to http://<board.ip.adress>:1880/#
+root@edison:~# ./node_modules/node-red/bin/node-red-pi 
 
-    root@edison:~# ls .node-red      
-    flows_edison.json  lib                node_modules       settings.js
-    root@edison:~# 
+Welcome to Node-RED
+===================
+
+26 Mar 14:02:36 - [info] Node-RED version: v0.13.4
+26 Mar 14:02:36 - [info] Node.js  version: v0.10.38
+26 Mar 14:02:36 - [info] Linux 3.10.17-poky-edison+ ia32 LE
+26 Mar 14:02:36 - [info] Loading palette nodes
+...
+26 Mar 14:02:47 - [info] Started flows
+26 Mar 14:02:47 - [info] Server now running at http://127.0.0.1:1880/
+
+Go to http://<board.ip.adress>:1880/#
+```
+
+```sh
+root@edison:~# ls .node-red      
+flows_edison.json  lib                node_modules       settings.js
+root@edison:~# 
 ```
 
 ## PC
