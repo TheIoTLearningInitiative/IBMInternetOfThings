@@ -91,7 +91,7 @@ message published
 ```
 
 ```sh
-root@edison:~/ibm-iot-quickstart# nano device.cfg
+root@board:~/ibm-iot-quickstart# nano device.cfg
 ```
 
 ```sh
