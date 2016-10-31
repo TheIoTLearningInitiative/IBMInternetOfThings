@@ -79,13 +79,6 @@ CLA.md     LICENSE    README.md  samples
 root@board:~/ibm-iot-quickstart# cd samples/
 root@board:~/ibm-iot-quickstart/samples# ls
 client.py              ibm-iot-quickstart.py
-root@board:~/ibm-iot-quickstart/samples# python ibm-iot-quickstart.py
-No config file found, connecting to the Quickstart service
-MAC address: 784b87a53a73
-0.0
-message published
-1.00586756077
-message published     
 ```
 
 ```sh
@@ -98,4 +91,14 @@ type=my_type
 id=112233445566
 auth-method=token
 auth-token=my_token
+```
+
+```
+root@board:~/ibm-iot-quickstart/samples# python ibm-iot-quickstart.py
+No config file found, connecting to the Quickstart service
+MAC address: 784b87a53a73
+0.0
+message published
+1.00586756077
+message published     
 ```
