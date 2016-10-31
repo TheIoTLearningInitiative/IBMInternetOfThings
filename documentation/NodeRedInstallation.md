@@ -180,6 +180,8 @@ root@edison:~# cd .node-red/
 
 ### node-red-contrib-gpio
 
+> A set of node-red nodes for using johnny-five and IO plugins
+
 ```sh
 root@edison:~/.node-red# npm install node-red-contrib-gpio
 ...
