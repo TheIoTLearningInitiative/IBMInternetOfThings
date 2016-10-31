@@ -255,10 +255,6 @@ root@edison:~# cd .node-red/
 root@edison:~/.node-red# npm install node-red-node-watson
 ```
 
-```sh
-
-```
-
 ## IP Address
 
 Get Board IP Adress
