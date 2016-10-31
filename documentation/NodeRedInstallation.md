@@ -329,7 +329,7 @@ root@edison:~/.node-red#
 > A collection of extra Node-RED nodes for IBM Bluemix.
 
 ```sh
-root@edison:~/.node-red# npm install npm i node-red-bluemix-nodes
+root@edison:~/.node-red# npm install node-red-bluemix-nodes
 ```
 
 ```sh
