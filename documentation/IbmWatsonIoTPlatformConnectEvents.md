@@ -3,9 +3,9 @@
 ## NodeJS
 
 ```sh
-root@edison:~# ls
+root@board:~# ls
 CodeLabs  EmbeddedLinux  ibm-iot-quickstart.zip  lib  usr
-root@edison:~# unzip ibm-iot-quickstart.zip 
+root@board:~# unzip ibm-iot-quickstart.zip 
 Archive:  ibm-iot-quickstart.zip
    creating: ibm-iot-quickstart/
   inflating: ibm-iot-quickstart/setup.sh
@@ -22,12 +22,12 @@ Archive:  ibm-iot-quickstart.zip
   inflating: ibm-iot-quickstart/sketch/print_ipaddr/print_ipaddr.ino
   inflating: ibm-iot-quickstart/IoTFoundation-CA.pem
   inflating: ibm-iot-quickstart/ibm-iot-quickstart.js
-root@edison:~# cd ibm-iot-quickstart
-root@edison:~/ibm-iot-quickstart# 
+root@board:~# cd ibm-iot-quickstart
+root@board:~/ibm-iot-quickstart# 
 ```
 
 ```sh
-root@edison:~/ibm-iot-quickstart# sh setup.sh
+root@board:~/ibm-iot-quickstart# sh setup.sh
 Installing board packages ...
 Not downgrading package nodejs on root from v4.4.3-r1.0 to 0.10.25-r0.
 Installing ntp-tickadj (4.2.6p5-r6.0) on root.
@@ -50,15 +50,15 @@ npm WARN package.json ibm-iot-quickstart@0.0.1 No repository field.
 npm WARN package.json ibm-iot-quickstart@0.0.1 No README data
 npm WARN package.json ibm-iot-quickstart@0.0.1 No license field.
 properties@1.2.1 node_modules/properties
-root@edison:~/ibm-iot-quickstart# 
+root@board:~/ibm-iot-quickstart# 
 ```
 
 ```sh
-root@edison:~/ibm-iot-quickstart# ls
+root@board:~/ibm-iot-quickstart# ls
 IoTFoundation-CA.pem  device.sample.cfg      package.json  setup.sh
 IoTFoundation.pem     ibm-iot-quickstart.js  packages      sketch
-root@edison:~/ibm-iot-quickstart# cp device.sample.cfg device.cfg 
-root@edison:~/ibm-iot-quickstart# nano device.cfg
+root@board:~/ibm-iot-quickstart# cp device.sample.cfg device.cfg 
+root@board:~/ibm-iot-quickstart# nano device.cfg
 ```
 
 ```sh
