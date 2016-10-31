@@ -99,6 +99,8 @@ root@edison:~#
 
 ## node-red
 
+> A visual tool for wiring the Internet of Things
+
 ```sh
 root@edison:~# npm install -g node-red
 ```
