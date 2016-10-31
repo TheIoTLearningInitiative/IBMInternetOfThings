@@ -265,6 +265,8 @@ root@edison:~/.node-red#
 
 ### node-red-node-upm
 
+> Node-RED nodes to talk to sensors supported by the UPM library
+
 ```sh
 root@edison:~/.node-red# npm install node-red-node-upm
 ```
