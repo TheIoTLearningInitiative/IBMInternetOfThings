@@ -56,7 +56,7 @@ Domain **mybluemix.net**
 [Node-RED IBM Github](https://github.com/ibm-messaging/iot-nodered)
 
 ```sh
-    root@edison:~/.node-red# npm install node-red-contrib-ibm-watson-iot
+    root@edison:~# npm install node-red-contrib-ibm-watson-iot
     -\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\-\|/-\|/-\|z
     ...
     ...
