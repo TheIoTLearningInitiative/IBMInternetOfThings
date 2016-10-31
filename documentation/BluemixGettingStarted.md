@@ -1,9 +1,22 @@
 # Getting Started
 
+> Using the starter applications. IBM® Bluemix® provides starter applications for the runtimes. Follow these steps to use the starter applications.
+
+1. Navigate to the Runtimes section.
+2. Click the runtime you want to use.
+3. Log in to IBM® Bluemix®, if you have not already.
+4. Provide the app name, modify the host name if required, and click Create.
+5. Your app begins staging, and the landing page for your app on the Bluemix Dashboard displays as your app starts.
+6. You can follow the instructions on that page to do the following tasks:
+   6.1 Download the Cloud Foundry command line interface.
+7.Download the starter application.
+8.Take steps to redeploy the starter application.
+9.Modify the app and deploy again.
+> The directory containing the starter application you downloaded contains a README file. Refer to the README for a description of the files in the starter application package. Make changes to the code, deploy the application again, then see the effect in your running app.
+
 - [Youtube IBMetinfo Getting started with IBM Bluemix](https://youtu.be/MtBdbaCQV8A)
 - [Youtube IBMetinfo How Bluemix Works](https://www.youtube.com/watch?v=OD1NP-Yk2BI)
 - [Youtube Smucsm s Teach Me How to Bluemix](https://youtu.be/10GV_MfasW4)
-
 
 ## Hello World Python Flask App, IBM Bluemix Console
 
