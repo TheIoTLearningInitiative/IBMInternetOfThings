@@ -59,7 +59,7 @@ make: Leaving directory '/home/root/node_modules/mraa/build'
 mraa@1.1.2 node_modules/mraa
 ```
 
-## galileo-io
+## galileo-io / edison-io
 
 ```sh
 root@edison:~# npm install galileo-io
