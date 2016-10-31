@@ -68,6 +68,8 @@ Domain **mybluemix.net**
     node-red-contrib-iotclouddev@1.0.3 node_modules/node-red-contrib-iotclouddev
     ��└��─��─ getmac@1.0.7 (extract-opts@2.2.0)
     root@edison:~# cd
+```
+
 ```sh
 root@edison:~# git clone https://github.com/ibm-messaging/iot-nodered.git
 Cloning into 'iot-nodered'...
