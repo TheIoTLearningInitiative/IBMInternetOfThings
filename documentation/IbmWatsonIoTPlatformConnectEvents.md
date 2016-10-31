@@ -72,3 +72,14 @@ auth-token=my_token
 
 ## Python
 
+```sh
+root@edison:~/ibm-iot-quickstart# nano device.cfg
+```
+
+```sh
+org=my_organization
+type=my_type
+id=112233445566
+auth-method=token
+auth-token=my_token
+```
