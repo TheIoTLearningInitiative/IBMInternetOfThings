@@ -36,7 +36,7 @@ UI Nodes
 - Analysis
 - Advanced
 
-### Node-RED Application on BlueMix
+# Node-RED Application on BlueMix
 
 > You should have connected a registered Device in Watson IoT Platform
 
@@ -46,12 +46,12 @@ App Name **IntelEdison-NodeRed**
 App Host **IntelEdison-NodeRed**
 Domain **mybluemix.net**
 
-### Node-Red Labs
+## Node-Red Labs
 
 - [Stefania Kaczmarczyk Labs](http://labs.stefdoestech.com/)
 - [Stefania Kaczmarczyk Labs IoT](http://labs.stefdoestech.com/iot/)
 
-### Node-RED Github
+## Node-RED Github
 
 [Node-RED IBM Github](https://github.com/ibm-messaging/iot-nodered)
 
