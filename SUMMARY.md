@@ -41,5 +41,5 @@
 * [JazzHub](documentation/JazzHub.md)
 * Wrap-Up
     * [Online Training](documentation/OnlineTraining.md)
-    * Challenge
+    * [Challenge](documentation/Challenge.md)
 
