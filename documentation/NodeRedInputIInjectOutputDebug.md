@@ -2,16 +2,18 @@
 
 # @ Node-Red Flow Space
 
-- Node Input: Inject
-  - Payload: __Timestamp__
-  - Topic: 
-  - Repeat: __Interval__ every __1__ Second
-  - Name: 
+* Node Input: Inject
 
-- Node Output: Debug
-  - Output: msg.payload
-  - To: debug tab
-  - Name: 
+  * Payload: **Timestamp**
+  * Topic: 
+  * Repeat: **Interval** every **1** Second
+  * Name: 
+
+* Node Output: Debug
+
+  * Output: msg.payload
+  * To: debug tab
+  * Name: 
 
 # Source
 
@@ -22,12 +24,15 @@
 # @ Intel Edison Console
 
 ```sh
-    26 Mar 14:20:30 - [info] Started flows
+26 Mar 14:20:30 - [info] Started flows
 ```
 
 # @ Node-Red Debug Tab
 
 ```sh
-    3/26/2016, 8:47:43 AM8b89cb10.747638
+3/26/2016, 8:47:43 AM8b89cb10.747638
     Hi : msg.payload : string [0]
 ```
+
+
+
