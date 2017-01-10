@@ -39,4 +39,7 @@
 * [Messaging](documentation/Messaging.md)
 * [SandBox](documentation/Sandbox.md)
 * [JazzHub](documentation/JazzHub.md)
+* Wrap-Up
+    * [Online Training](documentation/OnlineTraining.md)
+    * Challenge
 
