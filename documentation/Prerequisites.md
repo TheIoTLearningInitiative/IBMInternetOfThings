@@ -8,5 +8,5 @@
 
 Sign up for the following site:
 
-* IBM Bluemix [https://github.com/](https://github.com/)
+* IBM Bluemix [https://console.ng.bluemix.net/](https://console.ng.bluemix.net/)
 
