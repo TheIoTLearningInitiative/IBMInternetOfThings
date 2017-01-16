@@ -2,7 +2,7 @@
 
 # Trainings
 
-- [Internet of Things Sensors](https://theiotlearninginitiative.gitbooks.io/internetofthingssensors/content/)
+- [Internet of Things Communications](https://theiotlearninginitiative.gitbooks.io/internetofthingscommunications/content/)
 
 # Accounts
 
