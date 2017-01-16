@@ -6,8 +6,6 @@
 
 # Accounts
 
-# Accounts
-
 Sign up for the following online sites:
 
 * IBM Bluemix [https://github.com/](https://github.com/)
