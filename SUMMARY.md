@@ -38,6 +38,7 @@
     * [Input MQTT + Output Debug](documentation/input-mqtt--output-debug.md)
     * [Input Inject + Output Debug](documentation/NodeRedInputIInjectOutputDebug.md)
     * [Input MQTT + Output Debug](documentation/NodeRedInputMqttOutputDebug.md)
+    * [Intel Gpio Digital](documentation/NodeRedIntelGpioDigital.md)
     * [Watson™ Tone Analyzer Service](documentation/ProjectWatsonToneAnalyzerService.md)
 * [Cloud Foundry CLI](documentation/CloudFoundryCli.md)
 * [Messaging](documentation/Messaging.md)
