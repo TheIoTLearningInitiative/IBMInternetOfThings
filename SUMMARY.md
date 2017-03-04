@@ -42,9 +42,9 @@
     * [Watson™ Tone Analyzer Service](documentation/ProjectWatsonToneAnalyzerService.md)
 * [Cloud Foundry CLI](documentation/CloudFoundryCli.md)
 * [Messaging](documentation/Messaging.md)
-* [SandBox](documentation/Sandbox.md)
 * [JazzHub](documentation/JazzHub.md)
 * Wrap-Up
   * [Online Training](documentation/OnlineTraining.md)
   * [Challenge](documentation/Challenge.md)
+* [SandBox](documentation/Sandbox.md)
 
