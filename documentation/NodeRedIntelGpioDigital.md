@@ -4,10 +4,11 @@
 
 - Intel GPIO Digital Input
   - D8
-  
+  - Interrupt Both
 
 - Intel GPIO Digital Input
   - D2
+  - Set Initial Level of Pin to 0 Low
 
 # Source
 
