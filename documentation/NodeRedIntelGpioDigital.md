@@ -13,6 +13,6 @@
 # Source
 
 ```js
-[{"id":"744af6bf.8bb508","type":"mqtt-broker","z":"98b49c15.674b6","broker":"test.mosquitto.org ","port":"1883","clientid":"","usetls":false,"verifyservercert":true,"compatmode":true,"keepalive":"60","cleansession":true,"willTopic":"","willQos":"0","willRetain":"false","willPayload":"","birthTopic":"","birthQos":"0","birthRetain":"false","birthPayload":""},{"id":"c89cadcc.37635","type":"debug","z":"98b49c15.674b6","name":"","active":true,"console":"false","complete":"false","x":591,"y":130,"wires":[]},{"id":"7f0cbf12.80f34","type":"mqtt in","z":"98b49c15.674b6","name":"","topic":"IBMIoT/NodeRed/IntelEdison","broker":"744af6bf.8bb508","x":356,"y":130,"wires":[["c89cadcc.37635"]]}]
+[{"id":"1595ea2d.68d426","type":"mraa-gpio-din","z":"ad6ab99f.842178","name":"","pin":"8","interrupt":"b","x":230,"y":160,"wires":[["202dab13.c26284"]]},{"id":"202dab13.c26284","type":"mraa-gpio-dout","z":"ad6ab99f.842178","name":"","pin":"2","set":true,"level":"0","x":550,"y":160,"wires":[]}]
 ```
 
