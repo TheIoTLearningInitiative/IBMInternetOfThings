@@ -29,6 +29,7 @@ Install the following npm packages:
 > IO library that helps you use I2c, SPI, gpio, uart, pwm, analog inputs (aio) and more on a number of platforms such as the Intel galileo, the Intel edison and others
 
 ```sh
+root@edison:~# opkg update
 root@edison:~# opkg install mraa
 ```
 
