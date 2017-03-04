@@ -16,12 +16,6 @@ $ node-red
 
 # Intel Edison
 
-```sh
-root@edison:~# mkdir nodered
-root@edison:~# cd nodered/
-root@edison:~/nodered# 
-```
-
 Install the following npm packages:
 
 - mraa
@@ -30,21 +24,9 @@ Install the following npm packages:
 - node-red-node-intel-gpio
 - node-red-contrib-gpio
 
-## mraa
+## Mraa Library
 
 > IO library that helps you use I2c, SPI, gpio, uart, pwm, analog inputs (aio) and more on a number of platforms such as the Intel galileo, the Intel edison and others
-
-```sh
-root@edison:~# opkg update
-Downloading http://iotdk.intel.com/repos/3.5/intelgalactic/opkg/i586//Packages.
-Updated list of available packages in /var/lib/opkg/iotkit.
-Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/all/Packages.
-Updated list of available packages in /var/lib/opkg/iotdk-all.
-Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/core2-32/Packages.
-Updated list of available packages in /var/lib/opkg/iotdk-core2-32.
-Downloading http://iotdk.intel.com/repos/3.5/iotdk/edison/edison/Packages.
-Updated list of available packages in /var/lib/opkg/iotdk-edison.
-```
 
 ```sh
 root@edison:~# opkg install mraa
@@ -61,6 +43,16 @@ Configuring mraa.
 root@edison:~# 
 ```
 
+## NodeRED Directory
+
+```sh
+root@edison:~# mkdir nodered
+root@edison:~# cd nodered/
+root@edison:~/nodered# 
+```
+
+## NodeRED Mraa Library
+
 ```sh
 root@edison:~# npm install mraa
 ```
@@ -73,7 +65,7 @@ make: Leaving directory '/home/root/node_modules/mraa/build'
 mraa@1.1.2 node_modules/mraa
 ```
 
-## galileo-io / edison-io
+## NodeRED galileo-io / edison-io
 
 > Intel Edison & Intel Galileo IO Plugin for Johnny-Five JavaScript Robotics
 
