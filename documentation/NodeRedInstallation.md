@@ -32,7 +32,6 @@ Removing package mraa-dev from root...
 Removing package mraa-doc from root...
 Removing obsolete file /usr/lib/libmraa.so.1.0.0.
 Configuring mraa.
-root@edison:~# 
 ```
 
 ## NodeRED Directory
@@ -43,7 +42,7 @@ root@edison:~# cd nodered/
 root@edison:~/nodered# 
 ```
 
-## NodeRED Mraa Library
+## Node-RED Mraa Library
 
 ```sh
 root@edison:~# npm install mraa
@@ -56,11 +55,11 @@ root@edison:~# npm install mraa
 ...
   SOLINK_MODULE(target) Release/obj.target/mraa.node
   COPY Release/mraa.node
-make: Leaving directory '/home/root/node_modules/mraa/build'
-mraa@1.1.2 node_modules/mraa
+make: Leaving directory '/home/root/nodered/node_modules/mraa/build'
+mraa@1.5.1 node_modules/mraa
 ```
 
-## NodeRED galileo-io / edison-io
+## Node-RED galileo-io / edison-io
 
 > Intel Edison & Intel Galileo IO Plugin for Johnny-Five JavaScript Robotics
 
@@ -90,7 +89,7 @@ galileo-io@0.9.4 node_modules/galileo-io
 root@edison:~# 
 ```
 
-## NodeRED node-red :)
+## Node-RED node-red :)
 
 > A visual tool for wiring the Internet of Things
 
@@ -165,7 +164,7 @@ Welcome to Node-RED
 ```
 
 
-## Node Red Required Modules
+## Node-Red Required Modules
 
 ```sh
 root@edison:~# cd .node-red/

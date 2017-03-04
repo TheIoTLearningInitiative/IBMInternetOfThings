@@ -30,7 +30,7 @@
     * [Tone Analyzer](documentation/WatsonToneAnalyzer.md)
   * [Applications](documentation/WatsonApplications.md)
     * [Projects](documentation/WatsonProjects.md)
-* [NodeRED](documentation/NodeRED.md)
+* [Node-RED](documentation/NodeRED.md)
   * [Installation](documentation/NodeRedInstallation.md)
     * [x86](documentation/NodeRedInstallationx86.md)
   * [IBM Watson IoT](documentation/NodeRedIBMWatsonIoT.md)
