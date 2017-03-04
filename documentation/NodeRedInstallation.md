@@ -192,7 +192,6 @@ Supported Hardware
 - Particle(Spark) Core	particle-io
 
 ```sh
-```sh
 > meshblu@2.3.2 preinstall /home/root/nodered/node_modules/node-red-contrib-gpio/node_modules/meshblu
 > node -e "try{require('./skip-install.js')}catch(e){}"
 ...
