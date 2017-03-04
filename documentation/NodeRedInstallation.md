@@ -68,7 +68,6 @@ root@edison:~# npm install galileo-io
 ```
 
 ```sh
-...
 -\|/-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\-\|/-galileo-io@0.10.0 node_modules/galileo-io
 ��├��─��─ es6-shim@0.35.3
 ��└��─��─ remapped@0.2.1 (getobject@0.1.0, traverse@0.6.6)
