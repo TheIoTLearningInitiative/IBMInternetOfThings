@@ -16,7 +16,7 @@ Install the following npm packages:
 - node-red-node-intel-gpio
 - node-red-contrib-gpio
 
-## Mraa Library
+## Mraa IO Library
 
 > IO library that helps you use I2c, SPI, gpio, uart, pwm, analog inputs (aio) and more on a number of platforms such as the Intel galileo, the Intel edison and others
 
