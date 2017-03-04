@@ -45,7 +45,7 @@ root@edison:~/nodered#
 ## Node-RED Mraa Library
 
 ```sh
-root@edison:~# npm install mraa
+root@edison:~/nodered# npm install mraa
 ```
 
 ```sh
@@ -64,7 +64,7 @@ mraa@1.5.1 node_modules/mraa
 > Intel Edison & Intel Galileo IO Plugin for Johnny-Five JavaScript Robotics
 
 ```sh
-root@edison:~# npm install galileo-io
+root@edison:~/nodered# npm install galileo-io
 ```
 
 ```sh
@@ -78,7 +78,7 @@ root@edison:~# npm install galileo-io
 > A visual tool for wiring the Internet of Things
 
 ```sh
-root@edison:~# npm install -g node-red
+root@edison:~/nodered# npm install node-red
 ```
 
 ```sh
@@ -124,7 +124,7 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 ```
 
 ```sh
-root@edison:~# node-red # or create .node-red directory
+root@edison:~/nodered# node-red
 ```
 
 ```sh
