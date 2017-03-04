@@ -318,13 +318,23 @@ root@edison:~/nodered# npm install node-red-node-watson
 > websocket@1.0.24 install /home/root/nodered/node_modules/node-red-node-watson/node_modules/watson-developer-cloud/node_modules/websocket
 > (node-gyp rebuild 2> builderror.log) || (exit 0)
 ...
-
+��├��─��─ async@1.5.2
+��├��─��─ alchemy-api@1.3.3
+��├��─��─ qs@6.3.1
+��├��─��─ temp@0.8.3 (os-tmpdir@1.0.2, rimraf@2.2.8)
+��├��─��─ is-docx@0.0.3 (ooxml-type@0.0.1)
+��├��─��─ request@2.53.0 (tunnel-agent@0.4.3, aws-sign2@0.5.0, forever-agent@0.5.2, caseless@0.9.0, oauth-sign@0.6.0, stringstream@0.0.5, isstream@0.1.2, json-stringify-safe@5.0.1, node-uuid@1.4.7, qs@2.3.3, to)
+��├��─��─ image-type@2.1.0 (file-type@3.9.0, meow@3.7.0)
+��├��─��─ file-type@2.12.0 (read-chunk@1.0.1, meow@3.7.0)
+��├��─��─ cfenv@1.0.4 (ports@1.1.0, underscore@1.8.3, js-yaml@3.7.0)
+��├��─��─ watson-developer-cloud@2.25.0 (cookie@0.3.1, vcap_services@0.2.0, isstream@0.1.2, extend@3.0.0, string@3.3.3, csv-stringify@1.0.4, object.omit@2.0.1, object.pick@1.2.0, buffer-from@0.1.1, request@2.79)
+��└��─��─ kuromoji@0.0.5 (doublearray@0.0.2, zlibjs@0.2.0)
 ```
 
 ```sh
-root@edison:~/nodered# ls node_modules/
-node-red-contrib-gpio          node-red-contrib-upm      node-red-node-upm
-node-red-contrib-grove-edison  node-red-node-intel-gpio  node-red-node-watson
+root@edison:~/nodered# ls node_modules/galileo-io  node-red-contrib-gpio          node-red-node-intel-gpio
+mraa        node-red-contrib-grove-edison  node-red-node-upm
+node-red    node-red-contrib-upm           node-red-node-watson
 root@edison:~/nodered# 
 ```
 
