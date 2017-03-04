@@ -138,17 +138,19 @@ node-red-pi
 ```
 
 ```sh
-root@edison:~/nodered# node-red
+root@edison:~/nodered# node_modules/node-red/bin/node-red-pi 
 ```
 
 ```sh
+4 Mar 04:10:34 - [info] 
+
 Welcome to Node-RED
 ===================
 
-30 Jul 16:44:53 - [info] Node-RED version: v0.14.6
-30 Jul 16:44:54 - [info] Node.js  version: v4.4.3
-30 Jul 16:44:54 - [info] Linux 3.10.98-poky-edison+ ia32 LE
-30 Jul 16:44:54 - [info] Loading palette nodes
+4 Mar 04:10:34 - [info] Node-RED version: v0.16.2
+4 Mar 04:10:34 - [info] Node.js  version: v4.4.3
+4 Mar 04:10:34 - [info] Linux 3.10.98-poky-edison+ ia32 LE
+4 Mar 04:10:37 - [info] Loading palette nodes
 30 Jul 16:45:03 - [warn] ------------------------------------------------------
 ...
 30 Jul 16:45:03 - [warn] ------------------------------------------------------
