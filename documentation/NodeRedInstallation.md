@@ -368,11 +368,24 @@ root@edison:~/nodered# npm install node-red-bluemix-nodes
 ```
 
 ```sh
+-\|/-\|/-\|/-\|-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\-\|/-\-\|/-\|/-\|/-\|/-\|/-\-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/d
+-\|/-\|/-\|/-\|/-\|/-\|-\|/-\|/-\|-\|/-\|/-\|-\|/-\|/-\|/-\-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|-\|-\|/-node-red-bluemix-nodes@1.1.9 node_modules/node-red-bluemix-nodes
+��├��─��─ xml2js@0.4.17 (sax@1.2.2, xmlbuilder@4.2.1)
+��├��─��─ when@3.7.8
+��├��─��─ cfenv@1.0.4 (ports@1.1.0, underscore@1.8.3, js-yaml@3.7.0)
+��├��─��─ request@2.79.0 (aws-sign2@0.6.0, tunnel-agent@0.4.3, forever-agent@0.6.1, oauth-sign@0.8.2, is-typedarray@1.0.0, caseless@0.11.0, stringstream@0.0.5, aws4@1.6.0, isstream@0.1.2, json-stringify-safe@5.)
+��├��─��─ mongodb@2.2.24 (es6-promise@3.2.1, readable-stream@2.1.5, mongodb-core@2.1.8)
+��├��─��─ twilio@1.11.1 (underscore@1.8.3, scmp@0.0.3, jwt-simple@0.1.0, q@0.9.7, request@2.27.0)
+��├��─��─ mqlight@2.0.2016111400 (uuid@2.0.3, nopt@3.0.6, debug@2.6.1, npmlog@2.0.4, amqp10-link-cache@1.2.2, amqp10@3.4.2, moment@2.14.1)
+��└��─��─ lodash@4.17.4
+```
+
+```sh
 root@edison:~/nodered# ls node_modules/
-node-red-bluemix-nodes         node-red-contrib-upm
-node-red-contrib-gpio          node-red-node-intel-gpio
-node-red-contrib-grove-edison  node-red-node-upm
-node-red-contrib-play-audio    node-red-node-watson
+galileo-io              node-red-contrib-gpio          node-red-node-intel-gpio
+mraa                    node-red-contrib-grove-edison  node-red-node-upm
+node-red                node-red-contrib-play-audio    node-red-node-watson
+node-red-bluemix-nodes  node-red-contrib-upm
 root@edison:~/nodered# 
 ```
 
