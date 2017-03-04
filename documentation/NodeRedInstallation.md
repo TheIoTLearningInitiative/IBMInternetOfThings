@@ -50,6 +50,7 @@ root@edison:~# npm install mraa
 ```
 
 ```sh
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/
 ...
   SOLINK_MODULE(target) Release/obj.target/mraa.node
   COPY Release/mraa.node
