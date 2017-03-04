@@ -347,6 +347,10 @@ root@edison:~/nodered# npm install node-red-contrib-play-audio
 ```
 
 ```sh
+-\|/-\|/-\|/-\|/node-red-contrib-play-audio@2.2.2 node_modules/node-red-contrib-play-audio
+```
+
+```sh
 root@edison:~/nodered# ls node_modules/
 node-red-contrib-gpio          node-red-contrib-upm      node-red-node-watson
 node-red-contrib-grove-edison  node-red-node-intel-gpio
