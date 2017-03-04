@@ -96,7 +96,7 @@ galileo-io@0.9.4 node_modules/galileo-io
 root@edison:~# 
 ```
 
-## node-red
+## NodeRED node-red :)
 
 > A visual tool for wiring the Internet of Things
 
