@@ -165,7 +165,9 @@ Welcome to Node-RED
 4 Mar 04:10:48 - [info] Started flows
 ```
 
-__UI Nodes__
+Go to http://board.ip.adress:1880/#
+
+Loook at the installed __UI Nodes__
 
 - Input
 - Output
@@ -389,48 +391,10 @@ node-red-bluemix-nodes  node-red-contrib-upm
 root@edison:~/nodered# 
 ```
 
-## Node-RED Execution
+## Node-RED Node Modules List
 
 ```sh
-root@edison:~/nodered# node_modules/node-red/bin/node-red-pi 
-```
-
-```sh
-root@edison:~# node-red &
-[1] 1835
-root@edison:~# 
-
-Welcome to Node-RED
-===================
-
-30 Jul 16:44:53 - [info] Node-RED version: v0.14.6
-30 Jul 16:44:54 - [info] Node.js  version: v4.4.3
-30 Jul 16:44:54 - [info] Linux 3.10.98-poky-edison+ ia32 LE
-30 Jul 16:44:54 - [info] Loading palette nodes
-30 Jul 16:45:03 - [warn] ------------------------------------------------------
-30 Jul 16:45:03 - [warn] [rpi-gpio] Info : Ignoring Raspberry Pi specific node
-30 Jul 16:45:03 - [warn] [serialport] Error: Could not locate the bindings file. Tried:
- → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/build/serialport.node
- → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/build/Debug/serialport.node
- → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/build/Release/serialport.node
- → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/out/Debug/serialport.node
- → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/Debug/serialport.node
- → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/out/Release/serialport.node
- → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/Release/serialport.node
- → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/build/default/serialport.node
- → /usr/lib/node_modules/node-red/node_modules/node-red-node-serialport/node_modules/serialport/compiled/4.4.3/linux/ia32/serialport.node
-30 Jul 16:45:03 - [warn] ------------------------------------------------------
-30 Jul 16:45:03 - [info] Settings file  : /home/root/.node-red/settings.js
-30 Jul 16:45:03 - [info] User directory : /home/root/.node-red
-30 Jul 16:45:03 - [info] Flows file     : /home/root/.node-red/flows_edison.json
-30 Jul 16:45:03 - [info] Creating new flow file
-30 Jul 16:45:03 - [info] Starting flows
-30 Jul 16:45:03 - [info] Started flows
-30 Jul 16:45:04 - [info] Server now running at http://127.0.0.1:1880/
-```
-
-```sh
-root@edison:~# ls /usr/lib/node_modules/
+root@edison:~/nodered# ls /usr/lib/node_modules/
 iotkit                    jsupm_grovewater  jsupm_mq303a
 iotkit-agent              jsupm_grovewfs    jsupm_my9221
 iotkit-comm               jsupm_guvas12d    jsupm_nlgpio16
@@ -480,38 +444,23 @@ jsupm_grovelinefinder     jsupm_mic         jsupm_xbee
 jsupm_grovemd             jsupm_micsv89     jsupm_yg1006
 jsupm_grovemoisture       jsupm_mlx90614    jsupm_zfm20
 jsupm_groveo2             jsupm_mma7455     mraa
-jsupm_grovescam           jsupm_mma7660     node-red
-jsupm_grovespeaker        jsupm_mpl3115a2   npm
-jsupm_groveultrasonic     jsupm_mpr121      wyliodrin
+jsupm_grovescam           jsupm_mma7660     npm
+jsupm_grovespeaker        jsupm_mpl3115a2   wyliodrin
+jsupm_groveultrasonic     jsupm_mpr121
 jsupm_grovevdiv           jsupm_mpu9150
-root@edison:~# 
+root@edison:~/nodered# 
 ```
 
-## Launch #2
+## Node-RED Execution
 
 ```sh
-root@edison:~# ./node_modules/node-red/bin/node-red-pi 
-
-Welcome to Node-RED
-===================
-
-26 Mar 14:02:36 - [info] Node-RED version: v0.13.4
-26 Mar 14:02:36 - [info] Node.js  version: v0.10.38
-26 Mar 14:02:36 - [info] Linux 3.10.17-poky-edison+ ia32 LE
-26 Mar 14:02:36 - [info] Loading palette nodes
-...
-26 Mar 14:02:47 - [info] Started flows
-26 Mar 14:02:47 - [info] Server now running at http://127.0.0.1:1880/
-
-Go to http://<board.ip.adress>:1880/#
+root@edison:~/nodered# node_modules/node-red/bin/node-red-pi
 ```
 
 ```sh
-root@edison:~# ls .node-red      
-flows_edison.json  lib                node_modules       settings.js
-root@edison:~# 
+
 ```
 
-# @ Workstation
+Go to http://board.ip.adress:1880/#
 
-Go to http://<board.ip.adress>:1880/#
+Loook at the installed __UI Nodes__
