@@ -192,20 +192,19 @@ Supported Hardware
 - Particle(Spark) Core	particle-io
 
 ```sh
-root@edison:~/nodered# npm install node-red-contrib-gpio
+```sh
+> meshblu@2.3.2 preinstall /home/root/nodered/node_modules/node-red-contrib-gpio/node_modules/meshblu
+> node -e "try{require('./skip-install.js')}catch(e){}"
 ...
-...
-node-red-contrib-gpio@0.8.0 node_modules/node-red-contrib-gpio
-├── udp-serial@0.2.0
-├── mqtt-serial@0.6.0
-├── skynet-serial@1.3.0 (debug@2.2.0)
-├── johnny-five@0.9.61 (lodash.debounce@4.0.7, lodash.clonedeep@4.4.0, ease-component@1.0.0, browser-serialport@2.0.3, color-convert@1.2.2, nanotimer@0.3.10, temporal@0.5.0, chalk@1.1.3, es6-shim@0.35.1, firmata@0.12.0)
-├── mqtt@1.13.0 (inherits@2.0.1, reinterval@1.1.0, xtend@4.0.1, help-me@0.1.0, minimist@1.2.0, commist@1.0.0, mqtt-connection@2.1.1, readable-stream@1.0.34, pump@1.0.1, end-of-stream@1.1.0, mqtt-packet@3.4.7, concat-stream@1.5.1, split2@2.1.0, websocket-stream@3.2.1)
-├── lodash@4.14.1
-├── meshblu@1.34.1 (backo@1.1.0, debug@2.2.0, json-stable-stringify@1.0.1, url@0.10.3, socket.io-client@1.4.8, node-rsa@0.2.30, lodash@3.10.1)
-├── serialport@3.1.2 (bindings@1.2.1, es6-promise@3.2.1, commander@2.9.0, debug@2.2.0, nan@2.4.0, object.assign@4.0.4)
-└── firmata@0.11.3 (browser-serialport@2.0.3, es6-shim@0.33.13, serialport@2.1.2)
-root@edison:~/.node-red# 
+��├��─��─ udp-serial@0.2.0
+��├��─��─ mqtt-serial@0.6.0
+��├��─��─ skynet-serial@1.3.0 (debug@2.6.1)
+��├��─��─ firmata@0.15.0 (browser-serialport@2.1.0, es6-shim@0.35.3)
+��├��─��─ johnny-five@0.10.6 (lodash.debounce@4.0.8, lodash.clonedeep@4.5.0, ease-component@1.0.0, browser-serialport@2.1.0, color-convert@1.2.2, nanotimer@0.3.10, temporal@0.5.0, chalk@1.1.3, es6-shim@0.35.3)
+��├��─��─ mqtt@2.4.0 (inherits@2.0.3, reinterval@1.1.0, xtend@4.0.1, minimist@1.2.0, concat-stream@1.6.0, commist@1.0.0, split2@2.1.1, end-of-stream@1.1.0, pump@1.0.2, mqtt-packet@5.2.1, readable-stream@2.2.3, )
+��├��─��─ lodash@4.17.4
+��├��─��─ serialport@4.0.7 (bindings@1.2.1, commander@2.9.0, debug@2.6.1, lie@3.1.1, nan@2.5.1, object.assign@4.0.4)
+��└��─��─ meshblu@2.3.2 (backo@1.1.0, debug@2.6.1, coffee-script@1.12.4, json-stable-stringify@1.0.1, url@0.10.3, socket.io-client@1.7.3, srv-failover@1.3.0, node-rsa@0.2.30)
 ```
 
 - Device: IO Plugin
@@ -236,20 +235,7 @@ root@edison:~/nodered#
 root@edison:~/nodered# npm install node-red-node-intel-gpio
 ```
 
-```sh
-> meshblu@2.3.2 preinstall /home/root/nodered/node_modules/node-red-contrib-gpio/node_modules/meshblu
-> node -e "try{require('./skip-install.js')}catch(e){}"
-...
-��├��─��─ udp-serial@0.2.0
-��├��─��─ mqtt-serial@0.6.0
-��├��─��─ skynet-serial@1.3.0 (debug@2.6.1)
-��├��─��─ firmata@0.15.0 (browser-serialport@2.1.0, es6-shim@0.35.3)
-��├��─��─ johnny-five@0.10.6 (lodash.debounce@4.0.8, lodash.clonedeep@4.5.0, ease-component@1.0.0, browser-serialport@2.1.0, color-convert@1.2.2, nanotimer@0.3.10, temporal@0.5.0, chalk@1.1.3, es6-shim@0.35.3)
-��├��─��─ mqtt@2.4.0 (inherits@2.0.3, reinterval@1.1.0, xtend@4.0.1, minimist@1.2.0, concat-stream@1.6.0, commist@1.0.0, split2@2.1.1, end-of-stream@1.1.0, pump@1.0.2, mqtt-packet@5.2.1, readable-stream@2.2.3, )
-��├��─��─ lodash@4.17.4
-��├��─��─ serialport@4.0.7 (bindings@1.2.1, commander@2.9.0, debug@2.6.1, lie@3.1.1, nan@2.5.1, object.assign@4.0.4)
-��└��─��─ meshblu@2.3.2 (backo@1.1.0, debug@2.6.1, coffee-script@1.12.4, json-stable-stringify@1.0.1, url@0.10.3, socket.io-client@1.7.3, srv-failover@1.3.0, node-rsa@0.2.30)
-```
+
 
 ```sh
 root@edison:~/nodered# ls node_modules/
