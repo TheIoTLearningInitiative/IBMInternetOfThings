@@ -458,7 +458,38 @@ root@edison:~/nodered# node_modules/node-red/bin/node-red-pi
 ```
 
 ```sh
+4 Mar 04:34:38 - [info] 
 
+Welcome to Node-RED
+===================
+
+4 Mar 04:34:38 - [info] Node-RED version: v0.16.2
+4 Mar 04:34:38 - [info] Node.js  version: v4.4.3
+4 Mar 04:34:38 - [info] Linux 3.10.98-poky-edison+ ia32 LE
+4 Mar 04:34:42 - [info] Loading palette nodes
+4 Mar 04:35:08 - [warn] ------------------------------------------------------
+4 Mar 04:35:08 - [warn] [rpi-gpio] Info : Ignoring Raspberry Pi specific node
+4 Mar 04:35:08 - [warn] [tcp] Error: tcp in already registered
+4 Mar 04:35:08 - [warn] [udp] Error: udp out already registered
+4 Mar 04:35:08 - [warn] [upm-curieimu] Error: Cannot find module 'jsupm_curieimu'
+4 Mar 04:35:08 - [warn] [upm-grove-button] Error: UPM-Grove-Button already registered
+4 Mar 04:35:08 - [warn] [upm-grove-led] Error: upm-grove-led already registered
+4 Mar 04:35:08 - [warn] [upm-grove-light] Error: upm-grove-light already registered
+4 Mar 04:35:08 - [warn] [upm-grove-relay] Error: UPM-Grove-Relay already registered
+4 Mar 04:35:08 - [warn] [upm-grove-rgb-lcd] Error: upm-grove-rgb-lcd already registered
+4 Mar 04:35:08 - [warn] [upm-grove-rotary] Error: upm-grove-rotary already registered
+4 Mar 04:35:08 - [warn] [upm-grove-sound] Error: upm-grove-sound already registered
+4 Mar 04:35:08 - [warn] [upm-grove-temperature] Error: upm-grove-temperature already registered
+4 Mar 04:35:08 - [warn] [upm-grove-servo] Error: upm-grove-servo already registered
+4 Mar 04:35:08 - [warn] [upm-curieimu] Error: Cannot find module 'jsupm_curieimu'
+4 Mar 04:35:08 - [warn] ------------------------------------------------------
+4 Mar 04:35:08 - [info] Settings file  : /home/root/.node-red/settings.js
+4 Mar 04:35:08 - [info] User directory : /home/root/.node-red
+4 Mar 04:35:08 - [info] Flows file     : /home/root/.node-red/flows_edison.json
+4 Mar 04:35:08 - [info] Creating new flow file
+4 Mar 04:35:08 - [info] Starting flows
+4 Mar 04:35:08 - [info] Started flows
+4 Mar 04:35:08 - [info] Server now running at http://127.0.0.1:1880/
 ```
 
 Go to http://board.ip.adress:1880/#
