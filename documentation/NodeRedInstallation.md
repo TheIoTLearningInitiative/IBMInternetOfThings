@@ -83,6 +83,7 @@ root@edison:~/nodered# npm install node-red
 
 ```sh
 node-red@0.14.6 /usr/lib/node_modules/node-red
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/
 ...
 ...
 ├── is-utf8@0.2.1
