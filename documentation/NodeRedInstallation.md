@@ -69,24 +69,9 @@ root@edison:~# npm install galileo-io
 
 ```sh
 ...
-> galileo-io@0.9.4 postinstall /home/root/node_modules/galileo-io
-> node scripts/postinstall
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-  Do not quit the program until npm completes the installation process.
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-  Galileo-IO needs to install a trusted version of libmraa0.
-  This process takes approximately one minute.
-  Thanks for your patience.
-
-...
-...
-galileo-io@0.9.4 node_modules/galileo-io
-├── es6-promise@3.2.1
-├── es6-shim@0.35.1
-└── remapped@0.2.1 (getobject@0.1.0, traverse@0.6.6)
-root@edison:~# 
+-\|/-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\-\|/-galileo-io@0.10.0 node_modules/galileo-io
+��├��─��─ es6-shim@0.35.3
+��└��─��─ remapped@0.2.1 (getobject@0.1.0, traverse@0.6.6)
 ```
 
 ## Node-RED node-red :)
