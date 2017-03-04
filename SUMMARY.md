@@ -32,6 +32,7 @@
     * [Projects](documentation/WatsonProjects.md)
 * [NodeRED](documentation/NodeRED.md)
   * [Installation](documentation/NodeRedInstallation.md)
+    * [x86](documentation/NodeRedInstallationx86.md)
   * [IBM Watson IoT](documentation/NodeRedIBMWatsonIoT.md)
   * [Projects](documentation/NodeRedProjects.md)
     * [Input MQTT + Output Debug](documentation/input-mqtt--output-debug.md)

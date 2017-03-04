@@ -6,14 +6,6 @@
 - [Scargill Backing up Node-Red](http://tech.scargill.net/backing-up-node-red/)
 - [node-red-node-intel-gpio](http://flows.nodered.org/node/node-red-node-intel-gpio)
 
-# i386
-
-```sh
-# apt-get install npm nodejs nodejs-legacy
-# npm install -g node-red
-$ node-red
-```
-
 # Intel Edison
 
 Install the following npm packages:
