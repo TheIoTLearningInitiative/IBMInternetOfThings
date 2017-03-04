@@ -14,6 +14,5 @@ root@edison:~/.node-red# npm install node-red-contrib-iotclouddev
 ...
 node-red-contrib-iotclouddev@1.0.3 node_modules/node-red-contrib-iotclouddev
 ��└��─��─ getmac@1.0.7 (extract-opts@2.2.0)
-root@edison:~# cd
 ```
 
