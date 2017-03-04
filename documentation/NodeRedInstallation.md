@@ -163,6 +163,15 @@ Welcome to Node-RED
 4 Mar 04:10:48 - [info] Started flows
 ```
 
+__UI Nodes__
+
+- Input
+- Output
+- Function
+- social
+- Storage
+- Analysis
+- Advanced
 
 ## Node-Red Required Modules
 
