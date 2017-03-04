@@ -51,6 +51,8 @@ root@edison:~# npm install mraa
 
 ```sh
 -\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/
+> mraa@1.5.1 install /home/root/nodered/node_modules/mraa
+> node-gyp rebuild
 ...
   SOLINK_MODULE(target) Release/obj.target/mraa.node
   COPY Release/mraa.node
