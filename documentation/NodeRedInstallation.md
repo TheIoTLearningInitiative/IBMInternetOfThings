@@ -125,6 +125,19 @@ node-red@0.14.6 /usr/lib/node_modules/node-red
 ```
 
 ```sh
+root@edison:~/nodered# ls
+node_modules
+root@edison:~/nodered# ls node_modules/
+galileo-io  mraa  node-red
+root@edison:~/nodered# ls node_modules/node-red/
+CHANGELOG.md        LICENSE    editor        package.json  red.js
+CODE_OF_CONDUCT.md  README.md  node_modules  public        settings.js
+CONTRIBUTING.md     bin        nodes         red
+root@edison:~/nodered# ls node_modules/node-red/bin
+node-red-pi
+```
+
+```sh
 root@edison:~/nodered# node-red
 ```
 
