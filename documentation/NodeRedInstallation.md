@@ -16,6 +16,12 @@ $ node-red
 
 # Intel Edison
 
+```sh
+root@edison:~# mkdir nodered
+root@edison:~# cd nodered/
+root@edison:~/nodered# 
+```
+
 Install the following npm packages:
 
 - mraa
