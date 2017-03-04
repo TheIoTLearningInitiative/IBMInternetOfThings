@@ -137,6 +137,8 @@ root@edison:~/nodered# ls node_modules/node-red/bin
 node-red-pi
 ```
 
+## Node-RED Execution
+
 ```sh
 root@edison:~/nodered# node_modules/node-red/bin/node-red-pi 
 ```
@@ -290,13 +292,14 @@ root@edison:~/nodered# npm install node-red-contrib-upm
 ```
 
 ```sh
-
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|node-red-contrib-upm@0.3.2 node_modules/node-red-contrib-upm
 ```
 
 ```sh
 root@edison:~/nodered# ls node_modules/
-node-red-contrib-gpio          node-red-contrib-upm      node-red-node-upm
-node-red-contrib-grove-edison  node-red-node-intel-gpio
+galileo-io  node-red-contrib-gpio          node-red-node-intel-gpio
+mraa        node-red-contrib-grove-edison  node-red-node-upm
+node-red    node-red-contrib-upm
 root@edison:~/nodered# 
 ```
 
@@ -306,6 +309,16 @@ root@edison:~/nodered#
 
 ```sh
 root@edison:~/nodered# npm install node-red-node-watson
+```
+
+```sh
+\|/-\|/-\|/-\|/-\|/-\|/-\|/-npm WARN engine node-red-node-watson@0.5.0: wanted: {"node":">=4.5.0"} (current: {"node":"4.4.3","npm":"2.15.1"})
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\d
+ /-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/--\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|
+> websocket@1.0.24 install /home/root/nodered/node_modules/node-red-node-watson/node_modules/watson-developer-cloud/node_modules/websocket
+> (node-gyp rebuild 2> builderror.log) || (exit 0)
+...
+
 ```
 
 ```sh
@@ -348,19 +361,11 @@ node-red-contrib-play-audio    node-red-node-watson
 root@edison:~/nodered# 
 ```
 
-## IP Address
-
-Get Board IP Adress
+## Node-RED Execution
 
 ```sh
-    root@edison:~# ifconfig
-    ...
-    wlan0     Link encap:Ethernet  HWaddr 78:4b:87:a5:3a:73  
-              inet addr:192.168.1.65  Bcast:192.168.1.255  Mask:255.255.255.0
-    ...
+root@edison:~/nodered# node_modules/node-red/bin/node-red-pi 
 ```
-
-## Launch #1
 
 ```sh
 root@edison:~# node-red &
