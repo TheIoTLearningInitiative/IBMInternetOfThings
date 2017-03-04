@@ -175,10 +175,6 @@ __UI Nodes__
 
 ## Node-Red Required Modules
 
-```sh
-root@edison:~# cd .node-red/
-```
-
 ### node-red-contrib-gpio
 
 > A set of node-red nodes for using johnny-five and IO plugins
@@ -196,7 +192,7 @@ Supported Hardware
 - Particle(Spark) Core	particle-io
 
 ```sh
-root@edison:~/.node-red# npm install node-red-contrib-gpio
+root@edison:~/nodered# npm install node-red-contrib-gpio
 ...
 ...
 node-red-contrib-gpio@0.8.0 node_modules/node-red-contrib-gpio
@@ -224,9 +220,9 @@ root@edison:~/.node-red#
   - Particle(Spark) Core: particle-io
 
 ```sh
-root@edison:~/.node-red# ls node_modules/
+root@edison:~/nodered# ls node_modules/
 node-red-contrib-gpio
-root@edison:~/.node-red#
+root@edison:~/nodered# 
 ```
 
 ### node-red-node-intel-gpio
@@ -237,15 +233,15 @@ root@edison:~/.node-red#
 - [node-red-node-intel-gpio](http://flows.nodered.org/node/node-red-node-intel-gpio)
 
 ```sh
-root@edison:~/.node-red# npm install node-red-node-intel-gpio
+root@edison:~/nodered# npm install node-red-node-intel-gpio
 node-red-node-intel-gpio@0.0.4 node_modules/node-red-node-intel-gpio
-root@edison:~/.node-red# 
+root@edison:~/nodered# 
 ```
 
 ```sh
-root@edison:~/.node-red# ls node_modules/
+root@edison:~/nodered# ls node_modules/
 node-red-contrib-gpio node-red-node-intel-gpio
-root@edison:~/.node-red# 
+root@edison:~/nodered# 
 ```
 
 ### node-red-contrib-grove-edison
@@ -253,15 +249,15 @@ root@edison:~/.node-red#
 > Node-RED nodes for Grove sensors used with the Intel Edison board
 
 ```sh
-root@edison:~/.node-red# npm install node-red-contrib-grove-edison
+root@edison:~/nodered# npm install node-red-contrib-grove-edison
 node-red-contrib-grove-edison@0.1.1 node_modules/node-red-contrib-grove-edison
-root@edison:~/.node-red# 
+root@edison:~/nodered# 
 ```
 
 ```sh
-root@edison:~/.node-red# ls node_modules/
+root@edison:~/nodered# ls node_modules/
 node-red-contrib-gpio  node-red-contrib-grove-edison  node-red-node-intel-gpio
-root@edison:~/.node-red#
+root@edison:~/nodered#
 ```
 
 ### node-red-node-upm
@@ -269,14 +265,14 @@ root@edison:~/.node-red#
 > Node-RED nodes to talk to sensors supported by the UPM library
 
 ```sh
-root@edison:~/.node-red# npm install node-red-node-upm
+root@edison:~/nodered# npm install node-red-node-upm
 ```
 
 ```sh
-root@edison:~/.node-red# ls node_modules/
+root@edison:~/nodered# ls node_modules/
 node-red-contrib-gpio          node-red-node-intel-gpio
 node-red-contrib-grove-edison  node-red-node-upm
-root@edison:~/.node-red# 
+root@edison:~/nodered#
 ```
 
 ### node-red-contrib-upm
