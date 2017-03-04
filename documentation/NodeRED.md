@@ -52,6 +52,8 @@ Domain **mybluemix.net**
 
 ## Node-RED Github
 
+> Client libraries and samples for connecting to IBM Watson IoT using Node-RED [Github](https://github.com/ibm-watson-iot/iot-nodered)
+
 ```sh
 root@edison:~# git clone https://github.com/ibm-messaging/iot-nodered.git
 Cloning into 'iot-nodered'...
