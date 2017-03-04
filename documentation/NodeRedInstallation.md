@@ -255,9 +255,9 @@ root@edison:~/nodered#
 ```
 
 ```sh
-root@edison:~/nodered# ls node_modules/
-node-red-contrib-gpio  node-red-contrib-grove-edison  node-red-node-intel-gpio
-root@edison:~/nodered#
+root@edison:~/nodered# npm install node-red-contrib-grove-edison
+-\|/-\|/-\|/-\|/-\|/-node-red-contrib-grove-edison@0.1.1 node_modules/node-red-contrib-grove-edison
+root@edison:~/nodered# 
 ```
 
 ### node-red-node-upm
@@ -269,9 +269,15 @@ root@edison:~/nodered# npm install node-red-node-upm
 ```
 
 ```sh
+-\|/-\|/-\|/-\|npm WARN deprecated node-red-node-upm@0.3.0: WARNING: This module has been renamed to node-red-contrib-upm. Please install it instead. See https://github.com/intel-iot-devkit/Node-Red-Node-UPM fo.
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-^C
+```
+
+```sh
 root@edison:~/nodered# ls node_modules/
-node-red-contrib-gpio          node-red-node-intel-gpio
-node-red-contrib-grove-edison  node-red-node-upm
+galileo-io  node-red-contrib-gpio          node-red-node-upm
+mraa        node-red-contrib-grove-edison
+node-red    node-red-node-intel-gpio
 root@edison:~/nodered# 
 ```
 
