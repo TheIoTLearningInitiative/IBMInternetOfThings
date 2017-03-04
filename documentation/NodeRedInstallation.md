@@ -234,11 +234,13 @@ root@edison:~/nodered#
 root@edison:~/nodered# npm install node-red-node-intel-gpio
 ```
 
-
+```sh
+-\|/-\|/-\|/-\|/-\|/-\node-red-node-intel-gpio@0.0.5 node_modules/node-red-node-intel-gpio
+```
 
 ```sh
 root@edison:~/nodered# ls node_modules/
-node-red-contrib-gpio node-red-node-intel-gpio
+galileo-io  mraa  node-red  node-red-contrib-gpio  node-red-node-intel-gpio
 root@edison:~/nodered# 
 ```
 
