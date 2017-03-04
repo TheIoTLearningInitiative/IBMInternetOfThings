@@ -272,7 +272,7 @@ root@edison:~/nodered# npm install node-red-node-upm
 root@edison:~/nodered# ls node_modules/
 node-red-contrib-gpio          node-red-node-intel-gpio
 node-red-contrib-grove-edison  node-red-node-upm
-root@edison:~/nodered#
+root@edison:~/nodered# 
 ```
 
 ### node-red-contrib-upm
@@ -280,14 +280,14 @@ root@edison:~/nodered#
 > Node-RED nodes to talk to sensors supported by the UPM library
 
 ```sh
-root@edison:~/.node-red# npm install node-red-contrib-upm
+root@edison:~/nodered# npm install node-red-contrib-upm
 ```
 
 ```sh
-root@edison:~/.node-red# ls node_modules/
+root@edison:~/nodered# ls node_modules/
 node-red-contrib-gpio          node-red-contrib-upm      node-red-node-upm
 node-red-contrib-grove-edison  node-red-node-intel-gpio
-root@edison:~/.node-red# 
+root@edison:~/nodered# 
 ```
 
 ### node-red-node-watson
@@ -295,14 +295,14 @@ root@edison:~/.node-red#
 > A collection of Node-RED nodes for IBM Watson services
 
 ```sh
-root@edison:~/.node-red# npm install node-red-node-watson
+root@edison:~/nodered# npm install node-red-node-watson
 ```
 
 ```sh
-root@edison:~/.node-red# ls node_modules/
+root@edison:~/nodered# ls node_modules/
 node-red-contrib-gpio          node-red-contrib-upm      node-red-node-upm
 node-red-contrib-grove-edison  node-red-node-intel-gpio  node-red-node-watson
-root@edison:~/.node-red# 
+root@edison:~/nodered# 
 ```
 
 ### node-red-contrib-play-audio
@@ -310,15 +310,15 @@ root@edison:~/.node-red#
 > A node-red node for playing audio in the browser
 
 ```sh
-root@edison:~/.node-red# npm install node-red-contrib-play-audio
+root@edison:~/nodered# npm install node-red-contrib-play-audio
 ```
 
 ```sh
-root@edison:~/.node-red# ls node_modules/
+root@edison:~/nodered# ls node_modules/
 node-red-contrib-gpio          node-red-contrib-upm      node-red-node-watson
 node-red-contrib-grove-edison  node-red-node-intel-gpio
 node-red-contrib-play-audio    node-red-node-upm
-root@edison:~/.node-red# 
+root@edison:~/nodered# 
 ```
 
 # node-red-bluemix-nodes 
@@ -326,16 +326,16 @@ root@edison:~/.node-red#
 > A collection of extra Node-RED nodes for IBM Bluemix.
 
 ```sh
-root@edison:~/.node-red# npm install node-red-bluemix-nodes
+root@edison:~/nodered# npm install node-red-bluemix-nodes
 ```
 
 ```sh
-root@edison:~/.node-red# ls node_modules/
+root@edison:~/nodered# ls node_modules/
 node-red-bluemix-nodes         node-red-contrib-upm
 node-red-contrib-gpio          node-red-node-intel-gpio
 node-red-contrib-grove-edison  node-red-node-upm
 node-red-contrib-play-audio    node-red-node-watson
-root@edison:~/.node-red# 
+root@edison:~/nodered# 
 ```
 
 ## IP Address
