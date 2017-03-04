@@ -1,5 +1,6 @@
 # Node-RED IBM Watson IoT
 
+> Connect to IBM Watson Internet of Things Plaform as a Device or Gateway
 
 ```sh
 root@edison:~# npm install node-red-contrib-ibm-watson-iot
