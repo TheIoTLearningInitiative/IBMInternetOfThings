@@ -151,16 +151,16 @@ Welcome to Node-RED
 4 Mar 04:10:34 - [info] Node.js  version: v4.4.3
 4 Mar 04:10:34 - [info] Linux 3.10.98-poky-edison+ ia32 LE
 4 Mar 04:10:37 - [info] Loading palette nodes
-30 Jul 16:45:03 - [warn] ------------------------------------------------------
-...
-30 Jul 16:45:03 - [warn] ------------------------------------------------------
-30 Jul 16:45:03 - [info] Settings file  : /home/root/.node-red/settings.js
-30 Jul 16:45:03 - [info] User directory : /home/root/.node-red
-30 Jul 16:45:03 - [info] Flows file     : /home/root/.node-red/flows_edison.json
-30 Jul 16:45:03 - [info] Creating new flow file
-30 Jul 16:45:03 - [info] Starting flows
-30 Jul 16:45:03 - [info] Started flows
-30 Jul 16:45:04 - [info] Server now running at http://127.0.0.1:1880/
+4 Mar 04:10:47 - [warn] ------------------------------------------------------
+4 Mar 04:10:47 - [warn] [rpi-gpio] Info : Ignoring Raspberry Pi specific node
+4 Mar 04:10:47 - [warn] ------------------------------------------------------
+4 Mar 04:10:47 - [info] Settings file  : /home/root/.node-red/settings.js
+4 Mar 04:10:47 - [info] User directory : /home/root/.node-red
+4 Mar 04:10:47 - [info] Flows file     : /home/root/.node-red/flows_edison.json
+4 Mar 04:10:48 - [info] Creating new flow file
+4 Mar 04:10:48 - [info] Server now running at http://127.0.0.1:1880/
+4 Mar 04:10:48 - [info] Starting flows
+4 Mar 04:10:48 - [info] Started flows
 ```
 
 
