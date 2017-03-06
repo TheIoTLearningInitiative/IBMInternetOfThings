@@ -28,6 +28,10 @@ UI Nodes
 - Analysis
 - Advanced
 
+# Node-RED Library
+
+> Find new nodes, share your flows and see what other people have done with Node-RED. [Homepage](http://flows.nodered.org/)
+
 # Node-RED Application on BlueMix
 
 > You should have connected a registered Device in Watson IoT Platform
