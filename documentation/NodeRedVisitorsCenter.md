@@ -3,10 +3,10 @@
 Loook at the installed __UI Nodes__
 
 - Input
-  - Inject
+  - inject
 - Function
-  - Split
-  - Join
+  - split
+  - join
 - UPM_Sensors
 
 - MongoDB
