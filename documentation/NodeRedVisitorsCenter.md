@@ -11,8 +11,6 @@ Loook at the installed __UI Nodes__
 - Sound
   - Text to speech
 
-- MongoDB
-
 # Others
 
 - [Daycare Monitoring and Tracking System Using Intel Edison Development Kit](http://www.instructables.com/id/Daycare-Monitoring-and-Tracking-System-Using-Intel/?ALLSTEPS)
