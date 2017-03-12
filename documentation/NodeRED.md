@@ -9,6 +9,7 @@
 - [Node-RED IBM Github](https://github.com/ibm-messaging/iot-nodered)
 - [Node-RED Flows](http://flows.nodered.org/)
 - [Node-RED Documentation Installation](http://nodered.org/docs/getting-started/installation.html)
+- [Node-RED Guide](http://noderedguide.com/)
 
 Features
 
