@@ -196,6 +196,10 @@ Supported Hardware
 - Particle(Spark) Core	particle-io
 
 ```sh
+root@edison:~/nodered# npm install node-red-contrib-gpio
+```
+
+```sh
 > meshblu@2.3.2 preinstall /home/root/nodered/node_modules/node-red-contrib-gpio/node_modules/meshblu
 > node -e "try{require('./skip-install.js')}catch(e){}"
 ...
@@ -254,36 +258,18 @@ root@edison:~/nodered#
 
 ```sh
 root@edison:~/nodered# npm install node-red-contrib-grove-edison
-node-red-contrib-grove-edison@0.1.1 node_modules/node-red-contrib-grove-edison
-root@edison:~/nodered# 
-```
-
-```sh
-root@edison:~/nodered# npm install node-red-contrib-grove-edison
 -\|/-\|/-\|/-\|/-\|/-node-red-contrib-grove-edison@0.1.1 node_modules/node-red-contrib-grove-edison
 root@edison:~/nodered# 
 ```
 
-### node-red-node-upm
-
-> Node-RED nodes to talk to sensors supported by the UPM library
-
-```sh
-root@edison:~/nodered# npm install node-red-node-upm
-```
-
-```sh
--\|/-\|/-\|/-\|npm WARN deprecated node-red-node-upm@0.3.0: WARNING: This module has been renamed to node-red-contrib-upm. Please install it instead. See https://github.com/intel-iot-devkit/Node-Red-Node-UPM fo.
-/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-^C
-```
-
 ```sh
 root@edison:~/nodered# ls node_modules/
-galileo-io  node-red-contrib-gpio          node-red-node-upm
+galileo-io  node-red-contrib-gpio
 mraa        node-red-contrib-grove-edison
 node-red    node-red-node-intel-gpio
 root@edison:~/nodered# 
 ```
+
 
 ### node-red-contrib-upm
 
@@ -300,7 +286,7 @@ root@edison:~/nodered# npm install node-red-contrib-upm
 ```sh
 root@edison:~/nodered# ls node_modules/
 galileo-io  node-red-contrib-gpio          node-red-node-intel-gpio
-mraa        node-red-contrib-grove-edison  node-red-node-upm
+mraa        node-red-contrib-grove-edison
 node-red    node-red-contrib-upm
 root@edison:~/nodered# 
 ```
@@ -335,8 +321,8 @@ root@edison:~/nodered# npm install node-red-node-watson
 
 ```sh
 root@edison:~/nodered# ls node_modules/galileo-io  node-red-contrib-gpio          node-red-node-intel-gpio
-mraa        node-red-contrib-grove-edison  node-red-node-upm
-node-red    node-red-contrib-upm           node-red-node-watson
+mraa        node-red-contrib-grove-edison  node-red-node-watson
+node-red    node-red-contrib-upm
 root@edison:~/nodered# 
 ```
 
@@ -354,8 +340,8 @@ root@edison:~/nodered# npm install node-red-contrib-play-audio
 
 ```sh
 root@edison:~/nodered# ls node_modules/
-galileo-io             node-red-contrib-grove-edison  node-red-node-upm
-mraa                   node-red-contrib-play-audio    node-red-node-watson
+galileo-io             node-red-contrib-grove-edison  node-red-node-watson
+mraa                   node-red-contrib-play-audio
 node-red               node-red-contrib-upm
 node-red-contrib-gpio  node-red-node-intel-gpio
 root@edison:~/nodered# 
@@ -385,8 +371,8 @@ root@edison:~/nodered# npm install node-red-bluemix-nodes
 ```sh
 root@edison:~/nodered# ls node_modules/
 galileo-io              node-red-contrib-gpio          node-red-node-intel-gpio
-mraa                    node-red-contrib-grove-edison  node-red-node-upm
-node-red                node-red-contrib-play-audio    node-red-node-watson
+mraa                    node-red-contrib-grove-edison  node-red-node-watson
+node-red                node-red-contrib-play-audio
 node-red-bluemix-nodes  node-red-contrib-upm
 root@edison:~/nodered# 
 ```
