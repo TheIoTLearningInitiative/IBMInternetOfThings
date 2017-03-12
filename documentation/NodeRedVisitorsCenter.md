@@ -10,7 +10,8 @@ Loook at the installed __UI Nodes__
 - UPM_Sensors
 - Sound
   - Text to speech
-
+- Analysis Microsoft Cognitive Services
+  - 
 # Others
 
 - [Daycare Monitoring and Tracking System Using Intel Edison Development Kit](http://www.instructables.com/id/Daycare-Monitoring-and-Tracking-System-Using-Intel/?ALLSTEPS)
