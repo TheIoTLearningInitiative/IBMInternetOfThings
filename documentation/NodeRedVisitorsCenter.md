@@ -26,5 +26,6 @@ npm WARN deprecated i18next-client@1.10.3: you can use npm install i18next from 
 node-pre-gyp ERR! Tried to download(404): https://github.com/kelektiv/node.bcrypt.js/releases/download/v1.0.2/bcrypt_lib-v1.0.2-node-v46-lin 
 node-pre-gyp ERR! Pre-built binaries not found for bcrypt@1.0.2 and node@4.4.3 (node-v46 ABI) (falling back to source compile with node-gyp) 
 make: Entering directory '/usr/lib/node_modules/node-red/node_modules/bcrypt/build'
-
+...
+npm WARN optional dep failed, continuing fsevents@1.1.1
 ```
