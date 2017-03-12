@@ -8,6 +8,8 @@ Loook at the installed __UI Nodes__
   - split
   - join
 - UPM_Sensors
+- Sound
+  - Text to speech
 
 - MongoDB
 
