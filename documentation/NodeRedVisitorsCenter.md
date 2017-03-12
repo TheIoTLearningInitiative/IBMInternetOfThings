@@ -5,7 +5,8 @@ Loook at the installed __UI Nodes__
 - Input
   - Inject
 - Function
-  - 
+  - Split
+  - Join
 - UPM_Sensors
 
 - MongoDB
