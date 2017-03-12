@@ -40,6 +40,7 @@
     * [Input Inject + Output Debug](documentation/NodeRedInputIInjectOutputDebug.md)
     * [Input MQTT + Output Debug](documentation/NodeRedInputMqttOutputDebug.md)
     * [Watson™ Tone Analyzer Service](documentation/ProjectWatsonToneAnalyzerService.md)
+    * [Visitors Center](documentation/NodeRedVisitorsCenter.md)
 * [Cloud Foundry CLI](documentation/CloudFoundryCli.md)
 * [Messaging](documentation/Messaging.md)
 * [JazzHub](documentation/JazzHub.md)
