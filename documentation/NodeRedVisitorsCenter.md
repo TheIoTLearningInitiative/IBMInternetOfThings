@@ -18,3 +18,7 @@ Loook at the installed __UI Nodes__
 - Watson_Deprecated
 
 - MongoDB
+
+# Others
+
+echo "rfkill unblock bluetooth" >> /etc/profile
