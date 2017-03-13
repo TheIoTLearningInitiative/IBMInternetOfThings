@@ -16,6 +16,7 @@
 # Collaboration
 
 - [IBM and Cisco](http://www.ibm.com/internet-of-things/iot-news/announcements/IBM-Cisco/)
+- [Workshops by Makertorium LTD](http://lucyrogers.com/project/makertorium-ltd-2/)
 
 # Analytical
 
